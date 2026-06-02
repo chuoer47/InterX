@@ -1,0 +1,9 @@
+name: kg-cold-start
+description: >
+  Build knowledge graphs from agentic-rag evidence refs.
+  Parses evidence, maps line ranges to chunk IDs, extracts semantic
+  relationships via LLM, and writes to Kùzu graph DB.
+metadata:
+  short-description: KG cold-start from evidence
+  category: knowledge-graph
+  tags: [kg, cold-start, evidence, kuzu]

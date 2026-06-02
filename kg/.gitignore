@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+state/graph.db/
+.pytest_cache/
+*.egg-info/
+
+# test output files
+tests/kg_compare.log
+tests/kg_compare_results.json
+
+# skill logs
+.agents/**/logs/
