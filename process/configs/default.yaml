@@ -1,0 +1,55 @@
+paths:
+  manual_dir: data
+  image_dir: data/插图
+  artifact_dir: artifacts
+
+manuals:
+  exclude:
+    - README.md
+    - 手册内容总览.md
+    - 汇总英文手册.md
+    - 规范.md
+    - 已完成清单.md
+
+tokenizer:
+  encoding_name: cl100k_base
+  image_token_cost: 256
+
+chunking:
+  scheme:
+    name: process_default
+    big_target_tokens: 900
+    big_max_tokens: 1200
+    mid_target_tokens: 520
+    mid_max_tokens: 760
+    small_target_tokens: 220
+    small_max_tokens: 320
+    small_overlap_tokens: 0
+    max_images_per_small: 1
+
+api:
+  env_file: .env
+  api_key_env: KAFU_LLM_API_KEY
+  base_url_env: KAFU_LLM_BASE_URL
+
+embedding:
+  provider: dashscope_multimodal
+  model_name: qwen3-vl-embedding
+  query_prompt: "Represent this customer support question for retrieving relevant product manual passages:"
+  document_prompt: "Represent this product manual passage with its attached image when present:"
+  endpoint_path: /api/v1/services/embeddings/multimodal-embedding/multimodal-embedding
+  enable_fusion: true
+  dimension: 1024
+  batch_size: 1
+  max_images_per_request: 5
+  timeout_seconds: 60.0
+  max_retries: 3
+  retry_backoff_seconds: 1.0
+  normalize_embeddings: true
+
+vector_store:
+  provider: milvus_lite
+  collection_name: manual_chunks
+  metric_type: COSINE
+  index_type: AUTOINDEX
+  batch_size: 128

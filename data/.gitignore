@@ -1,0 +1,10 @@
+# 解压后的图片目录（使用 zip 文件）
+ch-manual/插图/
+en-manual/插图/
+
+# 不提交的内容
+find/
+en-manual/pdf/
+back/
+markdown/
+data/

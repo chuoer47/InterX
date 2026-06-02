@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.pytest_cache/
+*.egg-info/
+
+# 源手册数据（155MB，不提交到仓库）
+data/
+
+# 构建产物（254MB，可通过 build 脚本重新生成）
+artifacts/
+!artifacts/.gitkeep

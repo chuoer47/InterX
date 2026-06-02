@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manual Image/Text Audit"
+  short_description: "Audit manual image-text alignment."
+  default_prompt: "Use this project skill to audit a manual Markdown file, verify each referenced image against nearby text, fix safe structure/OCR issues, and report unresolved mismatches without deleting content."
