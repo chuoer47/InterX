@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+set -euo pipefail
+ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+cd "$ROOT"
+CMD="${1:-help}"
+shift || true
+case "$CMD" in
+  start)
+    MODE="${1:-stable}"
+    bash scripts/start_gateway.sh "$MODE"
+    ;;
+  stop)
+    bash scripts/stop_gateway.sh
+    ;;
+  status)
+    bash scripts/gateway_status.sh
+    ;;
+  probe)
+    . .venv/bin/activate
+    python scripts/routing_probe.py
+    ;;
+  monitor)
+    . .venv/bin/activate
+    nohup uvicorn scripts.local_monitor:app --host 127.0.0.1 --port 4020 > logs/local-monitor.log 2>&1 &
+    echo $! > state/local_monitor.pid
+    echo 'local monitor on http://127.0.0.1:4020'
+    ;;
+  monitor-stop)
+    if [[ -f state/local_monitor.pid ]]; then kill "$(cat state/local_monitor.pid)" || true; rm -f state/local_monitor.pid; fi
+    ;;
+  *)
+    echo 'usage: ops/interx-gateway {start [stable|multi]|stop|status|probe|monitor|monitor-stop}'
+    exit 1
+    ;;
+esac

@@ -1,0 +1,28 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.cache/
+logs/
+data/
+state/
+secrets/
+*.db
+*.sqlite
+prometheus_data/
+grafana_data/
+
+# LiteLLM generated/runtime configs (contain hardcoded keys)
+litellm/config.yaml
+litellm/config.stable.yaml
+litellm/config.multi.yaml
+
+# test results (generated)
+tests/results/
+
+# runtime generated files
+docker-compose.runtime.yml

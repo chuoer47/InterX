@@ -1,0 +1,24 @@
+model_list:
+  - model_name: mimo-v2.5-pro
+    litellm_params:
+      model: openai/os.environ/UPSTREAM_1_MODEL
+      api_base: os.environ/UPSTREAM_1_BASE_URL
+      api_key: os.environ/UPSTREAM_1_API_KEY
+      rpm: os.environ/UPSTREAM_1_RPM
+      tpm: os.environ/UPSTREAM_1_TPM
+
+litellm_settings:
+  master_key: os.environ/LITELLM_MASTER_KEY
+  set_verbose: true
+  drop_params: true
+  request_timeout: 600
+
+general_settings:
+  store_model_in_db: false
+  infer_model_from_keys: false
+  background_health_checks: false
+
+router_settings:
+  routing_strategy: simple-shuffle
+  allowed_fails: 3
+  cooldown_time: 30

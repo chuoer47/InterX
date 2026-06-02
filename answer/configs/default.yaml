@@ -1,0 +1,79 @@
+# LLM endpoints — all routed through InterX gateway
+llm:
+  env_file: .env
+  api_key_env: INTERX_GATEWAY_API_KEY
+  base_url_env: INTERX_GATEWAY_BASE_URL
+  model_name: qwen3.6-plus
+
+rewrite_llm:
+  env_file: .env
+  api_key_env: INTERX_GATEWAY_API_KEY
+  base_url_env: INTERX_GATEWAY_BASE_URL
+  model_name: qwen3-max
+
+judge_llm:
+  env_file: .env
+  api_key_env: INTERX_GATEWAY_API_KEY
+  base_url_env: INTERX_GATEWAY_BASE_URL
+  model_name: qwen3-max
+
+# Retrieval
+retrieval_top_k: 20
+mid_top_k: 5
+big_top_k: 3
+
+# Answer layers
+small_layer:
+  max_context_chars: 8000
+  max_images: 20
+  temperature: 0.1
+  max_tokens: 2048
+  timeout_seconds: 90.0
+  max_retries: 2
+  retry_backoff_seconds: 1.0
+
+mid_layer:
+  max_context_chars: 12000
+  max_images: 20
+  temperature: 0.1
+  max_tokens: 3072
+  timeout_seconds: 90.0
+  max_retries: 2
+
+big_layer:
+  max_context_chars: 16000
+  max_images: 20
+  temperature: 0.1
+  max_tokens: 3072
+  timeout_seconds: 90.0
+  max_retries: 2
+
+ensemble_layer:
+  max_context_chars: 4000
+  max_images:
+  temperature: 0.1
+  max_tokens: 4096
+  timeout_seconds: 90.0
+  max_retries: 2
+
+# Query rewrite
+query_rewrite:
+  enabled: true
+  num_variants: 3
+  temperature: 0.7
+  max_tokens: 256
+  timeout_seconds: 30.0
+  max_retries: 1
+
+# Images
+include_images: true
+image_dir: ../process/data/插图
+
+# Batch
+max_workers: 4
+
+# Knowledge graph expansion
+kg:
+  enabled: true
+  max_expanded: 8
+  graph_db_root: "../kg/state/graph.db"

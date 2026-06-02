@@ -1,0 +1,31 @@
+{
+  "annotations": {"list": []},
+  "editable": true,
+  "panels": [
+    {
+      "type": "timeseries",
+      "title": "Semantic Cache Requests",
+      "gridPos": {"h": 8, "w": 12, "x": 0, "y": 0},
+      "targets": [{"expr": "rate(semantic_cache_requests_total[5m])", "refId": "A"}]
+    },
+    {
+      "type": "timeseries",
+      "title": "Semantic Cache Hit Rate",
+      "gridPos": {"h": 8, "w": 12, "x": 12, "y": 0},
+      "targets": [{"expr": "rate(semantic_cache_hits_total[5m]) / clamp_min(rate(semantic_cache_requests_total[5m]), 0.0001)", "refId": "A"}]
+    },
+    {
+      "type": "timeseries",
+      "title": "Semantic Cache Latency",
+      "gridPos": {"h": 8, "w": 24, "x": 0, "y": 8},
+      "targets": [{"expr": "histogram_quantile(0.95, sum(rate(semantic_cache_request_seconds_bucket[5m])) by (le))", "refId": "A"}]
+    }
+  ],
+  "schemaVersion": 39,
+  "style": "dark",
+  "tags": ["interx", "gateway"],
+  "templating": {"list": []},
+  "time": {"from": "now-6h", "to": "now"},
+  "title": "InterX Gateway Overview",
+  "version": 1
+}

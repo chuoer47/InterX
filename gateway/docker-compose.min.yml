@@ -1,0 +1,13 @@
+services:
+  litellm:
+    image: ghcr.io/berriai/litellm:main-latest
+    container_name: interx-gateway-litellm
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    command: ["--config", "/app/config.yaml", "--port", "4000", "--host", "0.0.0.0", "--detailed_debug"]
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./litellm/config.multi.yaml:/app/config.yaml:ro
+      - ./state:/app/state
+      - ./logs:/app/logs
