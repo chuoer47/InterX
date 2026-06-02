@@ -1,0 +1,185 @@
+{
+  "valid_questions": 171,
+  "jieba_build_time_s": 0.3,
+  "five_build_time_s": 1.3,
+  "jieba_corpus_tokens": 303833,
+  "five_corpus_tokens": 855302,
+  "jieba_recall": {
+    "k5": 9.9,
+    "k10": 9.9,
+    "k20": 9.9
+  },
+  "five_layer_recall": {
+    "k5": 95.9,
+    "k10": 96.5,
+    "k20": 97.7
+  },
+  "improvement": {
+    "k5": 86.0,
+    "k10": 86.5,
+    "k20": 87.7
+  },
+  "diff_cases": [
+    {
+      "id": "100",
+      "question": "使用洗碗机前如何安装可折叠下层篮架？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 101,
+      "question": "如何调节洗碗机满载时上下碗篮的高度？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 102,
+      "question": "如何清洁洗碗机的进水管滤网？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 103,
+      "question": "如何清洁洗碗机的上层喷淋臂？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 104,
+      "question": "如何拆除空气净化器滤网的塑料包装？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 105,
+      "question": "如何安装空气净化器的脚轮？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 106,
+      "question": "空气净化器通常有哪些模式？如何设置？这些模式有什么特点？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 107,
+      "question": "空气净化器的室内空气质量指示灯是什么？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": "108",
+      "question": "如何清洁空气净化器的设备内外？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 109,
+      "question": "如何清洁空气净化器的滤网？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": "110",
+      "question": "如何更换空气净化器的滤网？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 111,
+      "question": "如何清洁空气净化器的灰尘传感器？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 112,
+      "question": "空气净化器需要长期存放时该怎么做？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 113,
+      "question": "如何了解这款健身单车的技术规格？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 114,
+      "question": "启动健身单车前，我需要做什么？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 115,
+      "question": "我听说买的这款健身单车配有控制台和显示功能，能为我介绍一下吗？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 116,
+      "question": "在健身单车上运动前，我需要调整什么来保证运动的舒适度？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 117,
+      "question": "使用健身单车的轻松骑行类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 118,
+      "question": "使用健身单车的山地类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    },
+    {
+      "id": 119,
+      "question": "挑战健身单车的最高难度类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "jieba_k5": false,
+      "five_k5": true,
+      "diff": "five_only"
+    }
+  ],
+  "diff_count": 151
+}

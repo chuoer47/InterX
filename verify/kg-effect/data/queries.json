@@ -1,0 +1,7 @@
+[
+  {"query": "空调制冷效果差怎么办？", "expect_kg_expansion": true},
+  {"query": "洗碗机滤网怎么清洗？", "expect_kg_expansion": true},
+  {"query": "How do I use the air fryer for the first time?", "expect_kg_expansion": true},
+  {"query": "电钻电池无法充电怎么解决？", "expect_kg_expansion": true},
+  {"query": "摩托车发动机启动不了是什么原因？", "expect_kg_expansion": true}
+]

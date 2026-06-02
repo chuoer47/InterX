@@ -1,0 +1,24 @@
+{
+  "prompt_files": {
+    "answer/router.md": ["<role>", "<classification>", "<decision_rule>", "<output_format>", "<user_question>"],
+    "answer/general_answer.md": ["<role>", "<answer_style>", "<tone>", "<output_format>"],
+    "answer/small_answer.md": ["<role>", "<evidence_rules>", "<answer_style>", "<image_rules>", "<output_format>"],
+    "answer/mid_answer.md": ["<role>", "<evidence_rules>", "<answer_style>", "<image_rules>", "<output_format>"],
+    "answer/big_answer.md": ["<role>", "<evidence_rules>", "<answer_style>", "<image_rules>", "<output_format>"],
+    "answer/ensemble.md": ["<role>", "<synthesis_rules>", "<image_rules>", "<output_format>"],
+    "answer/query_rewrite.md": ["<role>", "<task>", "<output_format>", "<input>"],
+    "answer/judge.md": ["<role>", "<grading_criteria>", "<output_format>"],
+    "chat/rewrite.md": ["<role>", "<rules>", "<output_format>", "<conversation_history>", "<user_question>"],
+    "chat/summarize.md": ["<role>", "<rules>", "<conversation_history>"]
+  },
+  "template_vars": {
+    "answer/router.md": ["{question}"],
+    "answer/query_rewrite.md": ["{num_variants}", "{question}"],
+    "chat/rewrite.md": ["{history}", "{question}"],
+    "chat/summarize.md": ["{history}"]
+  },
+  "code_checks": [
+    {"file": "answer/pipeline.py", "tags": ["<user_question>", "<retrieved_evidence>", "<available_images>", "<granularity_answers>", "<small_answer>", "<mid_answer>", "<big_answer>"]},
+    {"file": "kg/llm_client.py", "tags": ["<role>", "<rules>", "<output_format>", "<chunk_a", "<chunk_b"]}
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "total": 12,
+  "passed": 12,
+  "failed": 0,
+  "all_pass": true,
+  "results": [
+    {
+      "file": "answer/router.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/general_answer.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/small_answer.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/mid_answer.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/big_answer.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/ensemble.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/query_rewrite.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/judge.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "chat/rewrite.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "chat/summarize.md",
+      "all_ok": true,
+      "missing_tags": [],
+      "missing_vars": [],
+      "unclosed": []
+    },
+    {
+      "file": "answer/pipeline.py",
+      "all_ok": true,
+      "checks": {
+        "<user_question>": true,
+        "<retrieved_evidence>": true,
+        "<available_images>": true,
+        "<granularity_answers>": true,
+        "<small_answer>": true,
+        "<mid_answer>": true,
+        "<big_answer>": true
+      }
+    },
+    {
+      "file": "kg/llm_client.py",
+      "all_ok": true,
+      "checks": {
+        "<role>": true,
+        "<rules>": true,
+        "<output_format>": true,
+        "<chunk_a": true,
+        "<chunk_b": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "total_tests": 12,
+  "passed": 12,
+  "scenarios": {
+    "dense_failure": {
+      "tested": 3,
+      "passed": 3
+    },
+    "rerank_failure": {
+      "tested": 3,
+      "passed": 3
+    },
+    "both_failure": {
+      "tested": 3,
+      "passed": 3
+    },
+    "context_budget": {
+      "tested": 3,
+      "passed": 3
+    }
+  },
+  "cases": [
+    {
+      "scenario": "dense_failure",
+      "query": "空调制冷效果差怎么办？",
+      "normal_hits": 20,
+      "degraded_hits": 20,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "dense_failure",
+      "query": "How do I use the air fryer?",
+      "normal_hits": 20,
+      "degraded_hits": 20,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "dense_failure",
+      "query": "电钻电池怎么充电？",
+      "normal_hits": 20,
+      "degraded_hits": 20,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "rerank_failure",
+      "query": "空调制冷效果差怎么办？",
+      "normal_top3": [
+        "manual_9199cd537dcb_small_0012_0001_0000",
+        "manual_cea3fea3ecc0_small_0008_0000_0000",
+        "manual_615a6eb14309_small_0002_0000_0000"
+      ],
+      "no_rerank_top3": [
+        "manual_9199cd537dcb_small_0012_0001_0000",
+        "manual_cea3fea3ecc0_small_0008_0000_0000",
+        "manual_615a6eb14309_small_0002_0000_0000"
+      ],
+      "fallback_ok": true,
+      "order_same": true
+    },
+    {
+      "scenario": "rerank_failure",
+      "query": "How do I use the air fryer?",
+      "normal_top3": [
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0037_0000_0000",
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0003_0000_0005",
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0003_0001_0005"
+      ],
+      "no_rerank_top3": [
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0037_0000_0000",
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0003_0000_0005",
+        "Instant_Pot_Duo_Crisp_9233d99d3fae_small_0003_0001_0005"
+      ],
+      "fallback_ok": true,
+      "order_same": true
+    },
+    {
+      "scenario": "rerank_failure",
+      "query": "电钻电池怎么充电？",
+      "normal_top3": [
+        "manual_60e374acbbde_small_0003_0000_0001",
+        "manual_c5288fbd6f7c_small_0095_0000_0000",
+        "manual_60e374acbbde_small_0004_0000_0000"
+      ],
+      "no_rerank_top3": [
+        "manual_60e374acbbde_small_0003_0000_0001",
+        "manual_c5288fbd6f7c_small_0095_0000_0000",
+        "manual_60e374acbbde_small_0004_0000_0000"
+      ],
+      "fallback_ok": true,
+      "order_same": true
+    },
+    {
+      "scenario": "both_failure",
+      "query": "空调制冷效果差怎么办？",
+      "hits": 10,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "both_failure",
+      "query": "How do I use the air fryer?",
+      "hits": 10,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "both_failure",
+      "query": "电钻电池怎么充电？",
+      "hits": 10,
+      "fallback_ok": true
+    },
+    {
+      "scenario": "context_budget",
+      "budget": 2000,
+      "evidence_count": 5,
+      "actual_chars": 1947,
+      "ok": true
+    },
+    {
+      "scenario": "context_budget",
+      "budget": 5000,
+      "evidence_count": 13,
+      "actual_chars": 5000,
+      "ok": true
+    },
+    {
+      "scenario": "context_budget",
+      "budget": 10000,
+      "evidence_count": 26,
+      "actual_chars": 9996,
+      "ok": true
+    }
+  ]
+}

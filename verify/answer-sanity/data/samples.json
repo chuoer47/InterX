@@ -1,0 +1,20 @@
+[
+  {
+    "question": "空调制冷效果差怎么办？",
+    "type": "manual_cn",
+    "expect_keywords": ["制冷", "空调"],
+    "expect_has_answer": true
+  },
+  {
+    "question": "How do I use the air fryer for the first time?",
+    "type": "manual_en",
+    "expect_keywords": ["air fryer", "first time", "clean"],
+    "expect_has_answer": true
+  },
+  {
+    "question": "7天无理由退换货的政策是什么？",
+    "type": "general_cs",
+    "expect_keywords": ["退换货", "7天"],
+    "expect_has_answer": true
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "kg_available": true,
+  "total": 5,
+  "effective": 5,
+  "effectiveness_pct": 100.0,
+  "avg_expansion": 8.0,
+  "cases": [
+    {
+      "query": "空调制冷效果差怎么办？",
+      "base_hits": 20,
+      "kg_expanded": 8,
+      "has_effect": true,
+      "retrieval_s": 3.72,
+      "kg_s": 1.81
+    },
+    {
+      "query": "洗碗机滤网怎么清洗？",
+      "base_hits": 20,
+      "kg_expanded": 8,
+      "has_effect": true,
+      "retrieval_s": 0.46,
+      "kg_s": 0.95
+    },
+    {
+      "query": "How do I use the air fryer for the first time?",
+      "base_hits": 20,
+      "kg_expanded": 8,
+      "has_effect": true,
+      "retrieval_s": 0.44,
+      "kg_s": 0.99
+    },
+    {
+      "query": "电钻电池无法充电怎么解决？",
+      "base_hits": 20,
+      "kg_expanded": 8,
+      "has_effect": true,
+      "retrieval_s": 5.95,
+      "kg_s": 1.0
+    },
+    {
+      "query": "摩托车发动机启动不了是什么原因？",
+      "base_hits": 20,
+      "kg_expanded": 8,
+      "has_effect": true,
+      "retrieval_s": 4.35,
+      "kg_s": 1.2
+    }
+  ]
+}

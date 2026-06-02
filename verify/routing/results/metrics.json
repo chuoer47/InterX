@@ -1,0 +1,220 @@
+{
+  "total": 30,
+  "correct": 27,
+  "accuracy_pct": 90.0,
+  "general_accuracy_pct": 100.0,
+  "manual_accuracy_pct": 83.3,
+  "avg_latency_s": 8.66,
+  "cases": [
+    {
+      "question": "7天无理由退换货的政策是什么？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 6.65
+    },
+    {
+      "question": "我的快递到哪了？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 4.85
+    },
+    {
+      "question": "你们支持货到付款吗？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 5.75
+    },
+    {
+      "question": "我想投诉，怎么处理？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 2.37
+    },
+    {
+      "question": "你好，请问怎么注册账号？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 6.35
+    },
+    {
+      "question": "Can I return this item for a refund?",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 6.01
+    },
+    {
+      "question": "如何申请发票？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 4.91
+    },
+    {
+      "question": "可以加急发货吗？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 5.24
+    },
+    {
+      "question": "你们的客服电话是多少？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 5.16
+    },
+    {
+      "question": "请问发货用什么快递？",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 6.22
+    },
+    {
+      "question": "我想修改收货地址",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 5.54
+    },
+    {
+      "question": "How do I track my order?",
+      "expected": "general",
+      "actual": "general",
+      "correct": true,
+      "latency_s": 5.44
+    },
+    {
+      "question": "空调制冷效果差怎么办？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 2.17
+    },
+    {
+      "question": "怎么清洗洗碗机的滤网？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 2.94
+    },
+    {
+      "question": "烤箱预热需要多长时间？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 7.13
+    },
+    {
+      "question": "电钻的电池怎么充电？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 4.29
+    },
+    {
+      "question": "这款相机的最大光圈是多少？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 6.65
+    },
+    {
+      "question": "无人机不能开机是什么原因？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 8.62
+    },
+    {
+      "question": "How do I use the air fryer for the first time?",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 8.22
+    },
+    {
+      "question": "What is the warranty period for this product?",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 7.26
+    },
+    {
+      "question": "安装净水器需要什么工具？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 31.32
+    },
+    {
+      "question": "蓝牙鼠标怎么配对？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 7.7
+    },
+    {
+      "question": "蒸汽清洁机的水箱怎么加水？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 6.61
+    },
+    {
+      "question": "Roomba扫地机器人充电底座怎么摆放？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 20.16
+    },
+    {
+      "question": "产品有质量问题可以退货吗？",
+      "expected": "manual",
+      "actual": "general",
+      "correct": false,
+      "latency_s": 6.3
+    },
+    {
+      "question": "保修期内坏了怎么维修？",
+      "expected": "manual",
+      "actual": "general",
+      "correct": false,
+      "latency_s": 17.25
+    },
+    {
+      "question": "我买的产品包装破损了怎么办？",
+      "expected": "manual",
+      "actual": "general",
+      "correct": false,
+      "latency_s": 18.71
+    },
+    {
+      "question": "这个型号跟那个型号有什么区别？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 6.33
+    },
+    {
+      "question": "产品的功率是多少瓦？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 18.08
+    },
+    {
+      "question": "请问这个产品的安装需要什么工具？",
+      "expected": "manual",
+      "actual": "manual",
+      "correct": true,
+      "latency_s": 15.53
+    }
+  ]
+}

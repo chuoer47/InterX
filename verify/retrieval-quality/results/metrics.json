@@ -1,0 +1,3148 @@
+{
+  "total_questions": 350,
+  "mapped_to_chunks": 171,
+  "unmapped": 179,
+  "hit_at_5": 164,
+  "hit_at_10": 165,
+  "hit_at_20": 167,
+  "recall_at_5_pct": 95.9,
+  "recall_at_10_pct": 96.5,
+  "recall_at_20_pct": 97.7,
+  "avg_latency_s": 1.99,
+  "cases": [
+    {
+      "id": "100",
+      "question": "使用洗碗机前如何安装可折叠下层篮架？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.19
+    },
+    {
+      "id": 101,
+      "question": "如何调节洗碗机满载时上下碗篮的高度？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.91
+    },
+    {
+      "id": 102,
+      "question": "如何清洁洗碗机的进水管滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 103,
+      "question": "如何清洁洗碗机的上层喷淋臂？",
+      "lang": "zh",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 104,
+      "question": "如何拆除空气净化器滤网的塑料包装？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.78
+    },
+    {
+      "id": 105,
+      "question": "如何安装空气净化器的脚轮？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.82
+    },
+    {
+      "id": 106,
+      "question": "空气净化器通常有哪些模式？如何设置？这些模式有什么特点？",
+      "lang": "zh",
+      "gt_chunk_count": 7,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.81
+    },
+    {
+      "id": 107,
+      "question": "空气净化器的室内空气质量指示灯是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.87
+    },
+    {
+      "id": "108",
+      "question": "如何清洁空气净化器的设备内外？",
+      "lang": "zh",
+      "gt_chunk_count": 9,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 109,
+      "question": "如何清洁空气净化器的滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 15,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": "110",
+      "question": "如何更换空气净化器的滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 12,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 111,
+      "question": "如何清洁空气净化器的灰尘传感器？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 112,
+      "question": "空气净化器需要长期存放时该怎么做？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 113,
+      "question": "如何了解这款健身单车的技术规格？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 114,
+      "question": "启动健身单车前，我需要做什么？",
+      "lang": "zh",
+      "gt_chunk_count": 14,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 115,
+      "question": "我听说买的这款健身单车配有控制台和显示功能，能为我介绍一下吗？",
+      "lang": "zh",
+      "gt_chunk_count": 14,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.08
+    },
+    {
+      "id": 116,
+      "question": "在健身单车上运动前，我需要调整什么来保证运动的舒适度？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.51
+    },
+    {
+      "id": 117,
+      "question": "使用健身单车的轻松骑行类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.06
+    },
+    {
+      "id": 118,
+      "question": "使用健身单车的山地类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.11
+    },
+    {
+      "id": 119,
+      "question": "挑战健身单车的最高难度类别时，我能体验到哪些预设运动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.26
+    },
+    {
+      "id": 120,
+      "question": "如果我想编辑健身单车的用户档案，需要遵循哪些步骤？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 121,
+      "question": "我想在使用健身单车时设置心率目标，能否根据我的年龄为我推荐合适的目标心率？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.1
+    },
+    {
+      "id": 122,
+      "question": "我听说这款健身单车有体能测试程序，这是什么功能？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.02
+    },
+    {
+      "id": "123",
+      "question": "如果要给电钻充电，需要遵循哪些步骤？",
+      "lang": "zh",
+      "gt_chunk_count": 11,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 124,
+      "question": "我的DCB101型号电钻指示灯闪烁时，这些闪烁标识代表什么含义？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 126,
+      "question": "使用电钻时，如何安装单套无键夹头？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 127,
+      "question": "如果要安装和拆卸电钻的电池组，需要遵循什么步骤？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 128,
+      "question": "使用电钻的腰带挂钩和批头夹时，需要特别注意什么？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 129,
+      "question": "购买电钻后，应配备哪些附件？",
+      "lang": "zh",
+      "gt_chunk_count": 9,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": true,
+      "latency_s": 2.26
+    },
+    {
+      "id": 130,
+      "question": "电钻的三年有限保修包含哪些内容？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.88
+    },
+    {
+      "id": 131,
+      "question": "购买健身追踪器后，包装盒里应该有什么？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.87
+    },
+    {
+      "id": "132",
+      "question": "我刚发现健身追踪器电量低，该如何正确为其充电？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.19
+    },
+    {
+      "id": 133,
+      "question": "为了让健身追踪器性能更佳，日常佩戴和运动时该将其佩戴在什么位置？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 134,
+      "question": "我的健身追踪器表带太紧了，该如何扣紧表带？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 135,
+      "question": "我想取下健身追踪器，该如何正确拆卸表带？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.92
+    },
+    {
+      "id": "136",
+      "question": "我听说可以操作健身追踪器的界面，具体该遵循哪些步骤？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": "137",
+      "question": "健身追踪器能对手机的通知实现哪些功能？",
+      "lang": "zh",
+      "gt_chunk_count": 10,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.06
+    },
+    {
+      "id": 138,
+      "question": "能告诉我健身追踪器是如何追踪皮肤温度变化的吗？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 139,
+      "question": "通过运动应用，健身追踪器是如何追踪并分析我的运动情况的？",
+      "lang": "zh",
+      "gt_chunk_count": 10,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.24
+    },
+    {
+      "id": 140,
+      "question": "健身追踪器是如何测量我的心率的？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": false,
+      "latency_s": 1.97
+    },
+    {
+      "id": 141,
+      "question": "我该如何仅使用健身追踪器完成消费支付？",
+      "lang": "zh",
+      "gt_chunk_count": 10,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.91
+    },
+    {
+      "id": 142,
+      "question": "使用健身追踪器时，我可能会遇到哪些问题以及该如何解决？",
+      "lang": "zh",
+      "gt_chunk_count": 17,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 144,
+      "question": "我想给健身追踪器设置锁屏，该如何实现？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 145,
+      "question": "使用冰箱冰柜时需要注意什么？只需告诉我手册中的前五条。",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": "146",
+      "question": "给冰箱连接电源时，需要做到哪些注意事项？只需告诉我手册中的前五条。",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 153,
+      "question": "考虑到燃油高度易燃且有毒，使用发电机时我需要注意什么？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 154,
+      "question": "发电机工作后，发动机和消音器可能会发烫，这种情况下我该如何保证自身安全？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.36
+    },
+    {
+      "id": "155",
+      "question": "日常使用中，如何防止发电机触电事故的发生？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 156,
+      "question": "需要通过发电机的燃油开关旋钮供油时，我该遵循哪些步骤？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 157,
+      "question": "使用发电机时，燃油的使用前检查十分重要，该如何操作？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 158,
+      "question": "启动发电机发动机的前两个步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 159,
+      "question": "我需要给发电机连接交流电，该过程中如何保证自身安全？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.01
+    },
+    {
+      "id": "160",
+      "question": "我注意到发电机上有两种不同的开关，请为我介绍一下。",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.24
+    },
+    {
+      "id": 161,
+      "question": "我该在哪里查找并记录发电机的标识信息？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 162,
+      "question": "使用发电机的直流保护器时，我需要注意什么？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.09
+    },
+    {
+      "id": 163,
+      "question": "使用发电机前，对发动机机油进行使用前检查十分重要，正确的步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 164,
+      "question": "根据手册说明，启动发电机发动机的最后三个步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": false,
+      "latency_s": 2.01
+    },
+    {
+      "id": 165,
+      "question": "发电机的电池电量不足了，该如何正确充电？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.14
+    },
+    {
+      "id": 166,
+      "question": "我需要让发电机的发动机停机，告诉我该如何操作。",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": "167",
+      "question": "根据手册的建议，使用发电机时该如何检查火花塞？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": "168",
+      "question": "为了正确更换发电机的发动机机油，我需要遵循的前六个步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.05
+    },
+    {
+      "id": 169,
+      "question": "我在操作发电机空气滤清器时出现了失误，请告诉我正确的步骤。",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.16
+    },
+    {
+      "id": 170,
+      "question": "如果发电机的发动机无法启动，我该怎么办？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.13
+    },
+    {
+      "id": 171,
+      "question": "我需要将发电机的燃油排空，该如何正确操作？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": "172",
+      "question": "使用该发电机为对电压敏感的精密设备供电前，我需要做什么？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 173,
+      "question": "在划船或钓鱼的场景中，拖曳速度、半滑航速度和滑航速度分别指什么，它们在技巧和应用上有何不同？",
+      "lang": "zh",
+      "gt_chunk_count": 18,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.07
+    },
+    {
+      "id": 174,
+      "question": "如何在深水中登上并平衡摩托艇，确保操作的安全性和稳定性？",
+      "lang": "zh",
+      "gt_chunk_count": 7,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.8
+    },
+    {
+      "id": 175,
+      "question": "在滑航速度下驾驶摩托艇转弯时，有哪些技巧能在急转弯时保证稳定性和操控性？",
+      "lang": "zh",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 176,
+      "question": "驾驶摩托艇时，有哪些技巧能在完成大椭圆转弯、绕圈和8字行驶动作的同时，保持操控性和稳定性？",
+      "lang": "zh",
+      "gt_chunk_count": 14,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.06
+    },
+    {
+      "id": "177",
+      "question": "在驾驶摩托艇进行中低速转弯时，如何控制油门并保持行驶的稳定性和操控性？",
+      "lang": "zh",
+      "gt_chunk_count": 11,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 178,
+      "question": "如何驾驶摩托艇以拖曳速度直行和转弯，保证操作的平顺性和操控性？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 179,
+      "question": "摩托艇全加速行驶时，如何安全平稳地将其停稳？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.01
+    },
+    {
+      "id": "180",
+      "question": "驾驶摩托艇时，如何避免发生碰撞事故，保障自身和水上其他人员的安全？",
+      "lang": "zh",
+      "gt_chunk_count": 13,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 181,
+      "question": "水泵发动机安全停机的正确步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 182,
+      "question": "水泵的核心部件有哪些？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 183,
+      "question": "清洗油箱滤网的详细步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 184,
+      "question": "水泵安全排放燃油的正确步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.31
+    },
+    {
+      "id": 185,
+      "question": "水泵无法抽水的潜在原因有哪些，该如何有效诊断并解决这些问题？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.02
+    },
+    {
+      "id": "186",
+      "question": "如何为温控器设置日期和时间，以实现精准的日程和温度控制？",
+      "lang": "zh",
+      "gt_chunk_count": 14,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 187,
+      "question": "如何调整温控器的系统和风扇运行设置，以优化供暖和制冷效果？",
+      "lang": "zh",
+      "gt_chunk_count": 17,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 188,
+      "question": "如何调整温控器的程序日程，以实现高效的能源利用和温度控制？",
+      "lang": "zh",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": "189",
+      "question": "如何在不影响已编程日程的情况下，临时更改温控器的温度设置？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": "190",
+      "question": "当设备或系统出现警报界面时，应采取哪些操作？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 191,
+      "question": "针对热泵应如何修改接线，以确保连接正确且功能正常？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 192,
+      "question": "如何安全更换温控器的电池，确保更换后设备功能正常？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.01
+    },
+    {
+      "id": 193,
+      "question": "当标签与端子不匹配时，应如何正确为温控器重新接线，确保连接无误？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.82
+    },
+    {
+      "id": 194,
+      "question": "遇到温控器故障时，可采用哪些故障排除解决方案？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": false,
+      "latency_s": 1.83
+    },
+    {
+      "id": 195,
+      "question": "设备或系统中构成处理器单元的关键组件或部件有哪些？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 196,
+      "question": "耳机有哪些类型，以及如何更换耳塞？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 197,
+      "question": "为保持遮光罩的清晰度和功能性，正确的清洁步骤是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.03
+    },
+    {
+      "id": 198,
+      "question": "为确保安全且最佳的使用效果，游玩区域的推荐尺寸是多少？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.02
+    },
+    {
+      "id": 199,
+      "question": "使用和操作VR头显时应采取哪些安全预防措施，以确保用户安全和设备使用寿命？",
+      "lang": "zh",
+      "gt_chunk_count": 18,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 200,
+      "question": "功能键盘的保修政策通常包含哪些内容，又不包含哪些内容？",
+      "lang": "zh",
+      "gt_chunk_count": 15,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.16
+    },
+    {
+      "id": "201",
+      "question": "功能键盘的保修政策中，损害赔偿的除外责任或免责声明通常是什么？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 202,
+      "question": "如何设置功能键盘？",
+      "lang": "zh",
+      "gt_chunk_count": 13,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.76
+    },
+    {
+      "id": 203,
+      "question": "如何拆卸和重新安装功能键盘的轴体？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 204,
+      "question": "如何将功能键盘搭配CAM软件使用？",
+      "lang": "zh",
+      "gt_chunk_count": 11,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 205,
+      "question": "如何在硬件模式下使用功能键盘？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 206,
+      "question": "如何安装儿童电动摩托车的挡泥板？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.92
+    },
+    {
+      "id": 207,
+      "question": "如何安装儿童电动摩托车的前轮？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 208,
+      "question": "如何为蓝牙激光鼠标安装电池？",
+      "lang": "zh",
+      "gt_chunk_count": 7,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 209,
+      "question": "如何为蓝牙激光鼠标安装WIDCOMM蓝牙驱动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 210,
+      "question": "如何为蓝牙激光鼠标卸载WIDCOMM蓝牙驱动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.88
+    },
+    {
+      "id": 211,
+      "question": "如何在Windows系统中为蓝牙激光鼠标设置快速配对？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 212,
+      "question": "如何通过WIDCOMM蓝牙驱动程序为蓝牙激光鼠标设置配对？",
+      "lang": "zh",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.0
+    },
+    {
+      "id": 213,
+      "question": "如何查看蓝牙激光鼠标的电量状态？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 214,
+      "question": "如何首次为蓝牙激光鼠标使用该驱动程序？",
+      "lang": "zh",
+      "gt_chunk_count": 12,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 215,
+      "question": "如何将蓝牙激光鼠标与其他人机接口设备相连接？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 216,
+      "question": "如何拆卸烤箱门？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.11
+    },
+    {
+      "id": 217,
+      "question": "如何安装烤箱门？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": "218",
+      "question": "如何移动烤箱的顶部加热元件（仅限部分型号）？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": "219",
+      "question": "如何更换烤箱的后部灯（如有）？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 220,
+      "question": "如何使用烤箱的接油盘？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 221,
+      "question": "如何清洁烤箱外部？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 222,
+      "question": "如何使用烤箱的烤架？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 223,
+      "question": "烤箱的催化侧面板有什么作用？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 224,
+      "question": "如何使用烤箱的烤盘？",
+      "lang": "zh",
+      "gt_chunk_count": 7,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 225,
+      "question": "如何使用烤箱的烤架烤盘套装？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.87
+    },
+    {
+      "id": 226,
+      "question": "如何使用烤箱的油脂过滤器？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 227,
+      "question": "如何使用烤箱的滑动搁架？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": "228",
+      "question": "如何为混合即时相机安装肩带？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.02
+    },
+    {
+      "id": 229,
+      "question": "如何为混合即时相机装入电池？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 230,
+      "question": "如何为混合即时相机装入相纸盒？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 231,
+      "question": "如何为混合即时相机取出用完的相纸盒？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 232,
+      "question": "如何设置混合即时相机的自动打印模式？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.09
+    },
+    {
+      "id": 233,
+      "question": "如何设置混合即时相机的手动打印模式（初始设置）？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 234,
+      "question": "如何使用混合即时相机拍摄照片？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.86
+    },
+    {
+      "id": "64",
+      "question": "使用吹风机时，人员需要佩戴哪些防护装备？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": "65",
+      "question": "使用电钻的腰带挂钩和批头夹时，需要特别注意什么？",
+      "lang": "zh",
+      "gt_chunk_count": 1,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": "66",
+      "question": "使用吹风机时，如何调节化油器？",
+      "lang": "zh",
+      "gt_chunk_count": 10,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": "67",
+      "question": "吹风机冷机时，该如何启动？",
+      "lang": "zh",
+      "gt_chunk_count": 7,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.92
+    },
+    {
+      "id": "68",
+      "question": "吹风机热机时，该如何启动？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": "69",
+      "question": "该如何关闭吹风机？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": "70",
+      "question": "空调的重要组成部件有哪些？",
+      "lang": "zh",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": "71",
+      "question": "如何找到空调遥控器的按键？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 72,
+      "question": "如何给空调遥控器安装电池？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.04
+    },
+    {
+      "id": 73,
+      "question": "如何安装空调遥控器支架？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 74,
+      "question": "如何用空调快速调节室内温度？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.86
+    },
+    {
+      "id": 75,
+      "question": "如何使用空调的自清洁运行功能？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": 76,
+      "question": "如何使用空调的等离子净化功能？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 77,
+      "question": "单冷型空调如何开启自动运行模式？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.16
+    },
+    {
+      "id": 78,
+      "question": "如何使用空调的自动转换运行功能？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 79,
+      "question": "如何开启空调的节能制冷模式？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.99
+    },
+    {
+      "id": 80,
+      "question": "无遥控器时如何操作空调？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.97
+    },
+    {
+      "id": "81",
+      "question": "如何让空调实现自动重启？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": "82",
+      "question": "不同型号空调的清洁频率是多少？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 83,
+      "question": "如何清洁空调的空气滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 84,
+      "question": "如何清洁空调的3M多重防护滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.94
+    },
+    {
+      "id": 85,
+      "question": "如何清洁空调的等离子滤网？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.92
+    },
+    {
+      "id": 86,
+      "question": "如何快速组装蒸汽清洁机？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 87,
+      "question": "蒸汽清洁机有哪些实用的产品功能？如何快速上手使用？",
+      "lang": "zh",
+      "gt_chunk_count": 15,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.05
+    },
+    {
+      "id": 88,
+      "question": "如何使用蒸汽清洁机清洁硬质地面？",
+      "lang": "zh",
+      "gt_chunk_count": 10,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 89,
+      "question": "组装人体工学椅涉及哪些部件？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 90,
+      "question": "椅子的扶手使用一段时间后为什么会松动？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.04
+    },
+    {
+      "id": 91,
+      "question": "这款椅子有哪些功能？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.93
+    },
+    {
+      "id": 92,
+      "question": "洗碗机的部件有哪些？",
+      "lang": "zh",
+      "gt_chunk_count": 2,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 93,
+      "question": "首次使用时，如何将洗碗机连接到排水口？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.13
+    },
+    {
+      "id": 94,
+      "question": "使用前如何为洗碗机添加专用盐？",
+      "lang": "zh",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 95,
+      "question": "如何为洗碗机添加洗涤剂？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 96,
+      "question": "如何为洗碗机添加洗涤块？",
+      "lang": "zh",
+      "gt_chunk_count": 12,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.89
+    },
+    {
+      "id": 97,
+      "question": "如何在洗碗机中添加和使用亮碟剂以获得更好的洗涤效果？",
+      "lang": "zh",
+      "gt_chunk_count": 14,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 98,
+      "question": "哪些物品不适合在洗碗机中清洗？",
+      "lang": "zh",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.92
+    },
+    {
+      "id": 99,
+      "question": "如何根据洗碗机型号安装餐具篮？",
+      "lang": "zh",
+      "gt_chunk_count": 3,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.96
+    },
+    {
+      "id": 241,
+      "question": "If this is the first time to use airfryer, What should I do before first use?",
+      "lang": "en",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.95
+    },
+    {
+      "id": 242,
+      "question": "How to find the approval label of emission control certificate of the boat?",
+      "lang": "en",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.86
+    },
+    {
+      "id": 243,
+      "question": "How do I use the battery conversion feature before sailing?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 244,
+      "question": "How the ship steers?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 245,
+      "question": "What should I do if face over temperature warning on the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 246,
+      "question": "If I want to listen to music on my phone, how do I turn on the sound system?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 247,
+      "question": "How do I use the storage compartments if I want to store wet items while on board?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 248,
+      "question": "How to open the battery compartment when manipulating the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 249,
+      "question": "How to install an anchor light while the boat is moving?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 250,
+      "question": "How do I use the jet wash function to clean the boat after using it?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 251,
+      "question": "How do I turn on or off the water supply button on my boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 252,
+      "question": "How to remove the bimini top of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 253,
+      "question": "How do I install a bimini top on my boat if I want to use the canopy?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 254,
+      "question": "How to store the bimini top in the upright position of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 255,
+      "question": "When I am sailing, how do I check the engine oil level to ensure continued sailing?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 256,
+      "question": "How can I use the bilge pump of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 257,
+      "question": "How to perform anchor light switch check while sailing?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 258,
+      "question": "When I want to start the boat, how do I turn on the boat's engine to get the machine started?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 259,
+      "question": "How do I turn a boat while sailing?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 260,
+      "question": "How to operate the boat cross wakes and swells?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 261,
+      "question": "How do I load the boat when the cruise is over?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 262,
+      "question": "How to flush the cooling system of the boat?",
+      "lang": "en",
+      "gt_chunk_count": 49,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.89
+    },
+    {
+      "id": 263,
+      "question": "How to replace the fuse of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 264,
+      "question": "How to check the engine oil level of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 265,
+      "question": "How to use the energy saving mode of a coffee machine?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 266,
+      "question": "How to change the default setting of the energy saving mode?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 267,
+      "question": "How to program the water valume of a coffee machine?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 268,
+      "question": "How should I do if I want to empty the system before not in use, for frost protection or before maintenance?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 269,
+      "question": "How should I do if I want to reset to factory settings of the coffee machine?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 270,
+      "question": "How should I clean my coffee maker after I use it so that it can last longer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 271,
+      "question": "How to open the swim platform of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 272,
+      "question": "How to open the livewell and add water on the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 273,
+      "question": "What is the maintenance setting screen of the boat controller?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 274,
+      "question": "In the boat's steering position, what does the factory reset screen show?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 275,
+      "question": "What is the trip screen shown?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 276,
+      "question": "When I am ready to sail, if everything is ready, how do I make the boat move forward?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 277,
+      "question": "How do I check the boat's steering system when I'm driving it?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 278,
+      "question": "How should fire extinguishers be stored on board and where should they be placed?",
+      "lang": "en",
+      "gt_chunk_count": 6,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.82
+    },
+    {
+      "id": 279,
+      "question": "How to care the throttle-cable of the boat?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 280,
+      "question": "How do I charge the camera battery when I'm not using it?",
+      "lang": "en",
+      "gt_chunk_count": 12,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.9
+    },
+    {
+      "id": 281,
+      "question": "How to install the camera battery when another one is power off?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 282,
+      "question": "How do I connect the camera using a household power socket?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 283,
+      "question": "How do you mount the lens of a camera when preparing for photography?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 284,
+      "question": "How do you install the card into a camera before photography?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 285,
+      "question": "Have you ever wondered how to remove the camera shutter button? Understanding this process can enhance your photography experience and allow for quick repairs!",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 286,
+      "question": "How do I replace the camera's date/time battery?",
+      "lang": "en",
+      "gt_chunk_count": 8,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 2.05
+    },
+    {
+      "id": 287,
+      "question": "How to set an off-center subject mode of a camera?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 288,
+      "question": "Before taking photos, we need to know How to use the eyepiece cover of the camera?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 289,
+      "question": "How do I select the AF Mode when before taking a picture?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 290,
+      "question": "How to set the camera model to \\P\\ model?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 291,
+      "question": "After or during shooting, how can I view the camera image on TV for better clarity?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 292,
+      "question": "How can I delete a single image from my camera if I don't like the photo?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 293,
+      "question": "How can I erase all images from my camera if I don't like these.",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 294,
+      "question": "How do I print photos using the camera's CP direct method after taking them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 295,
+      "question": "How do you set up the camera to fine tune the model when using it?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 296,
+      "question": "After the earphones is in my hand, what are the components I should have?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 297,
+      "question": "If the case battery of earphones is low, how can I charge is?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 298,
+      "question": "When bluetooth are pairing and connecting, what scenarios I might encounter?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 299,
+      "question": "What are the two main controling functions of earphones?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 300,
+      "question": "Besides the two main controling functions, what other functions of the earphones can I operate?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 301,
+      "question": "If my earphones won't work, how can I reset them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 302,
+      "question": "What are the maintenance and care policies of the earphones?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 303,
+      "question": "From three different observing views, what buttons and interfaces should this eReader have?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 304,
+      "question": "What do the functions of Main Menu and Browser History of the eReader can do?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 305,
+      "question": "When in eBook mode of this eReader, what will happen after pressing \"M\" botton?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 306,
+      "question": "If I want to listen to music using this eReader, what should I do?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 307,
+      "question": "Can this eReader record voice? If so, how do I operate this feature?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 308,
+      "question": "I can't find the way to play video using this eReader, can you tell me how to do that?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 309,
+      "question": "Can this eReader become a photo viewer? If so, how do I operate this feature?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 310,
+      "question": "When using this eReader, what kinds of trobles might I encounter and how to solve them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 311,
+      "question": "When connecting the fax, hwo can I properly finish the procedure?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 312,
+      "question": "What should I pay attention to in order to ensure my safety when using this fax?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 313,
+      "question": "In order to keep your fingers safe, what should you pay attention to about the fax?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 314,
+      "question": "I'm about to move this fax. Is there anything I should pay attention to?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 315,
+      "question": "Are caution or warning labels inside the fax important? If not, can I remove them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 316,
+      "question": "If I'm in Canada, is there any statement of the fax vailable in my country?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 317,
+      "question": "When using the grill, how to connect regulator to the LP Tank?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 318,
+      "question": "To engure my safety when using the grill, how to do leak testing on valves, hose and regulatol?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 319,
+      "question": "What should I pay attention to on ablout indirect cooking using the grill?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 320,
+      "question": "What are the first three steps in assembly process of the grill according to the manual?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 321,
+      "question": "Can you share me some safety tips using the grill?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 322,
+      "question": "What are identification numbers of my jetski? I don't understand that.",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 323,
+      "question": "I've heard that my jetski has cruising limitations. Please introduce them.",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 324,
+      "question": "I've heard that my jetski has cruising limitations. Please introduce them.",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 325,
+      "question": "What are the operation requirements if I want to use my jetski?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 326,
+      "question": "What kinds of watercraft characteristics does my jetski have?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 327,
+      "question": "When encountering vessels driving my jetski, what rules should I obey?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 328,
+      "question": "I'd like to remove and install the seat of my jetski, what steps should I follow?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 329,
+      "question": "In daily usage, how to open and close the hood of the jetski?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 330,
+      "question": "I've noticed that there are two different kinds of filler caps on the jetski. How to remove them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 331,
+      "question": "If I need to manipulate the two kinds of engine switches on the jetski, what should I do?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 332,
+      "question": "There are two kinds of levers on the jetski, how to manipulate them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 333,
+      "question": "What information should I obtain about Quick Shift Trim System (QSTS) selector when using my jetski",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 334,
+      "question": "What do fuel meter and hour meter on my jetski do?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 344,
+      "question": "Inspecting fuel filter and fuel tank of my jetski is important. How to do that?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 345,
+      "question": "How to adjust the adjustable sponson of my jetski if needed?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 346,
+      "question": "The intake and impeller of my jetski are dirty. How to clean them?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 347,
+      "question": "How to start my jetski in different situations?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 348,
+      "question": "What are basic steps to board my jetski with a passenger in deep water?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 349,
+      "question": "If it is difficult to balance the jetski at a stand still, what should I do?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 350,
+      "question": "What is the max load of the jetski?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 351,
+      "question": "What is the overview of the base station of a landline?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 352,
+      "question": "How can you connect the base station of a landline?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 353,
+      "question": "How can you install the handset of a landline?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 354,
+      "question": "How can you check the battery level of a landline?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 355,
+      "question": "What can you do if your landline is in searching status?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 356,
+      "question": "How can you know about the current status with different LED indicator behavior on a landline?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 357,
+      "question": "How can you know about the current status with different LED indicator behavior on the base station of a landline?",
+      "lang": "en",
+      "gt_chunk_count": 5,
+      "retrieved_count": 20,
+      "hit_at_5": true,
+      "hit_at_10": true,
+      "hit_at_20": true,
+      "latency_s": 1.98
+    },
+    {
+      "id": 358,
+      "question": "How can you lower the roll bar of a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 359,
+      "question": "How can you adjust the rear-shock assemblies for a lawn mower with suspension system only?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 360,
+      "question": "How can you adjust the height of cut for a lawn mower with an electric deck lift?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 361,
+      "question": "How can you load a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 362,
+      "question": "How can you unload a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 363,
+      "question": "How can you change the engine oil of a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 364,
+      "question": "How can you remove the filters of a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 365,
+      "question": "How can you replace the mower belt of a lawn mower?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 366,
+      "question": "How can you set up control of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 367,
+      "question": "How can you set the light timer of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 368,
+      "question": "How can you set yout favorite recipe with a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 369,
+      "question": "How can you reheat food with a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 370,
+      "question": "How can you use auto defrost of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 371,
+      "question": "How can you clean the grease filter of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 372,
+      "question": "How can you replace the charcoal filter of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 373,
+      "question": "How can you replace the oven light of a over-the-range microwave?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 374,
+      "question": "How can you set the PCI Express 3.0 x16 slots of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 375,
+      "question": "How can you set the jumpers of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 376,
+      "question": "How can you set the rear panel connectors of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 377,
+      "question": "How can you set the onboard LED of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 378,
+      "question": "How can you update the BIOS file of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 379,
+      "question": "How can you create RAID of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 380,
+      "question": "How can you use SATA ODD & USB devices to install an operating system for a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 381,
+      "question": "How can you secure the motherboard to the chassis?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 382,
+      "question": "How can you prepare the installation of Central Processing Unit (CPU) for a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 383,
+      "question": "How do you know about system memory of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 384,
+      "question": "How do you know about Serial port connector (10-1 pin COM) of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 385,
+      "question": "How do you know about TPM connector (14-1 pin TPM) for a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 386,
+      "question": "How do you know about Thermal sensor connector (2-pin T_SENSOR) of a motherboard?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 387,
+      "question": "How can you set quick release for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 388,
+      "question": "How can you set pressure cooking lid for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 389,
+      "question": "How can you set float valve for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 390,
+      "question": "What do you know about anti-block shield for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 391,
+      "question": "How can you set steam release valve for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 392,
+      "question": "How can you set anti-block shield for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 393,
+      "question": "How can you set silicone cap and float valve for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 394,
+      "question": "How can you Install the condensation collector for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 395,
+      "question": "How can you install the sealing ring for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 396,
+      "question": "How can you remove silicone sealing ring for a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 397,
+      "question": "What do you know about sealing ring of a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 398,
+      "question": "What do you know about steam release valve of a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 399,
+      "question": "What do you know about quick release button of a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 400,
+      "question": "What can you know about natural release(NRorNPR) of a multi-use pressure cooker and air fryer?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 401,
+      "question": "What is the robot anatomy of the vacuum?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 402,
+      "question": "What are the two primary modes available on a vacuum cleaner that can be used to tailor its performance to meet different home cleaning needs?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 403,
+      "question": "What is the proper procedure for emptying the vacuum cleaner's bin?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 404,
+      "question": "What is the correct procedure for cleaning the vacuum cleaner filter?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 405,
+      "question": "What is the proper procedure for cleaning the full bin sensors on a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 406,
+      "question": "What is the correct procedure for cleaning the extractors (brushes or rollers) on a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 407,
+      "question": "What is the proper procedure for cleaning the sensors and charging contacts on a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 408,
+      "question": "What is the correct procedure for positioning the home base of a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 409,
+      "question": "What is the proper procedure for cleaning the front caster wheel of a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 410,
+      "question": "What is the correct procedure for cleaning the side brush of a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 411,
+      "question": "What is the function of the dual-mode virtual wall barrier on a vacuum cleaner?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 412,
+      "question": "What are the troubleshooting steps if the vacuum indicates a problem?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 413,
+      "question": "What are the detailed instructions for T-rail mounting of a camera or equipment?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 414,
+      "question": "What are the steps to power the camera?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 415,
+      "question": "What is the proper way to use the brake lever and brake button?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 416,
+      "question": "What are the essential preparation checks to perform before using a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 417,
+      "question": "What are the detailed steps to start the engine of a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 418,
+      "question": "What is a V-BeltHolder?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 419,
+      "question": "What are the steps to adjust the throttle cable on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 420,
+      "question": "What is the proper way to use the steering system on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 421,
+      "question": "What are the correct steps to turn using a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 422,
+      "question": "What are the proper techniques for riding uphill on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 423,
+      "question": "What are the proper techniques for riding downhill on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 424,
+      "question": "What are the correct techniques for crossing a slope on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 425,
+      "question": "What are the steps to inspect the spark plug on a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 426,
+      "question": "What are the steps to clean a snowmobile?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 427,
+      "question": "What are the best methods for memorizing communication channels using a manual program?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 428,
+      "question": "What are the common causes and conditions that can lead to poor reception in television or radio signals?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 429,
+      "question": "What are the steps to enable and customize captions and on-screen text settings on a television?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 430,
+      "question": "What are the steps to properly connect and set up an outdoor antenna for optimal signal reception?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 431,
+      "question": "What are the steps to properly connect a DVD player to a television or audio system for optimal performance?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 432,
+      "question": "What are the key factors to check when troubleshooting technical issues or malfunctions?",
+      "lang": "en",
+      "gt_chunk_count": 4,
+      "retrieved_count": 20,
+      "hit_at_5": false,
+      "hit_at_10": false,
+      "hit_at_20": false,
+      "latency_s": 2.02
+    },
+    {
+      "id": 433,
+      "question": "What safety precautions should be followed to ensure safe operation during this process?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 434,
+      "question": "How do you adjust the intensity settings on an electric toothbrush to suit your oral care needs?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 435,
+      "question": "What are the steps to activate and deactivate the various features on an electric toothbrush for customized usage?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    },
+    {
+      "id": 436,
+      "question": "What are the steps to charge an electric toothbrush when it is inside a travel case, and how do you ensure it charges properly?",
+      "lang": "en",
+      "gt_chunks": 0,
+      "mapped": false
+    }
+  ]
+}

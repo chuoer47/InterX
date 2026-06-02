@@ -1,0 +1,18 @@
+{
+  "exact_match": {
+    "total": 6,
+    "correct": 6,
+    "accuracy_pct": 100.0
+  },
+  "semantic_match": {
+    "total": 6,
+    "correct": 4,
+    "accuracy_pct": 67.0,
+    "model": "mimo-v2.5-pro",
+    "threshold": 0.92,
+    "misses": [
+      {"a": "How to clean the air conditioner filter?", "b": "空调滤网怎么清洗？", "reason": "跨语言等价判断失败，confidence=0.00"},
+      {"a": "空调制冷差怎么办？", "b": "空调制冷效果不好该如何处理？", "reason": "同义改写未识别，confidence=0.00"}
+    ]
+  }
+}
