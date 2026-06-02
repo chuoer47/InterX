@@ -1,0 +1,16 @@
+{
+  "id": 422,
+  "question": "What are the proper techniques for riding uphill on a snowmobile?",
+  "content": "1. Practice first on gentle slopes, and attempt more difficult climbs only after you have developed the skill.\n2. As you approach the hill, accelerate before starting the climb, then reduce the throttle opening to prevent track slippage.\n3. Keep your weight on the uphill side at all times. For a straight uphill climb, lean forward; on steeper inclines, stand on the running boards and lean forward over the handlebars.\n4. Slow down as you reach the crest, and be ready for obstacles, sharp drops, or other people or vehicles on the other side.\n5. If you cannot continue uphill, do not spin the track. Stop the engine, set the parking brake, pull the rear of the snowmobile around until it points downhill, and do not get on the downhill side of the machine. Then restart the engine, release the parking brake, and descend the hill.\nSide hills and steep slopes are not recommended for a beginner or novice snowmobiler.",
+  "images": [],
+  "ret": "\"1. Practice first on gentle slopes, and attempt more difficult climbs only after you have developed the skill.\\n2. As you approach the hill, accelerate before starting the climb, then reduce the throttle opening to prevent track slippage.\\n3. Keep your weight on the uphill side at all times. For a straight uphill climb, lean forward; on steeper inclines, stand on the running boards and lean forward over the handlebars.\\n4. Slow down as you reach the crest, and be ready for obstacles, sharp drops, or other people or vehicles on the other side.\\n5. If you cannot continue uphill, do not spin the track. Stop the engine, set the parking brake, pull the rear of the snowmobile around until it points downhill, and do not get on the downhill side of the machine. Then restart the engine, release the parking brake, and descend the hill.\\nSide hills and steep slopes are not recommended for a beginner or novice snowmobiler.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1081",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1083",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1085",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1087"
+  ],
+  "status": "answered",
+  "notes": "Text-only answer. Nearby images are for turning, downhill riding, and side-hill riding, not the uphill procedure."
+}

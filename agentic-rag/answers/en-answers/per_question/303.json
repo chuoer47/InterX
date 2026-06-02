@@ -1,0 +1,27 @@
+{
+  "id": 303,
+  "question": "From three different observing views, what buttons and interfaces should this eReader have?",
+  "content": "From the front view, the eReader has a TFT LCD display, number buttons, Home/ESC, Prev/Next page controls, Zoom in/out, Rotate, Navigation/Menu, Play/Pause, Power, Volume +, Volume -, a 3.5 mm earphone jack, USB port, Micro SD card reader, reset On/Off switch, and speaker.<PIC>\nThe navigation-button view breaks the Navigation/Menu control into Up, Down, Left, Right, and the central M Menu/confirm button.<PIC>\nThe bottom view shows the power switch, MIC/mic hole, TF-card slot, earphone jack, and mini USB connector.<PIC>",
+  "images": [
+    "Manual13_0",
+    "Manual13_1",
+    "Manual13_2"
+  ],
+  "ret": "\"From the front view, the eReader has a TFT LCD display, number buttons, Home/ESC, Prev/Next page controls, Zoom in/out, Rotate, Navigation/Menu, Play/Pause, Power, Volume +, Volume -, a 3.5 mm earphone jack, USB port, Micro SD card reader, reset On/Off switch, and speaker.<PIC>\\nThe navigation-button view breaks the Navigation/Menu control into Up, Down, Left, Right, and the central M Menu/confirm button.<PIC>\\nThe bottom view shows the power switch, MIC/mic hole, TF-card slot, earphone jack, and mini USB connector.<PIC>\",[\"Manual13_0\", \"Manual13_1\", \"Manual13_2\"]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:64",
+    "agentic-rag/en-manual/Color E-Reader.md:62",
+    "agentic-rag/en-manual/Color E-Reader.md:64",
+    "agentic-rag/en-manual/Color E-Reader.md:66",
+    "agentic-rag/en-manual/Color E-Reader.md:68",
+    "agentic-rag/en-manual/Color E-Reader.md:84",
+    "agentic-rag/en-manual/Color E-Reader.md:86",
+    "agentic-rag/en-manual/Color E-Reader.md:88",
+    "agentic-rag/en-manual/Color E-Reader.md:90",
+    "agentic-rag/en-manual/Color E-Reader.md:120",
+    "agentic-rag/en-manual/Color E-Reader.md:122"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Device Description front, navigation-button, and bottom views; the three selected images correspond one-to-one with the three <PIC> placeholders."
+}

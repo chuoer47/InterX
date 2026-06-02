@@ -1,0 +1,16 @@
+{
+  "id": 275,
+  "question": "What is the trip screen shown?",
+  "content": "The trip screen is a multi-function display page for engine-operation hours, fuel-consumption, and trip data. The shown screen has a menu, scrollbar, and Reset button; its visible four menu entries are water temperature, average fuel economy, trip distance, and fuel used.<PIC> The menu shows four items at a time; scroll with the scrollbar. Touch and hold an item to reset it, or tap Reset to reset all resettable items; asterisked items cannot be reset.",
+  "images": [
+    "Manual09_69"
+  ],
+  "ret": "\"The trip screen is a multi-function display page for engine-operation hours, fuel-consumption, and trip data. The shown screen has a menu, scrollbar, and Reset button; its visible four menu entries are water temperature, average fuel economy, trip distance, and fuel used.<PIC> The menu shows four items at a time; scroll with the scrollbar. Touch and hold an item to reset it, or tap Reset to reset all resettable items; asterisked items cannot be reset.\",[\"Manual09_69\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:735-745",
+    "Manual09_69"
+  ],
+  "status": "answered",
+  "notes": "Exact Trip screen section found in Yamaha 210FSH 2021 manual. Manual09_69 directly shows the labeled trip screen with menu, scrollbar, Reset button, and the visible four menu entries."
+}

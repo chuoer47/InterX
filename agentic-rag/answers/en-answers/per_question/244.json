@@ -1,0 +1,25 @@
+{
+  "id": 244,
+  "question": "How the ship steers?",
+  "content": "The boat steers by turning the steering wheel in the direction you want to travel, left or right.<PIC>\nTurning the wheel changes the angle of the jet thrust nozzles at the rear of the boat, and the articulating keel moves with those nozzles, changing the boat's direction.<PIC>\nSteering strength depends on jet thrust: more throttle produces a sharper turn, less throttle produces a gradual turn. Above trolling speed, if you pull the remote control levers back to idle or neutral, steering response rapidly decreases and the boat may not respond to the steering wheel until throttle is applied again. At trolling speed, it can turn gradually using idle thrust. Because the boat steers from the stern, the stern swings opposite the desired turn.",
+  "images": [
+    "Manual09_52",
+    "Manual09_53"
+  ],
+  "ret": "\"The boat steers by turning the steering wheel in the direction you want to travel, left or right.<PIC>\\nTurning the wheel changes the angle of the jet thrust nozzles at the rear of the boat, and the articulating keel moves with those nozzles, changing the boat's direction.<PIC>\\nSteering strength depends on jet thrust: more throttle produces a sharper turn, less throttle produces a gradual turn. Above trolling speed, if you pull the remote control levers back to idle or neutral, steering response rapidly decreases and the boat may not respond to the steering wheel until throttle is applied again. At trolling speed, it can turn gradually using idle thrust. Because the boat steers from the stern, the stern swings opposite the desired turn.\",[\"Manual09_52\", \"Manual09_53\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "658-671",
+      "note": "Steering section explains turning the steering wheel, jet thrust nozzle angle, articulating keel movement, throttle requirement, and stern swing."
+    },
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1963-1981",
+      "note": "Turning the boat section explains thrust plus steering wheel position, sharper turns with more throttle, reduced steering at idle/neutral, trolling-speed exception, and no steering without thrust."
+    }
+  ],
+  "status": "answered",
+  "notes": "Used Manual09_52 for the steering wheel control and Manual09_53 for the jet thrust nozzles/articulating keel. PIC count is 2 and images count is 2."
+}

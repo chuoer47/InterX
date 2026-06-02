@@ -1,0 +1,32 @@
+{
+  "id": 317,
+  "question": "When using the grill, how to connect regulator to the LP Tank?",
+  "content": "1. Make sure the LP tank is properly secured on the grill, turn all grill control knobs to OFF, and turn the LP tank OFF by turning the OPD hand wheel clockwise to a full stop.\n2. Remove the protective cap from the LP tank valve, keeping the cap and strap supplied with the valve. The valve uses the OPD hand wheel and Type 1 threaded outlet shown here.<PIC>\n3. Do not use a POL transport plug with external threads; it defeats the valve safety feature.<PIC>\n4. Hold the regulator straight in line with the LP tank valve, insert the regulator nipple into the valve, and hand-tighten the coupling nut so the connection is not cross-threaded. The nipple must be centered in the LP tank valve.<PIC>\n5. Turn the coupling nut clockwise to a full stop. The regulator seals on the back-check feature in the LP tank valve, so some resistance is normal; then turn it another one-half to three-quarters turn to complete the connection. Tighten by hand only; do not use tools.\n6. If the connection cannot be completed, disconnect the regulator and repeat the centering and tightening steps. If it still cannot be completed, do not use the regulator.\nDo not insert tools or foreign objects into the valve outlet or safety relief valve. If a leak is detected, stop and call the fire department; if you cannot stop a gas leak, immediately close the LP tank valve and call an LP gas supplier or the fire department.",
+  "images": [
+    "Manual19_16",
+    "Manual19_17",
+    "Manual19_18"
+  ],
+  "ret": "\"1. Make sure the LP tank is properly secured on the grill, turn all grill control knobs to OFF, and turn the LP tank OFF by turning the OPD hand wheel clockwise to a full stop.\\n2. Remove the protective cap from the LP tank valve, keeping the cap and strap supplied with the valve. The valve uses the OPD hand wheel and Type 1 threaded outlet shown here.<PIC>\\n3. Do not use a POL transport plug with external threads; it defeats the valve safety feature.<PIC>\\n4. Hold the regulator straight in line with the LP tank valve, insert the regulator nipple into the valve, and hand-tighten the coupling nut so the connection is not cross-threaded. The nipple must be centered in the LP tank valve.<PIC>\\n5. Turn the coupling nut clockwise to a full stop. The regulator seals on the back-check feature in the LP tank valve, so some resistance is normal; then turn it another one-half to three-quarters turn to complete the connection. Tighten by hand only; do not use tools.\\n6. If the connection cannot be completed, disconnect the regulator and repeat the centering and tightening steps. If it still cannot be completed, do not use the regulator.\\nDo not insert tools or foreign objects into the valve outlet or safety relief valve. If a leak is detected, stop and call the fire department; if you cannot stop a gas leak, immediately close the LP tank valve and call an LP gas supplier or the fire department.\",[\"Manual19_16\", \"Manual19_17\", \"Manual19_18\"]",
+  "manual_guess": "Outdoor Grill.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Outdoor Grill.md:216",
+    "agentic-rag/en-manual/Outdoor Grill.md:218",
+    "agentic-rag/en-manual/Outdoor Grill.md:220",
+    "agentic-rag/en-manual/Outdoor Grill.md:222",
+    "agentic-rag/en-manual/Outdoor Grill.md:224",
+    "agentic-rag/en-manual/Outdoor Grill.md:226",
+    "agentic-rag/en-manual/Outdoor Grill.md:228",
+    "agentic-rag/en-manual/Outdoor Grill.md:230",
+    "agentic-rag/en-manual/Outdoor Grill.md:232",
+    "agentic-rag/en-manual/Outdoor Grill.md:234",
+    "agentic-rag/en-manual/Outdoor Grill.md:236",
+    "agentic-rag/en-manual/Outdoor Grill.md:238",
+    "agentic-rag/en-manual/Outdoor Grill.md:242",
+    "agentic-rag/en-manual/Outdoor Grill.md:246",
+    "agentic-rag/en-manual/Outdoor Grill.md:248",
+    "agentic-rag/en-manual/Outdoor Grill.md:250"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Outdoor Grill 'Connecting Regulator To The LP Tank' section. Selected only figures that materially support the valve parts, forbidden plug, and straight-line regulator connection."
+}

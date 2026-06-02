@@ -1,0 +1,19 @@
+{
+  "id": 409,
+  "question": "What is the proper procedure for cleaning the front caster wheel of a vacuum cleaner?",
+  "content": "Clean the front caster wheel once per month.\n1. Pull firmly on the front wheel module to remove it from the robot.\n2. Pull firmly on the wheel to remove it from its housing; the wheel, axle, and housing are the parts shown here.<PIC>\n3. Remove debris from inside the wheel cavity.\n4. Reinstall all parts and make sure the wheel clicks back into place.\nImportant: a front wheel clogged with hair and debris could damage the floor. If the wheel does not spin freely after cleaning, contact Customer Care.",
+  "images": [
+    "Manual32_15"
+  ],
+  "ret": "\"Clean the front caster wheel once per month.\\n1. Pull firmly on the front wheel module to remove it from the robot.\\n2. Pull firmly on the wheel to remove it from its housing; the wheel, axle, and housing are the parts shown here.<PIC>\\n3. Remove debris from inside the wheel cavity.\\n4. Reinstall all parts and make sure the wheel clicks back into place.\\nImportant: a front wheel clogged with hair and debris could damage the floor. If the wheel does not spin freely after cleaning, contact Customer Care.\",[\"Manual32_15\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:178",
+    "agentic-rag/en-manual/Roomba i5.md:191",
+    "agentic-rag/en-manual/Roomba i5.md:252",
+    "agentic-rag/en-manual/Roomba i5.md:259",
+    "agentic-rag/en-manual/Roomba i5.md:261"
+  ],
+  "status": "answered",
+  "notes": "Front caster wheel procedure and caution are stated in the Roomba i5 care section. Manual32_15 labels the wheel, axle, and housing used in the removal step."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 251,
+  "question": "How do I turn on or off the water supply button on my boat?",
+  "content": "Use the jet wash switch to start or stop jet wash water flow, and use the shut-off valve to open or close the system water supply.\n1. Connect the coil hose to the hose fitting and start the engines.\n2. Push the jet wash switch. The water supply starts about 5 seconds later; push the same switch again to stop using the jet wash. The jet wash switch is the upper rocker switch labeled JET WASH.<PIC>\n3. To open or close the water-supply shut-off valve, stop the engines first, open the rear platform hatch, and remove the inspection cover.\n4. Turn the shut-off valve 90 degrees clockwise to turn the water supply on, or 90 degrees counterclockwise to turn it off. The shut-off valve is behind the inspection cover under the rear platform hatch.<PIC>\n5. Reinstall the inspection cover and close the rear platform hatch.\nThe jet wash system must be used only by a passenger who is not operating the boat. If the system will not be used for an extended period, leave the shut-off valve closed; if water leaks or you notice another problem, close it immediately.",
+  "images": [
+    "Manual09_174",
+    "Manual09_180"
+  ],
+  "ret": "\"Use the jet wash switch to start or stop jet wash water flow, and use the shut-off valve to open or close the system water supply.\\n1. Connect the coil hose to the hose fitting and start the engines.\\n2. Push the jet wash switch. The water supply starts about 5 seconds later; push the same switch again to stop using the jet wash. The jet wash switch is the upper rocker switch labeled JET WASH.<PIC>\\n3. To open or close the water-supply shut-off valve, stop the engines first, open the rear platform hatch, and remove the inspection cover.\\n4. Turn the shut-off valve 90 degrees clockwise to turn the water supply on, or 90 degrees counterclockwise to turn it off. The shut-off valve is behind the inspection cover under the rear platform hatch.<PIC>\\n5. Reinstall the inspection cover and close the rear platform hatch.\\nThe jet wash system must be used only by a passenger who is not operating the boat. If the system will not be used for an extended period, leave the shut-off valve closed; if water leaks or you notice another problem, close it immediately.\",[\"Manual09_174\", \"Manual09_180\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1385",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1389",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1393",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1399",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1405",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1407",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1413",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1425",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1429",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1433",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1435",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1437"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH jet wash section. Included the jet wash switch because the question says button, and included the shut-off valve procedure because the manual's water-supply on/off procedure uses the valve."
+}

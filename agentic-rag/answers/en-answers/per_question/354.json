@@ -1,0 +1,20 @@
+{
+  "id": 354,
+  "question": "How can you check the battery level of a landline?",
+  "content": "Check the handset display. The battery icon on the screen shows the current battery level.<PIC>\nWhen the handset is off the base station or charger, the bars in the battery icon show the level from full to low. When the handset is on the base station or charger, the bars keep scrolling until charging is complete. If the empty battery icon flashes and you hear an alert tone, the battery is low and needs recharging.<PIC>",
+  "images": [
+    "Manual22_28",
+    "Manual22_30"
+  ],
+  "ret": "\"Check the handset display. The battery icon on the screen shows the current battery level.<PIC>\\nWhen the handset is off the base station or charger, the bars in the battery icon show the level from full to low. When the handset is on the base station or charger, the bars keep scrolling until charging is complete. If the empty battery icon flashes and you hear an alert tone, the battery is low and needs recharging.<PIC>\",[\"Manual22_28\", \"Manual22_30\"]",
+  "manual_guess": "Philips XL490 XL495.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:311",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:313",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:315",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:317",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:329"
+  ],
+  "status": "answered",
+  "notes": "The answer uses the manual's Check the battery level section and the display-icon table. Images Manual22_28 and Manual22_30 show the battery icon location and icon meanings."
+}

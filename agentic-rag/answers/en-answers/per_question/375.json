@@ -1,0 +1,30 @@
+{
+  "id": 375,
+  "question": "How can you set the jumpers of a motherboard?",
+  "content": "1. Turn OFF the computer and unplug the power cord before changing jumper settings.\n2. To clear RTC RAM on the 2-pin CLRTC header, short the two pins with a metal object such as a screwdriver, plug the power cord back in, turn the computer on, then hold down the <Del> key during boot to enter BIOS Setup and reenter data. The CLRTC illustration identifies the two-pin header, with +3V_BAT and GND pins, on the motherboard.<PIC>\n3. To set the 3-pin CPU Over Voltage jumper (CPU_OV), place the jumper cap on pins 2-3 to enable higher CPU voltage, or on pins 1-2 to return to the default CPU voltage setting. The CPU_OV illustration labels pins 1-2 as Disable/default and pins 2-3 as Enable.<PIC>\nIf clearing RTC RAM does not work, remove the onboard battery and short the CLRTC pins again, then reinstall the battery. If the system hangs because of overclocking, shut down and reboot so CPU Parameter Recall resets parameter settings automatically; you do not need to clear RTC.",
+  "images": [
+    "Manual25_33",
+    "Manual25_34"
+  ],
+  "ret": "\"1. Turn OFF the computer and unplug the power cord before changing jumper settings.\\n2. To clear RTC RAM on the 2-pin CLRTC header, short the two pins with a metal object such as a screwdriver, plug the power cord back in, turn the computer on, then hold down the <Del> key during boot to enter BIOS Setup and reenter data. The CLRTC illustration identifies the two-pin header, with +3V_BAT and GND pins, on the motherboard.<PIC>\\n3. To set the 3-pin CPU Over Voltage jumper (CPU_OV), place the jumper cap on pins 2-3 to enable higher CPU voltage, or on pins 1-2 to return to the default CPU voltage setting. The CPU_OV illustration labels pins 1-2 as Disable/default and pins 2-3 as Enable.<PIC>\\nIf clearing RTC RAM does not work, remove the onboard battery and short the CLRTC pins again, then reinstall the battery. If the system hangs because of overclocking, shut down and reboot so CPU Parameter Recall resets parameter settings automatically; you do not need to clear RTC.\",[\"Manual25_33\", \"Manual25_34\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:375",
+    "agentic-rag/en-manual/Motherboard.md:381",
+    "agentic-rag/en-manual/Motherboard.md:383",
+    "agentic-rag/en-manual/Motherboard.md:387",
+    "agentic-rag/en-manual/Motherboard.md:389",
+    "agentic-rag/en-manual/Motherboard.md:391",
+    "agentic-rag/en-manual/Motherboard.md:393",
+    "agentic-rag/en-manual/Motherboard.md:395",
+    "agentic-rag/en-manual/Motherboard.md:397",
+    "agentic-rag/en-manual/Motherboard.md:399",
+    "agentic-rag/en-manual/Motherboard.md:401",
+    "agentic-rag/en-manual/Motherboard.md:403",
+    "agentic-rag/en-manual/Motherboard.md:405",
+    "agentic-rag/en-manual/插图/Manual25_33.jpg",
+    "agentic-rag/en-manual/插图/Manual25_34.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from Motherboard.md section 1.6 Jumpers. Images identify the CLRTC and CPU_OV jumper/header positions."
+}

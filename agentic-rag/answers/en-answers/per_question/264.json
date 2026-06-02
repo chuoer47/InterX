@@ -1,0 +1,24 @@
+{
+  "id": 264,
+  "question": "How to check the engine oil level of the boat?",
+  "content": "Use this procedure for each engine.\n1. With the engine stopped, put the boat precisely level on land or launch it. If checking on land, supply water to the cooling water passages while the engine runs; if checking on water, moor the boat so it cannot drift.\n2. Look in all directions, start the engine, and idle it for at least 6 minutes. If the ambient temperature is 20 deg C (68 deg F) or less, idle it 5 minutes longer.\n3. Stop the engine, open the engine hood, loosen and remove the oil tank filler cap, and wipe the attached dipstick clean. The oil tank filler cap is the dipstick.<PIC>\n4. Screw the filler cap fully into the filler hole until it stops, then remove it again and check that the oil level is between the maximum and minimum marks on the dipstick.<PIC>\n5. If the level is below the minimum mark, slowly add engine oil and repeat the wipe, install, remove, and check steps until the level is correct. If the level is significantly above the maximum mark, consult a Boat Dealer.\n6. Securely reinstall the oil tank filler cap until it stops, repeat the check for the other engine, and close the engine hood.\nCautions: engine oil is extremely hot immediately after the engines are turned off; avoid contact. Do not run the engine with too much or too little oil, and do not let debris or water enter the oil tank filler hole.",
+  "images": [
+    "Manual09_196",
+    "Manual09_197"
+  ],
+  "ret": "\"Use this procedure for each engine.\\n1. With the engine stopped, put the boat precisely level on land or launch it. If checking on land, supply water to the cooling water passages while the engine runs; if checking on water, moor the boat so it cannot drift.\\n2. Look in all directions, start the engine, and idle it for at least 6 minutes. If the ambient temperature is 20 deg C (68 deg F) or less, idle it 5 minutes longer.\\n3. Stop the engine, open the engine hood, loosen and remove the oil tank filler cap, and wipe the attached dipstick clean. The oil tank filler cap is the dipstick.<PIC>\\n4. Screw the filler cap fully into the filler hole until it stops, then remove it again and check that the oil level is between the maximum and minimum marks on the dipstick.<PIC>\\n5. If the level is below the minimum mark, slowly add engine oil and repeat the wipe, install, remove, and check steps until the level is correct. If the level is significantly above the maximum mark, consult a Boat Dealer.\\n6. Securely reinstall the oil tank filler cap until it stops, repeat the check for the other engine, and close the engine hood.\\nCautions: engine oil is extremely hot immediately after the engines are turned off; avoid contact. Do not run the engine with too much or too little oil, and do not let debris or water enter the oil tank filler hole.\",[\"Manual09_196\", \"Manual09_197\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1575",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1581",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1585",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1587",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1589",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1591",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1593",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1595",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1597"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH engine oil checking procedure. Included the adjacent oil tank filler cap/dipstick image and the dipstick min/max mark image because they identify the part to remove and the level range to verify."
+}

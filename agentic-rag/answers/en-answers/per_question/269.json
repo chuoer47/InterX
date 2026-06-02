@@ -1,0 +1,19 @@
+{
+  "id": 269,
+  "question": "How should I do if I want to reset to factory settings of the coffee machine?",
+  "content": "1. Turn the machine off.\n2. Press and hold the Lungo button for 5 seconds.<PIC>\n3. Wait for the LEDs to blink fast 3 times; this confirms the reset to factory settings.<PIC>\n4. The LEDs then blink normally while the machine heats up; steady lights mean it is ready.<PIC>\nAfter reset, the factory settings are Espresso Cup 40 ml / 1.35 oz, Lungo Cup 110 ml / 3.7 oz, and Power Off mode after 9 minutes.",
+  "images": [
+    "Manual07_33",
+    "Manual07_34",
+    "Manual07_35"
+  ],
+  "ret": "\"1. Turn the machine off.\\n2. Press and hold the Lungo button for 5 seconds.<PIC>\\n3. Wait for the LEDs to blink fast 3 times; this confirms the reset to factory settings.<PIC>\\n4. The LEDs then blink normally while the machine heats up; steady lights mean it is ready.<PIC>\\nAfter reset, the factory settings are Espresso Cup 40 ml / 1.35 oz, Lungo Cup 110 ml / 3.7 oz, and Power Off mode after 9 minutes.\",[\"Manual07_33\", \"Manual07_34\", \"Manual07_35\"]",
+  "manual_guess": "Nespresso CitiZ D111.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:30",
+    "agentic-rag/en-manual/手册内容总览.md:27-44",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:339-355"
+  ],
+  "status": "answered",
+  "notes": "The reset procedure is in the Nespresso CitiZ D111 reset section. The three selected images align with holding the Lungo button, the fast LED confirmation blinks, and the normal heating/ready light state."
+}

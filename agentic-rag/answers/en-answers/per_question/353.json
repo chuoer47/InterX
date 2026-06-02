@@ -1,0 +1,22 @@
+{
+  "id": 353,
+  "question": "How can you install the handset of a landline?",
+  "content": "1. The handset batteries are pre-installed. Pull the battery tape out from the battery door before charging, as shown by the tab being removed from the handset.<PIC>\n2. Place the handset on the base station to charge it. When it is placed correctly, you hear a docking sound and the handset starts charging.\n3. Charge the batteries for 8 hours before first use. Use only the supplied batteries, keep batteries away from heat, sunshine, and fire, and check polarity if you ever insert batteries in the compartment.",
+  "images": [
+    "Manual22_23"
+  ],
+  "ret": "\"1. The handset batteries are pre-installed. Pull the battery tape out from the battery door before charging, as shown by the tab being removed from the handset.<PIC>\\n2. Place the handset on the base station to charge it. When it is placed correctly, you hear a docking sound and the handset starts charging.\\n3. Charge the batteries for 8 hours before first use. Use only the supplied batteries, keep batteries away from heat, sunshine, and fire, and check polarity if you ever insert batteries in the compartment.\",[\"Manual22_23\"]",
+  "manual_guess": "Philips XL490 XL495.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:243",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:245",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:247",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:253",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:259",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:264",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:304",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:308"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Install the handset and Charge the handset sections. Manual22_23 is used because it shows pulling the battery tape from the handset; the nearby charge-handset note image was not useful as visual evidence."
+}

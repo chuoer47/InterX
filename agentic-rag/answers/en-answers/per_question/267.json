@@ -1,0 +1,32 @@
+{
+  "id": 267,
+  "question": "How to program the water valume of a coffee machine?",
+  "content": "1. Turn the machine on and wait for ready mode, shown by steady Espresso and Lungo lights.<PIC>\n2. Fill the water tank with potable water and insert a capsule.<PIC>\n3. Place a cup under the coffee outlet.<PIC>\n4. Press and hold the Espresso or Lungo button for the drink size you want to program. When the desired volume has been served, release the button; that water volume is now stored for the selected button.<PIC>",
+  "images": [
+    "Manual07_24",
+    "Manual07_25",
+    "Manual07_26",
+    "Manual07_27"
+  ],
+  "ret": "\"1. Turn the machine on and wait for ready mode, shown by steady Espresso and Lungo lights.<PIC>\\n2. Fill the water tank with potable water and insert a capsule.<PIC>\\n3. Place a cup under the coffee outlet.<PIC>\\n4. Press and hold the Espresso or Lungo button for the drink size you want to program. When the desired volume has been served, release the button; that water volume is now stored for the selected button.<PIC>\",[\"Manual07_24\", \"Manual07_25\", \"Manual07_26\", \"Manual07_27\"]",
+  "manual_guess": "Nespresso CitiZ D111.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:28",
+    "agentic-rag/en-manual/手册内容总览.md:27",
+    "agentic-rag/en-manual/手册内容总览.md:30",
+    "agentic-rag/en-manual/手册内容总览.md:42",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:289",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:291",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:293",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:295",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:297",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:299",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:301",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:303",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:305",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:307",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:309"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Nespresso CitiZ D111 Programming the Water Volume section. The four images correspond to the ready buttons, capsule insertion, cup placement, and holding the selected coffee button."
+}

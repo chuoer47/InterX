@@ -1,0 +1,19 @@
+{
+  "id": 363,
+  "question": "How can you change the engine oil of a lawn mower?",
+  "content": "To change the Toro mower's engine oil:\n1. Start the engine and let it run for 5 minutes so the oil drains better.\n2. Park the machine with the drain side slightly lower than the opposite side, disengage the blade-control switch (PTO), engage the parking brake, shut off the engine, remove the key, and wait for all moving parts to stop.\n3. Place a drain pan under the oil-drain hose, pull the hose out, remove the drain plug, drain the oil, then reinstall and tighten the plug and return the hose to its stored position.<PIC>\n4. Slowly pour about 80% of the specified oil into the filler tube, then add oil gradually until the dipstick reads Full; do not overfill or underfill the crankcase.<PIC>\n5. Start the engine, drive to a flat area, and check the oil level again. Dispose of used oil at a recycling center.\nUse detergent engine oil. For Kawasaki engines use API SF, SG, SH, SJ, or SL; capacity is 2.3 L with filter/2.1 L without filter for FX751 and FX801, or 1.9 L with filter/1.7 L without filter for FX921. For Kohler engines use API SJ or higher; capacity is 1.9 L with filter or 1.6 L without filter.",
+  "images": [
+    "Manual23_75",
+    "Manual23_76"
+  ],
+  "ret": "\"To change the Toro mower's engine oil:\\n1. Start the engine and let it run for 5 minutes so the oil drains better.\\n2. Park the machine with the drain side slightly lower than the opposite side, disengage the blade-control switch (PTO), engage the parking brake, shut off the engine, remove the key, and wait for all moving parts to stop.\\n3. Place a drain pan under the oil-drain hose, pull the hose out, remove the drain plug, drain the oil, then reinstall and tighten the plug and return the hose to its stored position.<PIC>\\n4. Slowly pour about 80% of the specified oil into the filler tube, then add oil gradually until the dipstick reads Full; do not overfill or underfill the crankcase.<PIC>\\n5. Start the engine, drive to a flat area, and check the oil level again. Dispose of used oil at a recycling center.\\nUse detergent engine oil. For Kawasaki engines use API SF, SG, SH, SJ, or SL; capacity is 2.3 L with filter/2.1 L without filter for FX751 and FX801, or 1.9 L with filter/1.7 L without filter for FX921. For Kohler engines use API SJ or higher; capacity is 1.9 L with filter or 1.6 L without filter.\",[\"Manual23_75\", \"Manual23_76\"]",
+  "manual_guess": "Toro Z Master 4000",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1516-1580",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1731-1785",
+    "agentic-rag/en-manual/插图/Manual23_75.jpg",
+    "agentic-rag/en-manual/插图/Manual23_76.jpg"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Toro mower engine-oil service sections. Kawasaki and Kohler sections use the same oil-change sequence; answer includes engine-specific oil specs and capacities."
+}

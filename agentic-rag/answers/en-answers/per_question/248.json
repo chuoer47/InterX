@@ -1,0 +1,20 @@
+{
+  "id": 248,
+  "question": "How to open the battery compartment when manipulating the boat?",
+  "content": "The battery compartment is on the port side of the boat at the stern. To open it, unhook the latch on the battery compartment lid, then open the lid.<PIC>\nWith the lid open, the battery compartment is exposed.<PIC>\nDo not carry flammable substances, heavy items, or metal items in this compartment because they can damage the battery or cause a short circuit, sparks, or fire.",
+  "images": [
+    "Manual09_157",
+    "Manual09_158"
+  ],
+  "ret": "\"The battery compartment is on the port side of the boat at the stern. To open it, unhook the latch on the battery compartment lid, then open the lid.<PIC>\\nWith the lid open, the battery compartment is exposed.<PIC>\\nDo not carry flammable substances, heavy items, or metal items in this compartment because they can damage the battery or cause a short circuit, sparks, or fire.\",[\"Manual09_157\", \"Manual09_158\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1297",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1301",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1303",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1307",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1309"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH battery-compartment section. Manual09_157 shows the battery compartment lid and latch; Manual09_158 shows the opened battery compartment."
+}

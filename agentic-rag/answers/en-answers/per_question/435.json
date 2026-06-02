@@ -1,0 +1,19 @@
+{
+  "id": 435,
+  "question": "What are the steps to activate and deactivate the various features on an electric toothbrush for customized usage?",
+  "content": "Use the app for Adaptive Intensity and Scrubbing Feedback, and use the handle for Adaptive Intensity, Pressure Sensor Feedback, and the brush head replacement reminder. To customize brushing intensity, press the intensity indicator lights on the handle to cycle through High, Medium, and Low; this can be done before, during, or after brushing and can also be set in the app.\n1. For app-based changes, download and open the app, turn on phone Bluetooth, pick up the toothbrush so its lights are on, follow the guided pairing steps, create an account, update firmware if prompted, then enable or disable Adaptive Intensity and Scrubbing Feedback in the app.\n2. For handle-based changes, place the handle on the charging stand, then press and hold the power button for the feature you want to change; this is the handle control used for feature activation or deactivation.<PIC>\n3. Hold up to 7 seconds for Adaptive Intensity, up to 3 seconds for Pressure Sensor Feedback, or up to 5 seconds for the brush head replacement reminder.\n4. Confirm the result at the battery indicator: white blinking 3 times with 3 tones from low to high means the feature is activated; amber blinking 3 times with 3 tones from high to low means it is deactivated.<PIC>\n5. Adaptive Intensity is deactivated when Pressure Sensor Feedback is deactivated. Defaults are: Adaptive Intensity on, Pressure Sensor Feedback on, Scrubbing Feedback off, and brush head replacement reminder on.",
+  "images": [
+    "Manual37_13",
+    "toothbrush0_11"
+  ],
+  "ret": "\"Use the app for Adaptive Intensity and Scrubbing Feedback, and use the handle for Adaptive Intensity, Pressure Sensor Feedback, and the brush head replacement reminder. To customize brushing intensity, press the intensity indicator lights on the handle to cycle through High, Medium, and Low; this can be done before, during, or after brushing and can also be set in the app.\\n1. For app-based changes, download and open the app, turn on phone Bluetooth, pick up the toothbrush so its lights are on, follow the guided pairing steps, create an account, update firmware if prompted, then enable or disable Adaptive Intensity and Scrubbing Feedback in the app.\\n2. For handle-based changes, place the handle on the charging stand, then press and hold the power button for the feature you want to change; this is the handle control used for feature activation or deactivation.<PIC>\\n3. Hold up to 7 seconds for Adaptive Intensity, up to 3 seconds for Pressure Sensor Feedback, or up to 5 seconds for the brush head replacement reminder.\\n4. Confirm the result at the battery indicator: white blinking 3 times with 3 tones from low to high means the feature is activated; amber blinking 3 times with 3 tones from high to low means it is deactivated.<PIC>\\n5. Adaptive Intensity is deactivated when Pressure Sensor Feedback is deactivated. Defaults are: Adaptive Intensity on, Pressure Sensor Feedback on, Scrubbing Feedback off, and brush head replacement reminder on.\",[\"Manual37_13\", \"toothbrush0_11\"]",
+  "manual_guess": "Philips Sonicare Prestige Toothbrush User Manual",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:124-159",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:220-234",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:247-319",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:323-366"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Sonicare feature customization and activation/deactivation sections. Images are used only for the handle power-button control and battery-indicator confirmation signal."
+}

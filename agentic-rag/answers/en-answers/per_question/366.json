@@ -1,0 +1,20 @@
+{
+  "id": 366,
+  "question": "How can you set up control of a over-the-range microwave?",
+  "content": "Use the Control Set-Up pad, then select the setting number and the result number shown in the setup chart. The available controls are sound on/off, clock on/off, scroll speed, and LBS/KG defrost-weight choice.<PIC>\n1. Touch Control Set-Up.\n2. Touch the number for the function you want: 1 for sound, 2 for clock, 3 for scroll speed, or 4 for LBS/KG.\n3. Touch the number for the result you want. For example, to change defrost weight from Lbs to Kg, touch Control Set-Up, touch 4, then touch 2.<PIC>",
+  "images": [
+    "Manual24_9",
+    "Manual24_10"
+  ],
+  "ret": "\"Use the Control Set-Up pad, then select the setting number and the result number shown in the setup chart. The available controls are sound on/off, clock on/off, scroll speed, and LBS/KG defrost-weight choice.<PIC>\\n1. Touch Control Set-Up.\\n2. Touch the number for the function you want: 1 for sound, 2 for clock, 3 for scroll speed, or 4 for LBS/KG.\\n3. Touch the number for the result you want. For example, to change defrost weight from Lbs to Kg, touch Control Set-Up, touch 4, then touch 2.<PIC>\",[\"Manual24_9\", \"Manual24_10\"]",
+  "manual_guess": "Bosch Over-the-Range Microwave Use and Care Manual",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:405",
+    "agentic-rag/en-manual/Bosch Microwave.md:407",
+    "agentic-rag/en-manual/Bosch Microwave.md:409",
+    "agentic-rag/en-manual/Bosch Microwave.md:411",
+    "agentic-rag/en-manual/Bosch Microwave.md:413"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Control Set-Up section and its setup chart/example images."
+}

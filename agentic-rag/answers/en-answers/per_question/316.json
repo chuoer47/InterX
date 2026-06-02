@@ -1,0 +1,22 @@
+{
+  "id": 316,
+  "question": "If I'm in Canada, is there any statement of the fax vailable in my country?",
+  "content": "Yes. In Canada, for models with the fax function, the product meets the applicable Innovation, Science and Economic Development Canada technical specifications. The Ringer Equivalence Number (REN) indicates the maximum number of devices allowed on a telephone interface; any combination of devices is allowed only if the sum of all RENs does not exceed five. These products are made for use in the USA and Canada only, and Brother does not recommend using them overseas because fax models may violate that country's telecommunications regulations and the product power requirements may not be compatible.",
+  "images": [],
+  "ret": "\"Yes. In Canada, for models with the fax function, the product meets the applicable Innovation, Science and Economic Development Canada technical specifications. The Ringer Equivalence Number (REN) indicates the maximum number of devices allowed on a telephone interface; any combination of devices is allowed only if the sum of all RENs does not exceed five. These products are made for use in the USA and Canada only, and Brother does not recommend using them overseas because fax models may violate that country's telecommunications regulations and the product power requirements may not be compatible.\",[]",
+  "manual_guess": "Brother Safety Guide.md",
+  "evidence_refs": [
+    {
+      "manual": "Brother Safety Guide.md",
+      "lines": "339-345",
+      "summary": "Canada-only equipment attachment limitations for fax models: ISED technical specifications and REN limit."
+    },
+    {
+      "manual": "Brother Safety Guide.md",
+      "lines": "347-349",
+      "summary": "USA/Canada-only use statement and warning against overseas use for fax models."
+    }
+  ],
+  "status": "answered",
+  "notes": "No image needed; the Canada/fax answer is text-only regulatory guidance."
+}

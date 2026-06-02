@@ -1,0 +1,16 @@
+{
+  "id": 301,
+  "question": "If my earphones won't work, how can I reset them?",
+  "content": "1. Disconnect the earbuds from Bluetooth and remove them from the charging case.\n2. If the earphones are locked up or unresponsive, press and hold the multifunction buttons for 10 seconds to perform a hardware reset; the hardware-reset figure shows both earbuds out of the case with red and blue lights flashing.<PIC>\n3. Press again to power the earphones on.\nA 6-second hold is a factory reset and erases all settings, so use it only if you want to clear the settings.",
+  "images": [
+    "Manual12_12"
+  ],
+  "ret": "\"1. Disconnect the earbuds from Bluetooth and remove them from the charging case.\\n2. If the earphones are locked up or unresponsive, press and hold the multifunction buttons for 10 seconds to perform a hardware reset; the hardware-reset figure shows both earbuds out of the case with red and blue lights flashing.<PIC>\\n3. Press again to power the earphones on.\\nA 6-second hold is a factory reset and erases all settings, so use it only if you want to clear the settings.\",[\"Manual12_12\"]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Hydrabuds ANC.md:26-30",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:177-191"
+  ],
+  "status": "answered",
+  "notes": "The question asks about earphones that will not work, so the hardware reset is the relevant reset because the manual says it is for earbuds that lock up and are unresponsive. The 6-second factory reset is included only as a caution because it erases all settings."
+}

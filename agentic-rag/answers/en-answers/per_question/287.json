@@ -1,0 +1,41 @@
+{
+  "id": 287,
+  "question": "How to set an off-center subject mode of a camera?",
+  "content": "Use focus lock in One-Shot AF.\n1. On the lens, set the focus mode switch to <AF>. Set the Mode Dial to a Creative Zone mode, press <AF-WB>, and turn the Main Dial until ONE SHOT is selected.\n2. Press the AF point selection button and choose the desired AF point with the Multi-controller, Main Dial, or Quick Control Dial; the selected point appears in the viewfinder and LCD panel.<PIC>\n3. Put that AF point over the off-center subject and press the shutter button halfway to focus.<PIC>\n4. Keep the shutter button halfway pressed, recompose the picture, then press it fully to take it.<PIC>\nFocus lock works only in One-Shot AF. It does not work in AI Servo AF or AI Focus AF after Servo mode is active. In Basic Zone modes except A-DEP, you can also use focus lock by starting from placing the AF point over the subject.",
+  "images": [
+    "Manual10_104",
+    "Manual10_106",
+    "Manual10_107"
+  ],
+  "ret": "\"Use focus lock in One-Shot AF.\\n1. On the lens, set the focus mode switch to <AF>. Set the Mode Dial to a Creative Zone mode, press <AF-WB>, and turn the Main Dial until ONE SHOT is selected.\\n2. Press the AF point selection button and choose the desired AF point with the Multi-controller, Main Dial, or Quick Control Dial; the selected point appears in the viewfinder and LCD panel.<PIC>\\n3. Put that AF point over the off-center subject and press the shutter button halfway to focus.<PIC>\\n4. Keep the shutter button halfway pressed, recompose the picture, then press it fully to take it.<PIC>\\nFocus lock works only in One-Shot AF. It does not work in AI Servo AF or AI Focus AF after Servo mode is active. In Basic Zone modes except A-DEP, you can also use focus lock by starting from placing the AF point over the subject.\",[\"Manual10_104\", \"Manual10_106\", \"Manual10_107\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:1631",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1633",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1637",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1639",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1643",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1645",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1647",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1693",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1701",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1705",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1707",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1709",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1711",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1713",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1715",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1719",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1749",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1751",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1753",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1755",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1757",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1759",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1761",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1763",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1765"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D AF mode, AF point selection, and focus-lock procedure. Three <PIC> placeholders align with Manual10_104, Manual10_106, and Manual10_107."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 378,
+  "question": "How can you update the BIOS file of a motherboard?",
+  "content": "You can update the motherboard BIOS by using EZ Update in AI Suite 3, EZ Flash 3 in BIOS Setup, or BIOS Updater in a DOS environment. The manual's main in-BIOS method is EZ Flash 3:\n1. Save a copy of the original BIOS file to a USB flash disk before updating.\n2. Download the latest BIOS file for this motherboard. For a USB update, use a USB flash disk with a single FAT32/16 partition.\n3. Enter BIOS Setup Advanced Mode, open the Tool menu, select EZ Flash 3 Utility, and press <Enter>.\n4. Choose by USB or by Internet. For USB, insert the USB flash disk, select by USB, use <Tab> to move between the Drive and Folder Info fields, select the USB drive and BIOS file with the arrow keys, then press <Enter> to start the update. For Internet, select by Internet, choose the connection method with the left/right arrow keys, press <Enter>, and follow the onscreen instructions.\n5. Reboot when the update finishes. Do not shut down or reset the system while the BIOS is updating, because this can cause boot failure.\n\nTo update in DOS instead, prepare the support DVD and a FAT32/16 single-partition USB flash drive containing the latest BIOS file and BIOS Updater, boot to FreeDOS, switch to the USB drive, run bupdater /pc /g, select the BIOS file, confirm Yes, exit after the update, restart, and load optimized defaults for stability.",
+  "images": [],
+  "ret": "\"You can update the motherboard BIOS by using EZ Update in AI Suite 3, EZ Flash 3 in BIOS Setup, or BIOS Updater in a DOS environment. The manual's main in-BIOS method is EZ Flash 3:\\n1. Save a copy of the original BIOS file to a USB flash disk before updating.\\n2. Download the latest BIOS file for this motherboard. For a USB update, use a USB flash disk with a single FAT32/16 partition.\\n3. Enter BIOS Setup Advanced Mode, open the Tool menu, select EZ Flash 3 Utility, and press <Enter>.\\n4. Choose by USB or by Internet. For USB, insert the USB flash disk, select by USB, use <Tab> to move between the Drive and Folder Info fields, select the USB drive and BIOS file with the arrow keys, then press <Enter> to start the update. For Internet, select by Internet, choose the connection method with the left/right arrow keys, press <Enter>, and follow the onscreen instructions.\\n5. Reboot when the update finishes. Do not shut down or reset the system while the BIOS is updating, because this can cause boot failure.\\n\\nTo update in DOS instead, prepare the support DVD and a FAT32/16 single-partition USB flash drive containing the latest BIOS file and BIOS Updater, boot to FreeDOS, switch to the USB drive, run bupdater /pc /g, select the BIOS file, confirm Yes, exit after the update, restart, and load optimized defaults for stability.\",[]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:701",
+    "agentic-rag/en-manual/Motherboard.md:705",
+    "agentic-rag/en-manual/Motherboard.md:713",
+    "agentic-rag/en-manual/Motherboard.md:721",
+    "agentic-rag/en-manual/Motherboard.md:729",
+    "agentic-rag/en-manual/Motherboard.md:733",
+    "agentic-rag/en-manual/Motherboard.md:737",
+    "agentic-rag/en-manual/Motherboard.md:739",
+    "agentic-rag/en-manual/Motherboard.md:763",
+    "agentic-rag/en-manual/Motherboard.md:769",
+    "agentic-rag/en-manual/Motherboard.md:791",
+    "agentic-rag/en-manual/Motherboard.md:807",
+    "agentic-rag/en-manual/Motherboard.md:809"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Motherboard manual BIOS information sections. No images were needed because the relevant procedure is fully stated in text."
+}

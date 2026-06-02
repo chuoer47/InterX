@@ -1,0 +1,25 @@
+{
+  "id": 430,
+  "question": "What are the steps to properly connect and set up an outdoor antenna for optimal signal reception?",
+  "content": "1. Use an outdoor antenna for best reception, and inspect the antenna and antenna cable first; severely weathered parts can reduce signal quality.\n2. Identify the cable type. If it is 300 ohm flat wire, attach the wire to the screws on a 300 ohm to 75 ohm adapter, then push the adapter into the TV's 75 ohm antenna jack. If it is 75 ohm coaxial cable, connect the coaxial cable directly to the 75 ohm antenna jack. The diagram shows both correct paths into the TV rear 75 ohm antenna jack: 300 ohm flat wire through the 300-to-75 ohm adapter, or 75 ohm coaxial cable directly.<PIC>\n3. After connecting, aim for reception quality. If you see ghosts, change the direction or position of the antenna. If the TV is in a weak fringe signal area and the picture has small dots, use a special antenna to improve the picture.",
+  "images": [
+    "Manual35_39"
+  ],
+  "ret": "\"1. Use an outdoor antenna for best reception, and inspect the antenna and antenna cable first; severely weathered parts can reduce signal quality.\\n2. Identify the cable type. If it is 300 ohm flat wire, attach the wire to the screws on a 300 ohm to 75 ohm adapter, then push the adapter into the TV's 75 ohm antenna jack. If it is 75 ohm coaxial cable, connect the coaxial cable directly to the 75 ohm antenna jack. The diagram shows both correct paths into the TV rear 75 ohm antenna jack: 300 ohm flat wire through the 300-to-75 ohm adapter, or 75 ohm coaxial cable directly.<PIC>\\n3. After connecting, aim for reception quality. If you see ghosts, change the direction or position of the antenna. If the TV is in a weak fringe signal area and the picture has small dots, use a special antenna to improve the picture.\",[\"Manual35_39\"]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:430",
+    "agentic-rag/en-manual/Color Television.md:647",
+    "agentic-rag/en-manual/Color Television.md:649",
+    "agentic-rag/en-manual/Color Television.md:651",
+    "agentic-rag/en-manual/Color Television.md:653",
+    "agentic-rag/en-manual/Color Television.md:655",
+    "agentic-rag/en-manual/Color Television.md:657",
+    "agentic-rag/en-manual/Color Television.md:659",
+    "agentic-rag/en-manual/Color Television.md:661",
+    "agentic-rag/en-manual/Color Television.md:600",
+    "agentic-rag/en-manual/Color Television.md:606"
+  ],
+  "status": "answered",
+  "notes": "Answer uses the outdoor antenna connection procedure, the reception-quality notes for ghosts and weak fringe signal areas, and the antenna connection diagram Manual35_39. One <PIC> placeholder matches one image."
+}

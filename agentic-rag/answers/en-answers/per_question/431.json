@@ -1,0 +1,24 @@
+{
+  "id": 431,
+  "question": "What are the steps to properly connect a DVD player to a television or audio system for optimal performance?",
+  "content": "1. Connect the DVD player's component video outputs to the TV's component DVD input jacks, matching Y to Y, PB to PB, and PR to PR for 480i component input. Then connect the DVD player's right and left audio outputs to the TV's component AUDIO R/L inputs.<PIC>\n2. If the DVD player uses alternate component labels, match Y to Y, Cb/B-Y/Pb/PB to PB, and Cr/R-Y/Pr/PR to PR.<PIC>\n3. Turn on the TV and the DVD player, then press TV/VIDEO on the remote control or the TV front panel until COMPONENT is selected.\n4. For an audio amplifier or other audio system used for monitoring the selected program from the TV, connect the audio system's inputs to the TV's OUT A/V jacks instead of the IN jacks.",
+  "images": [
+    "Manual35_43",
+    "Manual35_44"
+  ],
+  "ret": "\"1. Connect the DVD player's component video outputs to the TV's component DVD input jacks, matching Y to Y, PB to PB, and PR to PR for 480i component input. Then connect the DVD player's right and left audio outputs to the TV's component AUDIO R/L inputs.<PIC>\\n2. If the DVD player uses alternate component labels, match Y to Y, Cb/B-Y/Pb/PB to PB, and Cr/R-Y/Pr/PR to PR.<PIC>\\n3. Turn on the TV and the DVD player, then press TV/VIDEO on the remote control or the TV front panel until COMPONENT is selected.\\n4. For an audio amplifier or other audio system used for monitoring the selected program from the TV, connect the audio system's inputs to the TV's OUT A/V jacks instead of the IN jacks.\",[\"Manual35_43\", \"Manual35_44\"]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color Television.md:673",
+    "agentic-rag/en-manual/Color Television.md:677",
+    "agentic-rag/en-manual/Color Television.md:681",
+    "agentic-rag/en-manual/Color Television.md:737",
+    "agentic-rag/en-manual/Color Television.md:739",
+    "agentic-rag/en-manual/Color Television.md:745",
+    "agentic-rag/en-manual/Color Television.md:747",
+    "agentic-rag/en-manual/Color Television.md:751",
+    "agentic-rag/en-manual/Color Television.md:753"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Color Television component DVD input instructions and adjacent connection diagrams. The answer preserves the Y/PB/PR 480i video connection, AUDIO R/L connection, COMPONENT input selection after turning on the DVD set, and the separate TV OUT A/V use for an audio amplifier."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 245,
+  "question": "What should I do if face over temperature warning on the boat?",
+  "content": "An \"Over Temperature\" warning means an engine is overheating; the buzzer sounds and engine speed is automatically limited. Do this:\n1. Immediately reduce engine speed, then return to shore or maneuver to a safe location.\n2. Check for water discharge from the starboard-side cooling water pilot outlets while the engines are running, especially while applying throttle; outlet 1 is for the port engine and outlet 2 is for the starboard engine.<PIC>\n3. If the cooling passages are dry, allow about 20 seconds after starting for water to reach the outlets. If no water comes out, cooling water may not be circulating and the intake grates may be clogged; use the jet pump clean-out procedure only after turning off and removing both main switch keys, removing the engine shut-off switch clip, and waiting for all movement to stop. The intake grate is the underside grate shown here.<PIC>\n4. If you cannot find and correct the cause, avoid major engine damage while returning: for one overheating engine, shut off that engine and use the other engine at no-wake speed, 8 km/h (5 mph), to prevent water from flooding the non-operating engine through the water intake; for both engines overheating, get towed if possible, or run both engines just slightly above idle while returning to shore.",
+  "images": [
+    "Manual09_95",
+    "Manual09_96"
+  ],
+  "ret": "\"An \\\"Over Temperature\\\" warning means an engine is overheating; the buzzer sounds and engine speed is automatically limited. Do this:\\n1. Immediately reduce engine speed, then return to shore or maneuver to a safe location.\\n2. Check for water discharge from the starboard-side cooling water pilot outlets while the engines are running, especially while applying throttle; outlet 1 is for the port engine and outlet 2 is for the starboard engine.<PIC>\\n3. If the cooling passages are dry, allow about 20 seconds after starting for water to reach the outlets. If no water comes out, cooling water may not be circulating and the intake grates may be clogged; use the jet pump clean-out procedure only after turning off and removing both main switch keys, removing the engine shut-off switch clip, and waiting for all movement to stop. The intake grate is the underside grate shown here.<PIC>\\n4. If you cannot find and correct the cause, avoid major engine damage while returning: for one overheating engine, shut off that engine and use the other engine at no-wake speed, 8 km/h (5 mph), to prevent water from flooding the non-operating engine through the water intake; for both engines overheating, get towed if possible, or run both engines just slightly above idle while returning to shore.\",[\"Manual09_95\", \"Manual09_96\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:877",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:879",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:881",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:885",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:889",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:891",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2300",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2304",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2308"
+  ],
+  "status": "answered",
+  "notes": "Question routed by the word boat and over temperature warning to the Yamaha 210FSH 2021 manual. Answer uses the over-temperature warning section, the dry-passage/intake-grate note, and the jet pump clean-out safety warning. Two PIC placeholders correspond to Manual09_95 cooling water pilot outlets and Manual09_96 intake grate."
+}

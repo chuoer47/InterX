@@ -1,0 +1,30 @@
+{
+  "id": 379,
+  "question": "How can you create RAID of a motherboard?",
+  "content": "1. Connect the hard drives to the Intel SATA connectors and make sure the drives have no existing RAID volumes.\n2. Enter the BIOS and press <F11>, or click the EZ Tuning Wizard from the BIOS screen.\n3. Click RAID, then click Yes to enable RAID.\n4. When the available hard drives are displayed, click Next.\n5. Select the storage type: Easy Backup or Super Speed, then click Next. For Easy Backup, choose Easy Backup (RAID1) or Easy Backup (RAID10); RAID10 is available only when four hard drives are connected. For Super Speed, choose Super Speed (RAID0) or Super Speed (RAID5), then click Next.\n6. After selecting the RAID type, click Yes to continue setup. When setup finishes, click Yes to exit, then click OK to reset the system.",
+  "images": [],
+  "ret": "\"1. Connect the hard drives to the Intel SATA connectors and make sure the drives have no existing RAID volumes.\\n2. Enter the BIOS and press <F11>, or click the EZ Tuning Wizard from the BIOS screen.\\n3. Click RAID, then click Yes to enable RAID.\\n4. When the available hard drives are displayed, click Next.\\n5. Select the storage type: Easy Backup or Super Speed, then click Next. For Easy Backup, choose Easy Backup (RAID1) or Easy Backup (RAID10); RAID10 is available only when four hard drives are connected. For Super Speed, choose Super Speed (RAID0) or Super Speed (RAID5), then click Next.\\n6. After selecting the RAID type, click Yes to continue setup. When setup finishes, click Yes to exit, then click OK to reset the system.\",[]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:583",
+    "agentic-rag/en-manual/Motherboard.md:591",
+    "agentic-rag/en-manual/Motherboard.md:943",
+    "agentic-rag/en-manual/Motherboard.md:963",
+    "agentic-rag/en-manual/Motherboard.md:965",
+    "agentic-rag/en-manual/Motherboard.md:967",
+    "agentic-rag/en-manual/Motherboard.md:969",
+    "agentic-rag/en-manual/Motherboard.md:971",
+    "agentic-rag/en-manual/Motherboard.md:973",
+    "agentic-rag/en-manual/Motherboard.md:977",
+    "agentic-rag/en-manual/Motherboard.md:981",
+    "agentic-rag/en-manual/Motherboard.md:985",
+    "agentic-rag/en-manual/Motherboard.md:989",
+    "agentic-rag/en-manual/Motherboard.md:991",
+    "agentic-rag/en-manual/Motherboard.md:1503",
+    "agentic-rag/en-manual/Motherboard.md:1505",
+    "agentic-rag/en-manual/Motherboard.md:1519",
+    "agentic-rag/en-manual/Motherboard.md:1521"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Motherboard EZ Tuning Wizard RAID procedure and cross-checked against the Intel SATA connector and BIOS SATA Mode Selection notes. No image is included because the procedure is fully stated in text and does not require identifying a physical part or screen layout."
+}

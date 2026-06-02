@@ -1,0 +1,27 @@
+{
+  "id": 280,
+  "question": "How do I charge the camera battery when I'm not using it?",
+  "content": "If you will not use the camera for a prolonged period, remove the battery from the camera and attach the protective cover to prevent shorting. Before using the camera again, recharge the battery:\n1. Remove the battery cover. If you removed the battery from the camera, reattach the cover whenever it is not on the charger.\n2. Attach the battery to the charger by aligning the battery front edge with the <-> mark, pressing it down, and sliding it in the arrow direction.\n3. For the CG-580 charger, flip out the prongs and plug the charger into a power outlet. For the CB-5L charger, connect the power cord to the charger and plug it into a power outlet. Charging starts automatically and the red lamp blinks.\n4. Approximate charging time for a fully exhausted battery is 100 minutes for BP-511A/BP-514 or 90 minutes for BP-511/BP-512. After the red lamp lights, continue charging for one more hour to attain a full charge.\n5. After recharging, detach the battery and unplug the charger. Only recharge Battery Pack BP-511A, BP-514, BP-511, or BP-512.",
+  "images": [],
+  "ret": "\"If you will not use the camera for a prolonged period, remove the battery from the camera and attach the protective cover to prevent shorting. Before using the camera again, recharge the battery:\\n1. Remove the battery cover. If you removed the battery from the camera, reattach the cover whenever it is not on the charger.\\n2. Attach the battery to the charger by aligning the battery front edge with the <-> mark, pressing it down, and sliding it in the arrow direction.\\n3. For the CG-580 charger, flip out the prongs and plug the charger into a power outlet. For the CB-5L charger, connect the power cord to the charger and plug it into a power outlet. Charging starts automatically and the red lamp blinks.\\n4. Approximate charging time for a fully exhausted battery is 100 minutes for BP-511A/BP-514 or 90 minutes for BP-511/BP-512. After the red lamp lights, continue charging for one more hour to attain a full charge.\\n5. After recharging, detach the battery and unplug the charger. Only recharge Battery Pack BP-511A, BP-514, BP-511, or BP-512.\",[]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    {
+      "source": "agentic-rag/en-manual/手册内容总览.md",
+      "lines": "7-10",
+      "summary": "Canon EOS 20D manual covers the camera and getting-started topics."
+    },
+    {
+      "source": "agentic-rag/en-manual/Canon EOS 20D.md",
+      "lines": "371-401",
+      "summary": "Recharging section gives the battery cover removal, charger attachment, CG-580/CB-5L power connection, automatic charging, red lamp behavior, and approximate recharge times."
+    },
+    {
+      "source": "agentic-rag/en-manual/Canon EOS 20D.md",
+      "lines": "409-419",
+      "summary": "Compatible battery packs, storage guidance when not using the camera, extra hour for full charge, and detach/unplug after charging."
+    }
+  ],
+  "status": "answered",
+  "notes": "No images used; the recharging procedure and long-term non-use guidance are stated directly in text. PIC count 0 equals images count 0."
+}

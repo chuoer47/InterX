@@ -1,0 +1,27 @@
+{
+  "id": 390,
+  "question": "What do you know about anti-block shield for a multi-use pressure cooker and air fryer?",
+  "content": "The anti-block shield is the perforated round cover on the underside of the pressure cooking lid beside the steam release pipe. It keeps food particles from coming up through the steam release pipe and helps regulate pressure.<PIC>\nCheck the steam release valve, steam release pipe, anti-block shield, float valve, heating element, and air fryer lid element cover before and after use.\nTo remove the anti-block shield, hold the lid like a steering wheel and press firmly against the side of the shield until it pops off.<PIC>\nTo install it, place it over the prongs and press down until it snaps into position.<PIC>\nDo not operate the pressure cooker without the anti-block shield installed.",
+  "images": [
+    "Manual30_19",
+    "Manual30_34",
+    "Manual30_35"
+  ],
+  "ret": "\"The anti-block shield is the perforated round cover on the underside of the pressure cooking lid beside the steam release pipe. It keeps food particles from coming up through the steam release pipe and helps regulate pressure.<PIC>\\nCheck the steam release valve, steam release pipe, anti-block shield, float valve, heating element, and air fryer lid element cover before and after use.\\nTo remove the anti-block shield, hold the lid like a steering wheel and press firmly against the side of the shield until it pops off.<PIC>\\nTo install it, place it over the prongs and press down until it snaps into position.<PIC>\\nDo not operate the pressure cooker without the anti-block shield installed.\",[\"Manual30_19\", \"Manual30_34\", \"Manual30_35\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:142",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:57",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:202",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:204",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:206",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:371",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:373",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:375",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:377",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:379",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:381"
+  ],
+  "status": "answered",
+  "notes": "Answer uses the Instant Pot Duo Crisp anti-block shield description plus removal, installation, inspection, and safety warning evidence. Images identify the shield and show removal and installation."
+}

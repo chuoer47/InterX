@@ -1,0 +1,27 @@
+{
+  "id": 382,
+  "question": "How can you prepare the installation of Central Processing Unit (CPU) for a motherboard?",
+  "content": "1. Turn off the ATX power supply and unplug the power cord from the wall socket before touching components or installing the CPU.\n2. Protect components from static electricity by using a grounded wrist strap or touching a safely grounded metal object, and handle components by their edges.\n3. Confirm the motherboard has the surface-mount LGA1151 CPU socket and install only a CPU designed for LGA1151; do not use LGA1150, LGA1155, or LGA1156 CPUs.\n4. Before installation, check that the PnP cap is on the socket and that the socket contacts are not bent. Contact the retailer immediately if the cap is missing or if the cap, socket contacts, or motherboard components are damaged.\n5. Keep the PnP cap after installation because RMA service requires the motherboard to be returned with the cap on the LGA1151 socket.\n6. If using the CPU Installation Tool, make sure the CPU is firmly clicked into the tool before placing it onto the socket. Use the tool only for CPU installation, do not bend or damage it, and always hold both sides of the tool when installing, removing, or picking it up.",
+  "images": [],
+  "ret": "\"1. Turn off the ATX power supply and unplug the power cord from the wall socket before touching components or installing the CPU.\\n2. Protect components from static electricity by using a grounded wrist strap or touching a safely grounded metal object, and handle components by their edges.\\n3. Confirm the motherboard has the surface-mount LGA1151 CPU socket and install only a CPU designed for LGA1151; do not use LGA1150, LGA1155, or LGA1156 CPUs.\\n4. Before installation, check that the PnP cap is on the socket and that the socket contacts are not bent. Contact the retailer immediately if the cap is missing or if the cap, socket contacts, or motherboard components are damaged.\\n5. Keep the PnP cap after installation because RMA service requires the motherboard to be returned with the cap on the LGA1151 socket.\\n6. If using the CPU Installation Tool, make sure the CPU is firmly clicked into the tool before placing it onto the socket. Use the tool only for CPU installation, do not bend or damage it, and always hold both sides of the tool when installing, removing, or picking it up.\",[]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:131",
+    "agentic-rag/en-manual/Motherboard.md:137",
+    "agentic-rag/en-manual/Motherboard.md:139",
+    "agentic-rag/en-manual/Motherboard.md:141",
+    "agentic-rag/en-manual/Motherboard.md:145",
+    "agentic-rag/en-manual/Motherboard.md:175",
+    "agentic-rag/en-manual/Motherboard.md:179",
+    "agentic-rag/en-manual/Motherboard.md:181",
+    "agentic-rag/en-manual/Motherboard.md:183",
+    "agentic-rag/en-manual/Motherboard.md:185",
+    "agentic-rag/en-manual/Motherboard.md:187",
+    "agentic-rag/en-manual/Motherboard.md:191",
+    "agentic-rag/en-manual/Motherboard.md:199",
+    "agentic-rag/en-manual/Motherboard.md:201",
+    "agentic-rag/en-manual/Motherboard.md:203"
+  ],
+  "status": "answered",
+  "notes": "No image was included because the preparation steps and cautions are fully stated in text; therefore the content contains zero <PIC> placeholders and images is empty."
+}

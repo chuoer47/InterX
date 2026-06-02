@@ -1,0 +1,21 @@
+{
+  "id": 428,
+  "question": "What are the common causes and conditions that can lead to poor reception in television or radio signals?",
+  "content": "Common causes and conditions include electrical interference from automobile ignition systems, neon lamps, electrical drills, and other electrical appliances; ghosting when the TV signal reaches the receiver by both a direct path and a reflected path from tall buildings, hills, or other objects; weak fringe-area TV signals that create small dots or snow; old, bad, or illegally recorded tapes; strong random signals from cars or airplanes; weak antenna signals; and severely weathered antennas or antenna cables that reduce signal quality.",
+  "images": [],
+  "ret": "\"Common causes and conditions include electrical interference from automobile ignition systems, neon lamps, electrical drills, and other electrical appliances; ghosting when the TV signal reaches the receiver by both a direct path and a reflected path from tall buildings, hills, or other objects; weak fringe-area TV signals that create small dots or snow; old, bad, or illegally recorded tapes; strong random signals from cars or airplanes; weak antenna signals; and severely weathered antennas or antenna cables that reduce signal quality.\",[]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color Television.md:588",
+    "agentic-rag/en-manual/Color Television.md:590",
+    "agentic-rag/en-manual/Color Television.md:594",
+    "agentic-rag/en-manual/Color Television.md:600",
+    "agentic-rag/en-manual/Color Television.md:606",
+    "agentic-rag/en-manual/Color Television.md:610",
+    "agentic-rag/en-manual/Color Television.md:611",
+    "agentic-rag/en-manual/Color Television.md:612",
+    "agentic-rag/en-manual/Color Television.md:649"
+  ],
+  "status": "answered",
+  "notes": "Text-only answer; nearby illustrations show ignition, ghosts, and snow, but the question asks for causes and conditions and the text evidence is sufficient."
+}

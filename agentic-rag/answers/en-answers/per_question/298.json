@@ -1,0 +1,28 @@
+{
+  "id": 298,
+  "question": "When bluetooth are pairing and connecting, what scenarios I might encounter?",
+  "content": "When pairing or connecting Hydrabuds ANC, expect these cases:\n1. Opening the charging case makes the earbuds connect to each other first, then enter pairing mode.\n2. After you remove the earbuds, a light-blue flashing LED means pairing and a solid blue LED means connected.<PIC>\n3. On your phone, turn Bluetooth on and choose AL Hydrabuds ANC from the available devices list.<PIC>\n4. If the earbuds were already paired with a nearby device, they automatically reconnect to it.\n5. For multipoint, you can connect up to two devices: turn Bluetooth off on the first paired device so the earbuds become available, pair the second device, then turn Bluetooth back on on the first device so it reconnects. You can then use either device for music or calls.\n6. To pair a new device later, turn Bluetooth off on the current phone or device. Alternatively, press and then press and hold either earbud to drop the current connection and enter pairing mode.",
+  "images": [
+    "Manual12_6",
+    "Manual12_7"
+  ],
+  "ret": "\"When pairing or connecting Hydrabuds ANC, expect these cases:\\n1. Opening the charging case makes the earbuds connect to each other first, then enter pairing mode.\\n2. After you remove the earbuds, a light-blue flashing LED means pairing and a solid blue LED means connected.<PIC>\\n3. On your phone, turn Bluetooth on and choose AL Hydrabuds ANC from the available devices list.<PIC>\\n4. If the earbuds were already paired with a nearby device, they automatically reconnect to it.\\n5. For multipoint, you can connect up to two devices: turn Bluetooth off on the first paired device so the earbuds become available, pair the second device, then turn Bluetooth back on on the first device so it reconnects. You can then use either device for music or calls.\\n6. To pair a new device later, turn Bluetooth off on the current phone or device. Alternatively, press and then press and hold either earbud to drop the current connection and enter pairing mode.\",[\"Manual12_6\", \"Manual12_7\"]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Hydrabuds ANC.md:70",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:74",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:86",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:90",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:97",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:101",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:103",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:105",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:107",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:109",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:111",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:173",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:175"
+  ],
+  "status": "answered",
+  "notes": "Grounded in Hydrabuds ANC Bluetooth Pairing, Bluetooth Connection, Multipoint Bluetooth Connection, and Pair a New Device sections. Image Manual12_6 shows the pairing/connected LED legend; image Manual12_7 shows Bluetooth ON and AL Hydrabuds ANC in the available-device list."
+}

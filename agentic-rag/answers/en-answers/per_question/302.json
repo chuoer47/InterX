@@ -1,0 +1,21 @@
+{
+  "id": 302,
+  "question": "What are the maintenance and care policies of the earphones?",
+  "content": "1. Clean the earphones with a soft cloth or paper towel only; never use harsh chemicals or detergents, and make sure the earphones are dry before charging.\n2. Store the earphones in a cool, dry place when they are not in use.\n3. Do not tug or yank a cable while it is connected to the charging case; connect and disconnect cables as carefully as possible.\n4. Do not expose the earphones to high temperatures or extreme cold.\n5. Recycle or dispose of the earphones properly according to local laws and rules; contact local recycling facilities or the manufacturer for more information.",
+  "images": [],
+  "ret": "\"1. Clean the earphones with a soft cloth or paper towel only; never use harsh chemicals or detergents, and make sure the earphones are dry before charging.\\n2. Store the earphones in a cool, dry place when they are not in use.\\n3. Do not tug or yank a cable while it is connected to the charging case; connect and disconnect cables as carefully as possible.\\n4. Do not expose the earphones to high temperatures or extreme cold.\\n5. Recycle or dispose of the earphones properly according to local laws and rules; contact local recycling facilities or the manufacturer for more information.\",[]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:63",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:1",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:3",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:244",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:246",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:247",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:248",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:249",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:250"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Hydrabuds ANC Maintenance and Care section. No image is needed because the maintenance policies are fully stated in text and the nearby image belongs to the preceding Safety Precautions section."
+}

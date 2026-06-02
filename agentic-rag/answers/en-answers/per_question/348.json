@@ -1,0 +1,31 @@
+{
+  "id": 348,
+  "question": "What are basic steps to board my jetski with a passenger in deep water?",
+  "content": "Practice reboarding in shallow water before riding in deep water. For boarding with a passenger, do not exceed the total load limit of 160 kg (353 lb), including cargo, and do not apply throttle until the passenger is seated with both feet on the footwell floor and holding on to the operator.\n1. The passenger steadies the watercraft while the operator boards from the rear platform, pulls up into a seated position, and balances the watercraft.<PIC>\n2. Attach the lanyard to your left wrist, install its clip on the engine shut-off switch, start the engine, and keep it at idle.\n3. The passenger pulls up onto the platform, kneels, then crawls onto the seat as the watercraft accelerates.<PIC>\n4. Once both riders are seated, accelerate to planing speed, then reduce throttle to the desired running speed.<PIC>\nBefore starting off, look in all directions and make sure there are no boats, obstructions, or swimmers around you.",
+  "images": [
+    "jetski_06",
+    "jetski_07",
+    "jetski_08"
+  ],
+  "ret": "\"Practice reboarding in shallow water before riding in deep water. For boarding with a passenger, do not exceed the total load limit of 160 kg (353 lb), including cargo, and do not apply throttle until the passenger is seated with both feet on the footwell floor and holding on to the operator.\\n1. The passenger steadies the watercraft while the operator boards from the rear platform, pulls up into a seated position, and balances the watercraft.<PIC>\\n2. Attach the lanyard to your left wrist, install its clip on the engine shut-off switch, start the engine, and keep it at idle.\\n3. The passenger pulls up onto the platform, kneels, then crawls onto the seat as the watercraft accelerates.<PIC>\\n4. Once both riders are seated, accelerate to planing speed, then reduce throttle to the desired running speed.<PIC>\\nBefore starting off, look in all directions and make sure there are no boats, obstructions, or swimmers around you.\",[\"jetski_06\", \"jetski_07\", \"jetski_08\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "806",
+      "note": "Practice reboarding in shallow water before riding in deep water."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "828-856",
+      "note": "Boarding with a passenger warnings and standard sequence: no throttle until passenger is seated with feet in footwell and holding operator; check surroundings before starting off."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "858-874",
+      "note": "Deep-water or hard-to-balance passenger boarding sequence, 160 kg load limit, and image anchors jetski_06 through jetski_08."
+    }
+  ],
+  "status": "answered",
+  "notes": "Used only the WaveRunner manual and inspected the three selected image files. PIC count is 3 and matches images count."
+}

@@ -1,0 +1,16 @@
+{
+  "id": 420,
+  "question": "What is the proper way to use the steering system on a snowmobile?",
+  "content": "Before riding, check the steering system for excessive free play: push the handlebar up and down and back and forth, then turn it slightly right and left. If there is excessive free play, have a dealer inspect it.\nWhen riding, keep both hands on the handlebars and both feet on the running boards. Practice steering and turning at slow speed in a large, flat, obstacle-free area before using higher speeds or difficult terrain.\nFor most snow surfaces, slow down before a curve, turn the handlebars in the direction you want to go, put your weight on the running board on the inside of the turn, and lean your upper body into the turn. Lean more for sharper or faster turns. Avoid abrupt throttle changes, excessive braking, incorrect body movement, or too much speed for the turn. If the snowmobile starts to tip, lean farther into the turn; if needed, gradually ease off the throttle and/or steer toward the outside of the turn.",
+  "images": [],
+  "ret": "\"Before riding, check the steering system for excessive free play: push the handlebar up and down and back and forth, then turn it slightly right and left. If there is excessive free play, have a dealer inspect it.\\nWhen riding, keep both hands on the handlebars and both feet on the running boards. Practice steering and turning at slow speed in a large, flat, obstacle-free area before using higher speeds or difficult terrain.\\nFor most snow surfaces, slow down before a curve, turn the handlebars in the direction you want to go, put your weight on the running board on the inside of the turn, and lean your upper body into the turn. Lean more for sharper or faster turns. Avoid abrupt throttle changes, excessive braking, incorrect body movement, or too much speed for the turn. If the snowmobile starts to tip, lean farther into the turn; if needed, gradually ease off the throttle and/or steer toward the outside of the turn.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:894",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1051",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1059",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1071"
+  ],
+  "status": "answered",
+  "notes": "No image used because the text fully states the steering check and turning procedure."
+}

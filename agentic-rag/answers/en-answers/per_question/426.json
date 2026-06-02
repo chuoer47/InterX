@@ -1,0 +1,17 @@
+{
+  "id": 426,
+  "question": "What are the steps to clean a snowmobile?",
+  "content": "To clean the snowmobile for storage:\n1. Thoroughly clean the machine inside and out to remove corrosive salts and acids.\n2. Use Mud and Grease Release, or an equivalent product, to loosen mud, grease, and grime.\n3. Wash with mild soap.\n4. Rinse the machine.\n5. Dry it completely.\n6. After cleaning, apply wax such as Silicone Wax to painted surfaces, then spray Silicone Spray or an equivalent protectant on the exterior of the engine, track, and other metal, plastic, and rubber parts.",
+  "images": [],
+  "ret": "\"To clean the snowmobile for storage:\\n1. Thoroughly clean the machine inside and out to remove corrosive salts and acids.\\n2. Use Mud and Grease Release, or an equivalent product, to loosen mud, grease, and grime.\\n3. Wash with mild soap.\\n4. Rinse the machine.\\n5. Dry it completely.\\n6. After cleaning, apply wax such as Silicone Wax to painted surfaces, then spray Silicone Spray or an equivalent protectant on the exterior of the engine, track, and other metal, plastic, and rubber parts.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:2138",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:2142",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:2144",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:2162",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:2164"
+  ],
+  "status": "answered",
+  "notes": "No image is needed because the cleaning and protection steps are given as text without a nearby figure."
+}

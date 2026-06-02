@@ -1,0 +1,22 @@
+{
+  "id": 288,
+  "question": "Before taking photos, we need to know How to use the eyepiece cover of the camera?",
+  "content": "The eyepiece cover is attached to the strap. Use it for self-timer or optional remote switch shooting when your eye will not cover the viewfinder, because stray light entering the eyepiece can affect exposure.\n1. Remove the eyecup by pushing it upward from the bottom.<PIC>\n2. Slide the eyepiece cover downward into the eyepiece groove to attach it.<PIC>",
+  "images": [
+    "Manual10_154",
+    "Manual10_155"
+  ],
+  "ret": "\"The eyepiece cover is attached to the strap. Use it for self-timer or optional remote switch shooting when your eye will not cover the viewfinder, because stray light entering the eyepiece can affect exposure.\\n1. Remove the eyecup by pushing it upward from the bottom.<PIC>\\n2. Slide the eyepiece cover downward into the eyepiece groove to attach it.<PIC>\",[\"Manual10_154\", \"Manual10_155\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:365",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2324",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2326",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2328",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2332",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2334",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2338"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D eyepiece cover section. Manual10_154 shows pushing the eyecup upward; Manual10_155 shows sliding the eyepiece cover down into the eyepiece groove."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 414,
+  "question": "What are the steps to power the camera?",
+  "content": "1. Remove the cable guard.\n2. Connect the PoE cable to the camera; if the cord exits through the top, loop the cable inside the camera as shown.<PIC>\n3. Route the Ethernet cable from an active port on an 802.3af PoE switch or PoE injector. Keep the Power over Ethernet cable run within 300 ft (100 m).",
+  "images": [
+    "Manual33_3"
+  ],
+  "ret": "\"1. Remove the cable guard.\\n2. Connect the PoE cable to the camera; if the cord exits through the top, loop the cable inside the camera as shown.<PIC>\\n3. Route the Ethernet cable from an active port on an 802.3af PoE switch or PoE injector. Keep the Power over Ethernet cable run within 300 ft (100 m).\",[\"Manual33_3\"]",
+  "manual_guess": "MV Camera.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/MV Camera.md:69",
+    "agentic-rag/en-manual/MV Camera.md:71",
+    "agentic-rag/en-manual/MV Camera.md:123",
+    "agentic-rag/en-manual/MV Camera.md:125",
+    "agentic-rag/en-manual/MV Camera.md:127"
+  ],
+  "status": "answered",
+  "notes": "The exact section title is in the Cisco Meraki MV Camera Installation Guide. The power section states to remove the cable guard and route Ethernet from an active 802.3af PoE switch or injector, with a 300 ft (100 m) PoE cable limit. The included image is the adjacent installation figure showing the PoE cable loop inside the camera when the cord exits from the top."
+}

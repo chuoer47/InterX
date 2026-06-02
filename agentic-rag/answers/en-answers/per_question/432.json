@@ -1,0 +1,28 @@
+{
+  "id": 432,
+  "question": "What are the key factors to check when troubleshooting technical issues or malfunctions?",
+  "content": "Use the troubleshooting checklist by matching the symptom to the marked checks. For no power, no picture or sound, poor picture, poor reception, lines, ghosts, remote-control failure, or inability to tune a channel, check whether the power cord is plugged in, whether the television is turned on, the remote-control batteries, another channel to rule out station trouble, the antenna connections, local interference, antenna position, picture control settings, and whether the channel has been programmed with AUTO PROGRAM.<PIC>\nIf the checklist does not resolve the problem or the TV needs service, do not remove the cover or back; refer servicing to qualified personnel.",
+  "images": [
+    "Manual35_45"
+  ],
+  "ret": "\"Use the troubleshooting checklist by matching the symptom to the marked checks. For no power, no picture or sound, poor picture, poor reception, lines, ghosts, remote-control failure, or inability to tune a channel, check whether the power cord is plugged in, whether the television is turned on, the remote-control batteries, another channel to rule out station trouble, the antenna connections, local interference, antenna position, picture control settings, and whether the channel has been programmed with AUTO PROGRAM.<PIC>\\nIf the checklist does not resolve the problem or the TV needs service, do not remove the cover or back; refer servicing to qualified personnel.\",[\"Manual35_45\"]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/en-manual/Color Television.md",
+      "lines": "755-759",
+      "note": "Troubleshooting checklist heading and embedded checklist image."
+    },
+    {
+      "file": "agentic-rag/en-manual/Color Television.md",
+      "lines": "7,35-37",
+      "note": "Safety/service cautions state not to remove the cover or service the television yourself."
+    },
+    {
+      "file": "agentic-rag/en-manual/插图/Manual35_45.jpg",
+      "note": "Checklist matrix lists symptoms and the checks: power cord, TV power, remote batteries, another channel, antenna connections, local interference, antenna adjustment, picture control, and AUTO PROGRAM."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Color Television troubleshooting checklist. One image is used because the checklist items and symptom-to-check matrix are contained in the embedded figure."
+}

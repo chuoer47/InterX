@@ -1,0 +1,23 @@
+{
+  "id": 294,
+  "question": "How do I print photos using the camera's CP direct method after taking them?",
+  "content": "Use CP Direct from playback after connecting the camera to a compatible printer.\n1. In the menu, set [Communication] to [PTP] by selecting [Communication], pressing <SET>, selecting [PTP], and pressing <SET>.<PIC>\n2. Turn the camera off, set up the printer, connect the proper cable to the camera's <DIGITAL> terminal with the cable icon facing the front of the camera, turn the printer on, turn the camera on, and press the playback button. Use the cable supplied with the camera for a printer compatible with both PictBridge and CP Direct; use the printer cable for a CP Direct-only printer. RAW images cannot be printed directly, and do not disconnect the cable during direct printing.\n3. When the printer-connected icon appears at the upper left of the LCD monitor, turn the Quick Control Dial to choose the photo and press <SET>; the CP Direct print setting screen shows style, copies, trimming, return, and print controls.<PIC>\n4. Select [Style], press <SET>, set [Image], [Borders], and [Date] as desired, then press <MENU> to return to the print setting screen. [Image] is available only with card-size paper; [Multiple] prints 8 small copies of the same picture on one sheet, forces [Borderless] and [Date] to [Off], and cuts the image along all four edges.<PIC>\n5. Set [copies] if needed from 1 to 99, set trimming if needed, then select [Print] and press <SET>. Printing starts and the screen returns to step 1 when printing ends. To stop, press <SET> while [Stop] is displayed, select [OK], and press <SET>.<PIC>\nIf [Date] is [On], the recorded date prints at the lower right and may look light on a bright background or border. If a printing problem occurs, resolve it and select [Stop] or [Resume]; if [Resume] is not shown, select [Stop].",
+  "images": [
+    "Manual10_189",
+    "Manual10_207",
+    "Manual10_209",
+    "Manual10_211"
+  ],
+  "ret": "\"Use CP Direct from playback after connecting the camera to a compatible printer.\\n1. In the menu, set [Communication] to [PTP] by selecting [Communication], pressing <SET>, selecting [PTP], and pressing <SET>.<PIC>\\n2. Turn the camera off, set up the printer, connect the proper cable to the camera's <DIGITAL> terminal with the cable icon facing the front of the camera, turn the printer on, turn the camera on, and press the playback button. Use the cable supplied with the camera for a printer compatible with both PictBridge and CP Direct; use the printer cable for a CP Direct-only printer. RAW images cannot be printed directly, and do not disconnect the cable during direct printing.\\n3. When the printer-connected icon appears at the upper left of the LCD monitor, turn the Quick Control Dial to choose the photo and press <SET>; the CP Direct print setting screen shows style, copies, trimming, return, and print controls.<PIC>\\n4. Select [Style], press <SET>, set [Image], [Borders], and [Date] as desired, then press <MENU> to return to the print setting screen. [Image] is available only with card-size paper; [Multiple] prints 8 small copies of the same picture on one sheet, forces [Borderless] and [Date] to [Off], and cuts the image along all four edges.<PIC>\\n5. Set [copies] if needed from 1 to 99, set trimming if needed, then select [Print] and press <SET>. Printing starts and the screen returns to step 1 when printing ends. To stop, press <SET> while [Stop] is displayed, select [OK], and press <SET>.<PIC>\\nIf [Date] is [On], the recorded date prints at the lower right and may look light on a bright background or border. If a printing problem occurs, resolve it and select [Stop] or [Resume]; if [Resume] is not shown, select [Stop].\",[\"Manual10_189\", \"Manual10_207\", \"Manual10_209\", \"Manual10_211\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:2951-2955",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2957-2967",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2977-3001",
+    "agentic-rag/en-manual/Canon EOS 20D.md:3003-3027",
+    "agentic-rag/en-manual/Canon EOS 20D.md:3166-3231",
+    "agentic-rag/en-manual/Canon EOS 20D.md:3233-3241"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D direct printing setup and CP Direct procedure. Images correspond to the PTP communication setting, CP Direct print setting screen, style options, and print command screen."
+}

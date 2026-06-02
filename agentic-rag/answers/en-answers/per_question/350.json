@@ -1,0 +1,14 @@
+{
+  "id": 350,
+  "question": "What is the max load of the jetski?",
+  "content": "The maximum load is 160 kg (353 lb), counted as the total weight of cargo, operator, and passenger. The WaveRunner is designed for the operator and one passenger only, with no more than 2 people aboard.",
+  "images": [],
+  "ret": "\"The maximum load is 160 kg (353 lb), counted as the total weight of cargo, operator, and passenger. The WaveRunner is designed for the operator and one passenger only, with no more than 2 people aboard.\",[]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:121",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:860"
+  ],
+  "status": "answered",
+  "notes": "No image needed; the load limit is stated directly in the safety and boarding text."
+}

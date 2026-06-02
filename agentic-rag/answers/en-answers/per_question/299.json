@@ -1,0 +1,17 @@
+{
+  "id": 299,
+  "question": "What are the two main controling functions of earphones?",
+  "content": "The two main earphone control functions are music control and call control. Music control covers play/pause, volume up/down, previous track, and next track; call control covers answering, ending, and rejecting calls.",
+  "images": [],
+  "ret": "\"The two main earphone control functions are music control and call control. Music control covers play/pause, volume up/down, previous track, and next track; call control covers answering, ending, and rejecting calls.\",[]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Hydrabuds ANC.md:113",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:117",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:121",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:129",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:133"
+  ],
+  "status": "answered",
+  "notes": "No image needed; answer is based on the Earbud Controls section headings and control lists."
+}

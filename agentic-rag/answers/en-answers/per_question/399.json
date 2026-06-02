@@ -1,0 +1,21 @@
+{
+  "id": 399,
+  "question": "What do you know about quick release button of a multi-use pressure cooker and air fryer?",
+  "content": "The quick release button on the pressure cooking lid controls the steam release valve and determines whether pressure is released. It sits on the lid and has a Seal position for sealing and a Vent position for venting.<PIC>\nFor Quick Release, press the quick release button down until it clicks and locks into the Vent position; this stops cooking quickly and helps prevent overcooking, so use it for quick-cooking vegetables and delicate seafood.<PIC>\nWhen the button is pressed down, steam ejects through the top of the steam release valve; after pressure has fully released, the float valve drops into the lid.<PIC>\nAlthough the lid says Turn to Seal, the sealing motion is a flick. Do not turn the button more than 1/4 turn, or 45 degrees, and let it spring back to its original position. Keep hands, face, and exposed skin away from the steam release valve.",
+  "images": [
+    "Manual30_14",
+    "multi-use_pressure_cooker_and_air_fryer_01",
+    "multi-use_pressure_cooker_and_air_fryer_02"
+  ],
+  "ret": "\"The quick release button on the pressure cooking lid controls the steam release valve and determines whether pressure is released. It sits on the lid and has a Seal position for sealing and a Vent position for venting.<PIC>\\nFor Quick Release, press the quick release button down until it clicks and locks into the Vent position; this stops cooking quickly and helps prevent overcooking, so use it for quick-cooking vegetables and delicate seafood.<PIC>\\nWhen the button is pressed down, steam ejects through the top of the steam release valve; after pressure has fully released, the float valve drops into the lid.<PIC>\\nAlthough the lid says Turn to Seal, the sealing motion is a flick. Do not turn the button more than 1/4 turn, or 45 degrees, and let it spring back to its original position. Keep hands, face, and exposed skin away from the steam release valve.\",[\"Manual30_14\", \"multi-use_pressure_cooker_and_air_fryer_01\", \"multi-use_pressure_cooker_and_air_fryer_02\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:164-170",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:236-248",
+    "agentic-rag/en-manual/插图/Manual30_14.jpg",
+    "agentic-rag/en-manual/插图/multi-use_pressure_cooker_and_air_fryer_01.jpg",
+    "agentic-rag/en-manual/插图/multi-use_pressure_cooker_and_air_fryer_02.jpg"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Quick Release Button and Quick Release sections. Images show the button positions, pressing the button into Vent, and steam venting from the valve."
+}

@@ -1,0 +1,30 @@
+{
+  "id": 277,
+  "question": "How do I check the boat's steering system when I'm driving it?",
+  "content": "Check it before driving, not while underway; the manual says the steering and shifting pre-operation checks need two people, one at the controls and one observing the stern. Do not operate the boat if you find a steering problem.\n1. Make sure the steering wheel is not loose and has no in-and-out or rotational free play. Turn the wheel fully right and fully left; it must move smoothly and without restriction through the whole range.<PIC>\n2. Have the person at the stern confirm both jet thrust nozzles move as the steering wheel turns: nozzles point to starboard when the wheel is turned right and to port when it is turned left. There must be no free play between the wheel and the nozzles, and the articulating keel must change direction with the nozzles.<PIC>\n3. When actually driving, keep in mind that steering depends on both steering-wheel position and throttle. Do not pull the remote control levers back to idle when trying to steer away from objects; above trolling speed, steering response rapidly decreases without throttle.",
+  "images": [
+    "Manual09_206",
+    "Manual09_207"
+  ],
+  "ret": "\"Check it before driving, not while underway; the manual says the steering and shifting pre-operation checks need two people, one at the controls and one observing the stern. Do not operate the boat if you find a steering problem.\\n1. Make sure the steering wheel is not loose and has no in-and-out or rotational free play. Turn the wheel fully right and fully left; it must move smoothly and without restriction through the whole range.<PIC>\\n2. Have the person at the stern confirm both jet thrust nozzles move as the steering wheel turns: nozzles point to starboard when the wheel is turned right and to port when it is turned left. There must be no free play between the wheel and the nozzles, and the articulating keel must change direction with the nozzles.<PIC>\\n3. When actually driving, keep in mind that steering depends on both steering-wheel position and throttle. Do not pull the remote control levers back to idle when trying to steer away from objects; above trolling speed, steering response rapidly decreases without throttle.\",[\"Manual09_206\", \"Manual09_207\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1661-1667",
+      "evidence": "Pre-operation warning says improper inspection or maintenance increases accident/damage risk, not to operate if a problem is found, and to perform pre-operation checks before operating."
+    },
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1673-1687",
+      "evidence": "Steering and shifting pre-operation checks require two persons; steering check requires no wheel looseness or free play, smooth full travel, correct nozzle directions, no wheel-to-nozzle free play, and articulating keel movement with the nozzles."
+    },
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1963-1979",
+      "evidence": "Turning section warns not to pull the remote control levers back to idle when steering away from objects, because steering depends on wheel position and throttle and decreases rapidly without throttle above trolling speed."
+    }
+  ],
+  "status": "answered",
+  "notes": "Routed to the Yamaha 210FSH boat manual. Included the pre-operation steering-system check as the direct answer, plus the driving-specific throttle caution because the question says 'when driving it.'"
+}

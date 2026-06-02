@@ -1,0 +1,16 @@
+{
+  "id": 324,
+  "question": "I've heard that my jetski has cruising limitations. Please introduce them.",
+  "content": "Your WaveRunner's cruising limitations are mainly safety limits for where, when, and how you ride. Scan constantly for people, objects, and other watercraft; keep a safe distance; do not follow directly behind other boats or go near others to spray or splash them. Avoid sharp turns or maneuvers that make your direction hard to predict, submerged objects, shallow water, aggressive maneuvers, and wake or wave jumping. Do not operate in rough water, bad weather, poor visibility, water less than 60 cm (2 ft) deep, after sunset, or before dawn. If you ride farther than swimming distance from shore, ride with another boat or watercraft nearby while still keeping a safe distance.",
+  "images": [],
+  "ret": "\"Your WaveRunner's cruising limitations are mainly safety limits for where, when, and how you ride. Scan constantly for people, objects, and other watercraft; keep a safe distance; do not follow directly behind other boats or go near others to spray or splash them. Avoid sharp turns or maneuvers that make your direction hard to predict, submerged objects, shallow water, aggressive maneuvers, and wake or wave jumping. Do not operate in rough water, bad weather, poor visibility, water less than 60 cm (2 ft) deep, after sunset, or before dawn. If you ride farther than swimming distance from shore, ride with another boat or watercraft nearby while still keeping a safe distance.\",[]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:123",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:127",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:131",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:135"
+  ],
+  "status": "answered",
+  "notes": "The Cruising limitations section directly lists visibility, distance, weather, shallow-water, wake-jumping, and night-operation restrictions. No image is needed because the restrictions are fully stated in text."
+}

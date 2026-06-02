@@ -1,0 +1,25 @@
+{
+  "id": 326,
+  "question": "What kinds of watercraft characteristics does my jetski have?",
+  "content": "Your jetski is water-jet propelled. The jet pump is directly connected to the engine, so jet thrust produces some movement whenever the engine is running and there is no neutral position.\nJet thrust is also what steers the watercraft: more throttle produces more thrust and a sharper turn; less throttle produces less thrust and a more gradual turn. If you release the throttle completely above trolling speed, steering ability drops quickly, and after the engine slows the watercraft will not respond to handlebar input until you apply throttle again or reach trolling speed. If the engine is stopped while riding, there is no thrust and the watercraft will go straight even if the handlebars are turned.\nPractice turning in an open, obstruction-free area. Before removing weeds or debris from the jet intake, stop the engine and remove the clip from the engine shut-off switch shown here.<PIC>\nKeep away from the intake grate while the engine is on, because long hair, loose clothing, or PFD straps can become entangled. Never put any object into the jet thrust nozzle while the engine is running; contact with rotating jet-pump parts can cause severe injury or death. The intake grate and jet thrust nozzle are shown here.<PIC>",
+  "images": [
+    "Manual20_24",
+    "Manual20_25"
+  ],
+  "ret": "\"Your jetski is water-jet propelled. The jet pump is directly connected to the engine, so jet thrust produces some movement whenever the engine is running and there is no neutral position.\\nJet thrust is also what steers the watercraft: more throttle produces more thrust and a sharper turn; less throttle produces less thrust and a more gradual turn. If you release the throttle completely above trolling speed, steering ability drops quickly, and after the engine slows the watercraft will not respond to handlebar input until you apply throttle again or reach trolling speed. If the engine is stopped while riding, there is no thrust and the watercraft will go straight even if the handlebars are turned.\\nPractice turning in an open, obstruction-free area. Before removing weeds or debris from the jet intake, stop the engine and remove the clip from the engine shut-off switch shown here.<PIC>\\nKeep away from the intake grate while the engine is on, because long hair, loose clothing, or PFD straps can become entangled. Never put any object into the jet thrust nozzle while the engine is running; contact with rotating jet-pump parts can cause severe injury or death. The intake grate and jet thrust nozzle are shown here.<PIC>\",[\"Manual20_24\", \"Manual20_25\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:171",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:173",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:175",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:177",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:179",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:681",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:685",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:687",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:690",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:698"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Watercraft characteristics and Turning the watercraft sections. Images identify the shut-off clip/switch and the intake grate/jet thrust nozzle referenced by the safety cautions."
+}

@@ -1,0 +1,13 @@
+{
+  "id": 296,
+  "question": "After the earphones is in my hand, what are the components I should have?",
+  "content": "The Hydrabuds ANC package should include 1 Hydrabuds ANC, 1 pair each of S, M, and L silicone ear tips, 1 pair each of S, M, and L memory foam ear tips, 1 pair each of S, M, and L Helix Wings, 1 pair of bumpers, 1 charging case, 1 USB-C charging cable, and 1 quick start guide.",
+  "images": [],
+  "ret": "\"The Hydrabuds ANC package should include 1 Hydrabuds ANC, 1 pair each of S, M, and L silicone ear tips, 1 pair each of S, M, and L memory foam ear tips, 1 pair each of S, M, and L Helix Wings, 1 pair of bumpers, 1 charging case, 1 USB-C charging cable, and 1 quick start guide.\",[]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Hydrabuds ANC.md:11-22"
+  ],
+  "status": "answered",
+  "notes": "Answered from the In the Box section. No image is needed because the package contents are listed directly in text."
+}

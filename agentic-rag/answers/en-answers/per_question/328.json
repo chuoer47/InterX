@@ -1,0 +1,21 @@
+{
+  "id": 328,
+  "question": "I'd like to remove and install the seat of my jetski, what steps should I follow?",
+  "content": "To remove the seat, find the seat latch at the rear of the seat; it is the labeled latch shown here.<PIC>\n1. Pull the seat latch up.\n2. Pull the seat off in the direction shown by the seat-removal figure.<PIC>\nTo install the seat:\n1. Insert the projection on the front of the seat into the stay on the deck.\n2. Push the rear of the seat down until it locks securely in place, as shown here.<PIC>\nBefore operating the watercraft, make sure the seat is properly secured.",
+  "images": [
+    "Manual20_35",
+    "Manual20_36",
+    "Manual20_37"
+  ],
+  "ret": "\"To remove the seat, find the seat latch at the rear of the seat; it is the labeled latch shown here.<PIC>\\n1. Pull the seat latch up.\\n2. Pull the seat off in the direction shown by the seat-removal figure.<PIC>\\nTo install the seat:\\n1. Insert the projection on the front of the seat into the stay on the deck.\\n2. Push the rear of the seat down until it locks securely in place, as shown here.<PIC>\\nBefore operating the watercraft, make sure the seat is properly secured.\",[\"Manual20_35\", \"Manual20_36\", \"Manual20_37\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "306-326",
+      "summary": "Seat section identifies the rear seat latch, removal step, installation step, and final security check."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answer uses the dedicated Seat section and the three adjacent seat figures."
+}

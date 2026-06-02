@@ -1,0 +1,19 @@
+{
+  "id": 429,
+  "question": "What are the steps to enable and customize captions and on-screen text settings on a television?",
+  "content": "1. To set the on-screen display language, press MENU, use the up/down button until the Special menu is shown, choose Language with the right button and up/down buttons, then choose the language with the right and up/down buttons; from then on, the on-screen display appears in that language. The Special menu contains the Language and Caption entries used for these settings.<PIC>\n2. To turn captions or text on with the remote shortcut, press CAPTION, press CAPTION again until the setting you want appears, then press ENTER (OK) to exit. The shortcut cycles through Off, Mode1, Mode2, Text1, and Text2, with the current caption mode shown on screen.<PIC>\n3. To change the same setting through the menu, press MENU, use up/down to select the Special menu, press the right button and use up/down to select Caption, then press the right button and use up/down to choose Off, Mode1, Mode2, Text1, or Text2; repeatedly press MENU to exit. The Caption menu shows the same mode choices and highlights the selected one.<PIC>\n4. Use Mode1 for the usual caption signal; Mode2 may show demonstration or programming information. Text1/Text2 use full-screen text services such as program lists, weather, stock, or news when the station provides them. Not all broadcasts include caption or text signals, poor reception can disrupt them, and a black box may appear in Text mode during poor signal conditions. The TV remembers the last caption/text mode after power-off.",
+  "images": [
+    "Manual35_4",
+    "Manual35_37",
+    "Manual35_38"
+  ],
+  "ret": "\"1. To set the on-screen display language, press MENU, use the up/down button until the Special menu is shown, choose Language with the right button and up/down buttons, then choose the language with the right and up/down buttons; from then on, the on-screen display appears in that language. The Special menu contains the Language and Caption entries used for these settings.<PIC>\\n2. To turn captions or text on with the remote shortcut, press CAPTION, press CAPTION again until the setting you want appears, then press ENTER (OK) to exit. The shortcut cycles through Off, Mode1, Mode2, Text1, and Text2, with the current caption mode shown on screen.<PIC>\\n3. To change the same setting through the menu, press MENU, use up/down to select the Special menu, press the right button and use up/down to select Caption, then press the right button and use up/down to choose Off, Mode1, Mode2, Text1, or Text2; repeatedly press MENU to exit. The Caption menu shows the same mode choices and highlights the selected one.<PIC>\\n4. Use Mode1 for the usual caption signal; Mode2 may show demonstration or programming information. Text1/Text2 use full-screen text services such as program lists, weather, stock, or news when the station provides them. Not all broadcasts include caption or text signals, poor reception can disrupt them, and a black box may appear in Text mode during poor signal conditions. The TV remembers the last caption/text mode after power-off.\",[\"Manual35_4\", \"Manual35_37\", \"Manual35_38\"]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color Television.md:134-144",
+    "agentic-rag/en-manual/Color Television.md:570-586",
+    "agentic-rag/en-manual/Color Television.md:615-645"
+  ],
+  "status": "answered",
+  "notes": "The manual provides only mode/language selection, not font, color, or size customization. Caption/Text modes are Off, Mode1, Mode2, Text1, and Text2; the set remembers the last selected mode."
+}

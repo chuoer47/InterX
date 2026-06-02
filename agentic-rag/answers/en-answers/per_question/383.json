@@ -1,0 +1,25 @@
+{
+  "id": 383,
+  "question": "How do you know about system memory of a motherboard?",
+  "content": "The motherboard system memory section says this board has four 288-pin DDR4 DIMM sockets labeled DIMM_A1, DIMM_A2, DIMM_B1, and DIMM_B2. Use DDR4 memory only; DDR, DDR2, and DDR3 modules must not be installed in these DDR4 slots, and DIMM voltage below 1.65 V is recommended to protect the CPU.<PIC>\nIt supports 2 GB, 4 GB, 8 GB, and 16 GB unbuffered non-ECC DDR4 DIMMs. For best compatibility, install one DIMM in A2; install two DIMMs in the same-color A2/B2 slots for dual-channel operation; or install four DIMMs in A1/A2 and B1/B2 as two dual-channel pairs.<PIC>\nMemory sizes may differ between Channel A and Channel B, but only the lower-sized channel amount runs as dual-channel and the extra memory from the larger channel runs as single-channel. With a 32-bit operating system, 4 GB or more installed memory may leave about 3 GB or less usable, so use up to 3 GB on 32-bit or use a 64-bit operating system for 4 GB or more. For compatibility, use DIMMs with the same CAS latency, preferably the same vendor/version/date code, and use better memory cooling for four DIMMs or overclocking.",
+  "images": [
+    "Manual25_18",
+    "Manual25_19"
+  ],
+  "ret": "\"The motherboard system memory section says this board has four 288-pin DDR4 DIMM sockets labeled DIMM_A1, DIMM_A2, DIMM_B1, and DIMM_B2. Use DDR4 memory only; DDR, DDR2, and DDR3 modules must not be installed in these DDR4 slots, and DIMM voltage below 1.65 V is recommended to protect the CPU.<PIC>\\nIt supports 2 GB, 4 GB, 8 GB, and 16 GB unbuffered non-ECC DDR4 DIMMs. For best compatibility, install one DIMM in A2; install two DIMMs in the same-color A2/B2 slots for dual-channel operation; or install four DIMMs in A1/A2 and B1/B2 as two dual-channel pairs.<PIC>\\nMemory sizes may differ between Channel A and Channel B, but only the lower-sized channel amount runs as dual-channel and the extra memory from the larger channel runs as single-channel. With a 32-bit operating system, 4 GB or more installed memory may leave about 3 GB or less usable, so use up to 3 GB on 32-bit or use a 64-bit operating system for 4 GB or more. For compatibility, use DIMMs with the same CAS latency, preferably the same vendor/version/date code, and use better memory cooling for four DIMMs or overclocking.\",[\"Manual25_18\", \"Manual25_19\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:231",
+    "agentic-rag/en-manual/Motherboard.md:235",
+    "agentic-rag/en-manual/Motherboard.md:237",
+    "agentic-rag/en-manual/Motherboard.md:243",
+    "agentic-rag/en-manual/Motherboard.md:247",
+    "agentic-rag/en-manual/Motherboard.md:249",
+    "agentic-rag/en-manual/Motherboard.md:253",
+    "agentic-rag/en-manual/Motherboard.md:257",
+    "agentic-rag/en-manual/Motherboard.md:261",
+    "agentic-rag/en-manual/Motherboard.md:303"
+  ],
+  "status": "answered",
+  "notes": "Answered from Motherboard section 1.4 System memory; selected the DIMM socket layout and recommended population diagram because the answer names slot labels and installation population."
+}

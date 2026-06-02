@@ -1,0 +1,26 @@
+{
+  "id": 265,
+  "question": "How to use the energy saving mode of a coffee machine?",
+  "content": "The machine automatically enters Power Off mode after 9 minutes; press either the Espresso or Lungo button to turn it on again.<PIC>\nTo turn it off before automatic Power Off, press the Espresso and Lungo buttons at the same time.<PIC>\nTo change the energy-saving setting, start with the machine off and hold the Espresso button for 3 seconds.<PIC>\nThe Espresso button blinks to show the current setting.<PIC>\nPress the Espresso button to cycle the setting: once for Power Off after 9 minutes, once more for Power Off after 30 minutes, and once more to deactivate Power Off.<PIC>\nHold the Lungo button for 3 seconds to exit energy saving mode.<PIC>",
+  "images": [
+    "Manual07_4",
+    "Manual07_5",
+    "Manual07_6",
+    "Manual07_7",
+    "Manual07_8",
+    "Manual07_9"
+  ],
+  "ret": "\"The machine automatically enters Power Off mode after 9 minutes; press either the Espresso or Lungo button to turn it on again.<PIC>\\nTo turn it off before automatic Power Off, press the Espresso and Lungo buttons at the same time.<PIC>\\nTo change the energy-saving setting, start with the machine off and hold the Espresso button for 3 seconds.<PIC>\\nThe Espresso button blinks to show the current setting.<PIC>\\nPress the Espresso button to cycle the setting: once for Power Off after 9 minutes, once more for Power Off after 30 minutes, and once more to deactivate Power Off.<PIC>\\nHold the Lungo button for 3 seconds to exit energy saving mode.<PIC>\",[\"Manual07_4\", \"Manual07_5\", \"Manual07_6\", \"Manual07_7\", \"Manual07_8\", \"Manual07_9\"]",
+  "manual_guess": "Nespresso CitiZ D111.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:195-219",
+    "agentic-rag/en-manual/插图/Manual07_4.jpg",
+    "agentic-rag/en-manual/插图/Manual07_5.jpg",
+    "agentic-rag/en-manual/插图/Manual07_6.jpg",
+    "agentic-rag/en-manual/插图/Manual07_7.jpg",
+    "agentic-rag/en-manual/插图/Manual07_8.jpg",
+    "agentic-rag/en-manual/插图/Manual07_9.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Nespresso CitiZ D111 energy saving mode section; images are the adjacent button/action illustrations for the same steps."
+}

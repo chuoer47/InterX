@@ -1,0 +1,22 @@
+{
+  "id": 249,
+  "question": "How to install an anchor light while the boat is moving?",
+  "content": "Do not install the removable anchor light while the boat is moving. On the 210FSH DELUXE, setup starts by opening the lockable storage compartment, and the manual warns not to open that compartment while underway because the lid could block your vision, close unexpectedly, or pinch you. Stop the boat or install the light before getting underway.\n1. Open the lockable storage compartment and remove the anchor light from its holder.\n2. Slide anchor light stoppers A and B apart, extend the pole, and screw stopper A onto the center section of the pole.\n3. Open the anchor light socket cap, align the protrusion on the light with the slot in the socket, and install the light into the socket.\n4. Fit stopper B into the anchor light socket.\n5. When running before dawn, after dusk, or in low visibility, push the upper side of the navigation and anchor lights switch to \"NAV\" so both bow and anchor lights are on. Use \"ANC\" only for the anchor light alone when anchored at night.\nFor the 210FSH SPORT, there is no removable installation step: pull the lock tab, raise the T-top anchor light, and move the lock tab back to lock it in place.",
+  "images": [],
+  "ret": "\"Do not install the removable anchor light while the boat is moving. On the 210FSH DELUXE, setup starts by opening the lockable storage compartment, and the manual warns not to open that compartment while underway because the lid could block your vision, close unexpectedly, or pinch you. Stop the boat or install the light before getting underway.\\n1. Open the lockable storage compartment and remove the anchor light from its holder.\\n2. Slide anchor light stoppers A and B apart, extend the pole, and screw stopper A onto the center section of the pole.\\n3. Open the anchor light socket cap, align the protrusion on the light with the slot in the socket, and install the light into the socket.\\n4. Fit stopper B into the anchor light socket.\\n5. When running before dawn, after dusk, or in low visibility, push the upper side of the navigation and anchor lights switch to \\\"NAV\\\" so both bow and anchor lights are on. Use \\\"ANC\\\" only for the anchor light alone when anchored at night.\\nFor the 210FSH SPORT, there is no removable installation step: pull the lock tab, raise the T-top anchor light, and move the lock tab back to lock it in place.\",[]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1121",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1321",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1329",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1333",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1337",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1341",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1345",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1349",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:317",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:957"
+  ],
+  "status": "answered",
+  "notes": "No images used; the answer depends on the moving-boat warning plus the documented anchor-light setup and switch positions."
+}

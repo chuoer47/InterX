@@ -1,0 +1,25 @@
+{
+  "id": 349,
+  "question": "If it is difficult to balance the jetski at a stand still, what should I do?",
+  "content": "Do not operate the watercraft if the total weight of operator, passenger, and cargo exceeds 160 kg (353 lb). If it is difficult to balance at a standstill, use this boarding sequence:\n1. Have the passenger steady the watercraft while the operator boards; the operator pulls up onto the platform into a seated position, then balances the watercraft.<PIC>\n2. Attach the lanyard to your left wrist, install the clip on the lanyard to the engine shut-off switch, start the engine, and keep it at idle.\n3. Have the passenger pull up onto the platform, kneel down, and crawl onto the seat as the watercraft accelerates.<PIC>\n4. Once both riders are seated and stable, accelerate to planing speed, then reduce the throttle to the desired running speed.<PIC>",
+  "images": [
+    "jetski_06",
+    "jetski_07",
+    "jetski_08"
+  ],
+  "ret": "\"Do not operate the watercraft if the total weight of operator, passenger, and cargo exceeds 160 kg (353 lb). If it is difficult to balance at a standstill, use this boarding sequence:\\n1. Have the passenger steady the watercraft while the operator boards; the operator pulls up onto the platform into a seated position, then balances the watercraft.<PIC>\\n2. Attach the lanyard to your left wrist, install the clip on the lanyard to the engine shut-off switch, start the engine, and keep it at idle.\\n3. Have the passenger pull up onto the platform, kneel down, and crawl onto the seat as the watercraft accelerates.<PIC>\\n4. Once both riders are seated and stable, accelerate to planing speed, then reduce the throttle to the desired running speed.<PIC>\",[\"jetski_06\", \"jetski_07\", \"jetski_08\"]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:858",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:860",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:862",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:866",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:868",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:872",
+    "agentic-rag/en-manual/插图/jetski_06.png",
+    "agentic-rag/en-manual/插图/jetski_07.png",
+    "agentic-rag/en-manual/插图/jetski_08.png"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the WaveRunner boarding-with-passenger standstill-balance note. Images show the special boarding sequence and correspond one-to-one with the three PIC placeholders."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 427,
+  "question": "What are the best methods for memorizing communication channels using a manual program?",
+  "content": "For TV channel memorizing by MANUAL PROGRAM, use either method:\n1. With the remote control, press the up/down or number buttons to choose the channel number you want to memorize or erase, then press MEMORY/ERASE to choose Memory or Erase.\n2. Through the menu, press MENU and use up/down until the channel menu appears. Press right and choose Manual, then choose Channel. Select the channel number, choose Memory, set it to On to memorize the channel or Off to erase it, then repeatedly press MENU to exit.",
+  "images": [],
+  "ret": "\"For TV channel memorizing by MANUAL PROGRAM, use either method:\\n1. With the remote control, press the up/down or number buttons to choose the channel number you want to memorize or erase, then press MEMORY/ERASE to choose Memory or Erase.\\n2. Through the menu, press MENU and use up/down until the channel menu appears. Press right and choose Manual, then choose Channel. Select the channel number, choose Memory, set it to On to memorize the channel or Off to erase it, then repeatedly press MENU to exit.\",[]",
+  "manual_guess": "Color Television.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color Television.md:188",
+    "agentic-rag/en-manual/Color Television.md:190",
+    "agentic-rag/en-manual/Color Television.md:192",
+    "agentic-rag/en-manual/Color Television.md:194",
+    "agentic-rag/en-manual/Color Television.md:198",
+    "agentic-rag/en-manual/Color Television.md:200",
+    "agentic-rag/en-manual/Color Television.md:202",
+    "agentic-rag/en-manual/Color Television.md:204",
+    "agentic-rag/en-manual/Color Television.md:206",
+    "agentic-rag/en-manual/Color Television.md:210",
+    "agentic-rag/en-manual/Color Television.md:214",
+    "agentic-rag/en-manual/Color Television.md:216"
+  ],
+  "status": "answered",
+  "notes": "Question maps to the Color Television manual's MANUAL PROGRAM channel memorizing section. The answer uses the two stated manual programming paths: direct MEMORY/ERASE on the remote and the MENU-based Manual/Channel/Memory flow. No image is required because the procedure is fully stated in text."
+}

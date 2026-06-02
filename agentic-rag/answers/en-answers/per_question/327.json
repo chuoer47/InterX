@@ -1,0 +1,24 @@
+{
+  "id": 327,
+  "question": "When encountering vessels driving my jetski, what rules should I obey?",
+  "content": "Treat the WaveRunner as a powerboat and follow the waterway rules and regulations where you ride, including the International Rules of the Road and any local rules.\n\n1. Know stand-on vs. give-way: the stand-on vessel keeps course and speed unless immediate collision avoidance is needed. The give-way vessel takes positive, timely action, normally slowing or changing direction to pass behind the stand-on vessel and making its intentions visible.\n2. If collision appears unavoidable, both vessels must act to avoid it; both become give-way vessels.\n3. Meeting head-on with risk of collision: neither vessel has right-of-way. Both alter course; keep the other vessel on your port (left) side unless you will safely clear each other on your current courses.\n4. Crossing: if the other power-driven vessel is on your starboard (right) side, keep out of its way. If it is on your port (left) side, maintain course and speed as long as it yields properly.\n5. Overtaking: if you pass another vessel, you are the give-way vessel and must stay clear until fully past it. If another vessel is passing you, maintain speed and direction so it can steer around you.\n6. Narrow channels and bends: keep right when safe and practical. Around a blind bend, sound a prolonged 4-6 second whistle blast and proceed cautiously even if no reply is heard; carry a portable air horn for such waters.\n7. Fishing vessels using nets, lines, or trawls have right-of-way regardless of position, but cannot impede narrow-channel passage. Trolling lines alone do not make a vessel a fishing vessel.\n8. Sailing vessels normally have right-of-way, except when they are overtaking a power-driven vessel, when they must keep clear of fishing vessels, and when a narrow channel requires them not to hamper a power-driven vessel that can navigate only in that channel.",
+  "images": [],
+  "ret": "\"Treat the WaveRunner as a powerboat and follow the waterway rules and regulations where you ride, including the International Rules of the Road and any local rules.\\n\\n1. Know stand-on vs. give-way: the stand-on vessel keeps course and speed unless immediate collision avoidance is needed. The give-way vessel takes positive, timely action, normally slowing or changing direction to pass behind the stand-on vessel and making its intentions visible.\\n2. If collision appears unavoidable, both vessels must act to avoid it; both become give-way vessels.\\n3. Meeting head-on with risk of collision: neither vessel has right-of-way. Both alter course; keep the other vessel on your port (left) side unless you will safely clear each other on your current courses.\\n4. Crossing: if the other power-driven vessel is on your starboard (right) side, keep out of its way. If it is on your port (left) side, maintain course and speed as long as it yields properly.\\n5. Overtaking: if you pass another vessel, you are the give-way vessel and must stay clear until fully past it. If another vessel is passing you, maintain speed and direction so it can steer around you.\\n6. Narrow channels and bends: keep right when safe and practical. Around a blind bend, sound a prolonged 4-6 second whistle blast and proceed cautiously even if no reply is heard; carry a portable air horn for such waters.\\n7. Fishing vessels using nets, lines, or trawls have right-of-way regardless of position, but cannot impede narrow-channel passage. Trolling lines alone do not make a vessel a fishing vessel.\\n8. Sailing vessels normally have right-of-way, except when they are overtaking a power-driven vessel, when they must keep clear of fishing vessels, and when a narrow channel requires them not to hamper a power-driven vessel that can navigate only in that channel.\",[]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:181",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:183",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:187",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:191",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:195",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:201",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:207",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:213",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:219",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:227",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:231",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:235"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha WaveRunner Rules of the Road section. No images used because the rules are fully stated in text and the nearby diagrams are not necessary to understand the answer."
+}

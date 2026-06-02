@@ -1,0 +1,24 @@
+{
+  "id": 434,
+  "question": "How do you adjust the intensity settings on an electric toothbrush to suit your oral care needs?",
+  "content": "Choose one of the three intensity levels: High uses three lights, Medium uses two lights, and Low uses one light.<PIC>\n1. To change the intensity from the handle, press the intensity indicator lights/hidden button to cycle through the levels.\n2. You can change the intensity before, during, or after brushing.<PIC>\n3. You can also customize the intensity in the app.\n4. If Adaptive Intensity is active and you apply excess pressure for an extended period, the toothbrush automatically lowers the intensity by 1 level; each new brushing cycle returns to your pre-selected setting.",
+  "images": [
+    "toothbrush0_06",
+    "toothbrush0_07"
+  ],
+  "ret": "\"Choose one of the three intensity levels: High uses three lights, Medium uses two lights, and Low uses one light.<PIC>\\n1. To change the intensity from the handle, press the intensity indicator lights/hidden button to cycle through the levels.\\n2. You can change the intensity before, during, or after brushing.<PIC>\\n3. You can also customize the intensity in the app.\\n4. If Adaptive Intensity is active and you apply excess pressure for an extended period, the toothbrush automatically lowers the intensity by 1 level; each new brushing cycle returns to your pre-selected setting.\",[\"toothbrush0_06\", \"toothbrush0_07\"]",
+  "manual_guess": "Philips Sonicare Prestige.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:105",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:128",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:153",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:220",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:228",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:230",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:232",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:234",
+    "agentic-rag/en-manual/Philips Sonicare Prestige.md:284"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Philips Sonicare Prestige intensity settings and Adaptive Intensity sections. Included only the two images adjacent to the manual intensity-level and press-to-cycle instructions."
+}

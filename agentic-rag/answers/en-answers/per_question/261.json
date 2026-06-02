@@ -1,0 +1,18 @@
+{
+  "id": 261,
+  "question": "How do I load the boat when the cruise is over?",
+  "content": "1. Disconnect the trailer lights from the towing vehicle.\n2. Back the trailer down the ramp as close to 90 degrees to the shoreline as possible. If possible, have a second person stand to the side as an observer. Stop when the tops of the trailer fenders are about 3 inches above the waterline.\n3. With the boat moving at the slowest idle speed, guide it onto the support rails. Use throttle only if needed for steering; too much throttle can make the boat jump over the front of the trailer and injure the operator or bystanders.\n4. Make sure the boat is centered on the support rails and headed straight for the bow stop. Ease forward until the bow rests against the bow stop. The winch line is not designed to pull the boat onto the trailer.\n5. Attach and tighten the winch line to the bow eye, and also use the chain to secure the bow; the winch line alone is not enough for trailering.<PIC>\n6. Pull the trailer up the ramp out of other boaters' way. Attach the bow and stern tie-downs, using the stern eyes for the stern tie-downs, then reconnect the trailer lights.<PIC>\n7. Perform the post-operation checks.",
+  "images": [
+    "Manual09_255",
+    "Manual09_256"
+  ],
+  "ret": "\"1. Disconnect the trailer lights from the towing vehicle.\\n2. Back the trailer down the ramp as close to 90 degrees to the shoreline as possible. If possible, have a second person stand to the side as an observer. Stop when the tops of the trailer fenders are about 3 inches above the waterline.\\n3. With the boat moving at the slowest idle speed, guide it onto the support rails. Use throttle only if needed for steering; too much throttle can make the boat jump over the front of the trailer and injure the operator or bystanders.\\n4. Make sure the boat is centered on the support rails and headed straight for the bow stop. Ease forward until the bow rests against the bow stop. The winch line is not designed to pull the boat onto the trailer.\\n5. Attach and tighten the winch line to the bow eye, and also use the chain to secure the bow; the winch line alone is not enough for trailering.<PIC>\\n6. Pull the trailer up the ramp out of other boaters' way. Attach the bow and stern tie-downs, using the stern eyes for the stern tie-downs, then reconnect the trailer lights.<PIC>\\n7. Perform the post-operation checks.\",[\"Manual09_255\", \"Manual09_256\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:22",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2112-2118",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2120-2122"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH Loading section. Manual09_255 identifies the bow eye for the winch line/chain, and Manual09_256 identifies the stern eyes for stern tie-downs."
+}

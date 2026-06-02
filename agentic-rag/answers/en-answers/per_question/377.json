@@ -1,0 +1,20 @@
+{
+  "id": 377,
+  "question": "How can you set the onboard LED of a motherboard?",
+  "content": "Set the configurable onboard lighting either in BIOS or with the LED Control app in Ai Suite 3.\n1. For the model name LEDs, open BIOS and go to Advanced > Onboard Devices Configuration > Model Name LED Lighting. Choose Disabled, Still Mode, or Breathing Mode.\n2. For the SupremeFX LED, go to Advanced > Onboard Devices Configuration > SupremeFX LED Lighting. Choose Disabled, Still Mode, Breathing Mode, or Flowing Mode.\nThe standby power LED is not a lighting-mode setting; it lights to indicate the system is on, in sleep mode, or in soft-off mode.",
+  "images": [],
+  "ret": "\"Set the configurable onboard lighting either in BIOS or with the LED Control app in Ai Suite 3.\\n1. For the model name LEDs, open BIOS and go to Advanced > Onboard Devices Configuration > Model Name LED Lighting. Choose Disabled, Still Mode, or Breathing Mode.\\n2. For the SupremeFX LED, go to Advanced > Onboard Devices Configuration > SupremeFX LED Lighting. Choose Disabled, Still Mode, Breathing Mode, or Flowing Mode.\\nThe standby power LED is not a lighting-mode setting; it lights to indicate the system is on, in sleep mode, or in soft-off mode.\",[]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:659",
+    "agentic-rag/en-manual/Motherboard.md:663",
+    "agentic-rag/en-manual/Motherboard.md:665",
+    "agentic-rag/en-manual/Motherboard.md:675",
+    "agentic-rag/en-manual/Motherboard.md:677",
+    "agentic-rag/en-manual/Motherboard.md:1601",
+    "agentic-rag/en-manual/Motherboard.md:1615",
+    "agentic-rag/en-manual/Motherboard.md:1617"
+  ],
+  "status": "answered",
+  "notes": "No images used; the answer is about BIOS/app settings and mode options."
+}

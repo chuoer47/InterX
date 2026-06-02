@@ -1,0 +1,18 @@
+{
+  "id": 393,
+  "question": "How can you set silicone cap and float valve for a multi-use pressure cooker and air fryer?",
+  "content": "To install the float valve and silicone cap, drop the narrow end of the float valve into the float valve hole on top of the lid, then turn the lid over and firmly attach the silicone cap to the bottom of the float valve.<PIC> Do not operate the pressure cooker unless the float valve and silicone cap are properly installed.",
+  "images": [
+    "Manual30_37"
+  ],
+  "ret": "\"To install the float valve and silicone cap, drop the narrow end of the float valve into the float valve hole on top of the lid, then turn the lid over and firmly attach the silicone cap to the bottom of the float valve.<PIC> Do not operate the pressure cooker unless the float valve and silicone cap are properly installed.\",[\"Manual30_37\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:383",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:389",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:391",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:393"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Float Valve and Silicone Cap section. Image Manual30_37 shows attaching the silicone cap to the underside of the float valve."
+}

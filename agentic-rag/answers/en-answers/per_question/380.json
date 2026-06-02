@@ -1,0 +1,27 @@
+{
+  "id": 380,
+  "question": "How can you use SATA ODD & USB devices to install an operating system for a motherboard?",
+  "content": "To install OS 7 with a SATA ODD and USB device on the 100 Series platform, use the support DVD to preload USB 3.0 drivers, then install from the USB OS source.\n1. Prepare 1 support DVD, 1 OS 7 installation source, 1 SATA ODD, and 1 USB device, either a USB ODD or USB storage device. If using USB storage, it must be 8 GB or larger and should be formatted before use.\n2. Put the OS 7 installation DVD in a USB ODD, or on a working system copy all files from the OS 7 installation DVD to the USB storage device.\n3. Connect the USB ODD or USB storage device to the 100 Series platform.\n4. Insert the support DVD into the SATA ODD on the 100 Series platform.\n5. Power on the system and press F8 during POST to open the boot screen, then choose the USB ODD or USB storage device as the boot device; the boot screen lists available USB/DVD boot choices.<PIC>\n6. During installation startup, the USB 3.0 driver loads automatically. When the driver has loaded correctly, the screen shows \"Setup is starting...\".<PIC>\n7. Follow the onscreen instructions to complete the OS 7 installation.",
+  "images": [
+    "Manual25_87",
+    "Manual25_88"
+  ],
+  "ret": "\"To install OS 7 with a SATA ODD and USB device on the 100 Series platform, use the support DVD to preload USB 3.0 drivers, then install from the USB OS source.\\n1. Prepare 1 support DVD, 1 OS 7 installation source, 1 SATA ODD, and 1 USB device, either a USB ODD or USB storage device. If using USB storage, it must be 8 GB or larger and should be formatted before use.\\n2. Put the OS 7 installation DVD in a USB ODD, or on a working system copy all files from the OS 7 installation DVD to the USB storage device.\\n3. Connect the USB ODD or USB storage device to the 100 Series platform.\\n4. Insert the support DVD into the SATA ODD on the 100 Series platform.\\n5. Power on the system and press F8 during POST to open the boot screen, then choose the USB ODD or USB storage device as the boot device; the boot screen lists available USB/DVD boot choices.<PIC>\\n6. During installation startup, the USB 3.0 driver loads automatically. When the driver has loaded correctly, the screen shows \\\"Setup is starting...\\\".<PIC>\\n7. Follow the onscreen instructions to complete the OS 7 installation.\",[\"Manual25_87\", \"Manual25_88\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:2051",
+    "agentic-rag/en-manual/Motherboard.md:2055",
+    "agentic-rag/en-manual/Motherboard.md:2057",
+    "agentic-rag/en-manual/Motherboard.md:2063",
+    "agentic-rag/en-manual/Motherboard.md:2069",
+    "agentic-rag/en-manual/Motherboard.md:2071",
+    "agentic-rag/en-manual/Motherboard.md:2077",
+    "agentic-rag/en-manual/Motherboard.md:2079",
+    "agentic-rag/en-manual/Motherboard.md:2081",
+    "agentic-rag/en-manual/Motherboard.md:2083",
+    "agentic-rag/en-manual/Motherboard.md:2085",
+    "agentic-rag/en-manual/Motherboard.md:2087"
+  ],
+  "status": "answered",
+  "notes": "Grounded in Motherboard.md section 2.11.1, Method 1. The images show the boot-device selection screen and the successful setup-starting confirmation."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 311,
+  "question": "When connecting the fax, hwo can I properly finish the procedure?",
+  "content": "To finish connecting a fax-capable Brother product properly, connect it to the telephone line through a standard modular jack, USOC RJ11C, using the compliant telephone cord and modular plug provided with the product. Follow the installation instructions or Quick Setup Guide, and do not use undesignated cables or optional devices. For safety, use only a No. 26 AWG or larger telecommunication line cord, unplug the telephone line from the wall jack before touching uninsulated wires or terminals, and do not install telephone wiring during a thunderstorm or install a wall jack in a wet location.",
+  "images": [],
+  "ret": "\"To finish connecting a fax-capable Brother product properly, connect it to the telephone line through a standard modular jack, USOC RJ11C, using the compliant telephone cord and modular plug provided with the product. Follow the installation instructions or Quick Setup Guide, and do not use undesignated cables or optional devices. For safety, use only a No. 26 AWG or larger telecommunication line cord, unplug the telephone line from the wall jack before touching uninsulated wires or terminals, and do not install telephone wiring during a thunderstorm or install a wall jack in a wet location.\",[]",
+  "manual_guess": "Brother Safety Guide.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Brother Safety Guide.md:77",
+    "agentic-rag/en-manual/Brother Safety Guide.md:137",
+    "agentic-rag/en-manual/Brother Safety Guide.md:153",
+    "agentic-rag/en-manual/Brother Safety Guide.md:161",
+    "agentic-rag/en-manual/Brother Safety Guide.md:269",
+    "agentic-rag/en-manual/Brother Safety Guide.md:273",
+    "agentic-rag/en-manual/Brother Safety Guide.md:289",
+    "agentic-rag/en-manual/Brother Safety Guide.md:295"
+  ],
+  "status": "answered",
+  "notes": "No image is needed because the answer is grounded in text instructions and safety notices for fax-capable Brother models."
+}

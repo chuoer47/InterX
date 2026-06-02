@@ -1,0 +1,19 @@
+{
+  "id": 361,
+  "question": "How can you load a lawn mower?",
+  "content": "Use a heavy-duty trailer or truck with a full-width ramp. The ramp must not exceed a 15-degree angle, and its length should be at least 4 times the height from the trailer or truck bed to the ground.<PIC>\n1. Connect the trailer to the towing vehicle and connect the safety chains.\n2. If applicable, connect the trailer brakes and lights.\n3. Lower the ramp and confirm the ramp-to-ground angle is no more than 15 degrees.\n4. Back the machine up the ramp; when unloading, drive it forward down the ramp.<PIC>\n5. Shut off the engine, remove the key, and engage the parking brake.\n6. Tie down the machine near the front caster wheels and the rear bumper with straps, chains, cable, or ropes at the tie-down loops.<PIC>\nUse extreme caution on the ramp, do not use individual ramps for each side of the mower, and avoid sudden acceleration or deceleration because loading can cause tip-over, serious injury, or death.",
+  "images": [
+    "Manual23_63",
+    "Manual23_64",
+    "Manual23_65"
+  ],
+  "ret": "\"Use a heavy-duty trailer or truck with a full-width ramp. The ramp must not exceed a 15-degree angle, and its length should be at least 4 times the height from the trailer or truck bed to the ground.<PIC>\\n1. Connect the trailer to the towing vehicle and connect the safety chains.\\n2. If applicable, connect the trailer brakes and lights.\\n3. Lower the ramp and confirm the ramp-to-ground angle is no more than 15 degrees.\\n4. Back the machine up the ramp; when unloading, drive it forward down the ramp.<PIC>\\n5. Shut off the engine, remove the key, and engage the parking brake.\\n6. Tie down the machine near the front caster wheels and the rear bumper with straps, chains, cable, or ropes at the tie-down loops.<PIC>\\nUse extreme caution on the ramp, do not use individual ramps for each side of the mower, and avoid sudden acceleration or deceleration because loading can cause tip-over, serious injury, or death.\",[\"Manual23_63\", \"Manual23_64\", \"Manual23_65\"]",
+  "manual_guess": "Toro Z Master 4000",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1212",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1220",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1246"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Transporting the Machine, Selecting a Trailer, and Loading the Machine sections. Images show the full-width ramp setup, loading/unloading direction, and tie-down loops."
+}

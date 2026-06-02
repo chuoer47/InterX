@@ -1,0 +1,25 @@
+{
+  "id": 206,
+  "question": "如何安装儿童电动摩托车的挡泥板？",
+  "content": "安装挡泥板的步骤如下：\n1. 将挡泥板侧转，然后向上滑入左侧把手管。<PIC>注意不要让“凸点”卡入 1 号孔。\n2. 安装挡泥板，使“凸点”卡入 2 号孔，完成固定。<PIC>",
+  "images": [
+    "rideon_motorcycle_01",
+    "rideon_motorcycle_02"
+  ],
+  "manual_guess": "儿童电动摩托车手册.md",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/ch-manual/儿童电动摩托车手册.md",
+      "lines": "43-45",
+      "summary": "挡泥板为部件清单第4项，数量1个"
+    },
+    {
+      "file": "agentic-rag/ch-manual/儿童电动摩托车手册.md",
+      "lines": "62-67",
+      "text": "### 1. 安装挡泥板\n1. 如步骤 1 所示，将挡泥板侧转，然后向上滑入左侧把手管。注意：不要让“凸点”卡入 1 号孔。\n2. 如步骤 2 所示，安装挡泥板，使“凸点”卡入 2 号孔。\n![图示](插图/rideon_motorcycle_01.jpg)\n![图示](插图/rideon_motorcycle_02.jpg)"
+    }
+  ],
+  "status": "answered",
+  "notes": "挡泥板安装步骤明确，手册中配有两张步骤图。凸点与孔位的对应关系是关键注意事项。",
+  "ret": "\"安装挡泥板的步骤如下：\\n1. 将挡泥板侧转，然后向上滑入左侧把手管。<PIC>注意不要让“凸点”卡入 1 号孔。\\n2. 安装挡泥板，使“凸点”卡入 2 号孔，完成固定。<PIC>\",[\"rideon_motorcycle_01\", \"rideon_motorcycle_02\"]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": 242,
+  "question": "How to find the approval label of emission control certificate of the boat?",
+  "content": "Open the engine hood to access the engine compartment. The approval labels for the emission control certificate are attached to each engine unit and to the inside of the engine compartment. On each engine unit, look for the emission control information label at the indicated label position.<PIC>\nAlso check the inside wall of the engine compartment for the emission control information label at the indicated position.<PIC>\nTo open the engine hood, pull up the engine hood latches under the front of the leaning post and lift the hood. On a 210FSH DELUXE, do not open the engine hood while the anchor light is installed because the anchor light could be damaged.",
+  "images": [
+    "Manual09_6",
+    "Manual09_7"
+  ],
+  "ret": "\"Open the engine hood to access the engine compartment. The approval labels for the emission control certificate are attached to each engine unit and to the inside of the engine compartment. On each engine unit, look for the emission control information label at the indicated label position.<PIC>\\nAlso check the inside wall of the engine compartment for the emission control information label at the indicated position.<PIC>\\nTo open the engine hood, pull up the engine hood latches under the front of the leaning post and lift the hood. On a 210FSH DELUXE, do not open the engine hood while the anchor light is installed because the anchor light could be damaged.\",[\"Manual09_6\", \"Manual09_7\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "135-149",
+      "note": "Emission control certificate approval labels are attached to each engine unit and inside the engine compartment; figures identify emission control information label locations."
+    },
+    {
+      "file": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "1057-1063",
+      "note": "Engine hood access procedure and 210FSH DELUXE anchor-light notice."
+    }
+  ],
+  "status": "answered",
+  "notes": "Used the Yamaha 210FSH boat manual. Included the two label-location images because they directly mark the emission control information labels referenced by the approval-label section."
+}

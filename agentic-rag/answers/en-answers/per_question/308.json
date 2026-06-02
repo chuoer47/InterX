@@ -1,0 +1,20 @@
+{
+  "id": 308,
+  "question": "I can't find the way to play video using this eReader, can you tell me how to do that?",
+  "content": "1. Make sure the video file is on the eReader or on an inserted Micro SD/SDHC card; when connected by USB, the device appears as removable disks so you can copy files to it.\n2. From the main menu, use the Navigation keys to select \"Video\", then press the \"M\" key to enter Video mode and play video files. The Video mode playback screen shows the progress bar, elapsed and total time, file name, and volume while a clip is playing.<PIC>\n3. During video playback, press \"M\" for options: \"Subtitle Language\" if your file has subtitles, \"Time Play\" to choose a playback time, or \"Full Screen\" to change the display. The display modes are \"Full screen\", \"Normal\", and \"Original\".\n4. Use compatible files. The Video section lists AVI, RMVB, and MPEG2; the specifications also list AVI, RMVB, MOV, and MP4.",
+  "images": [
+    "Manual13_9"
+  ],
+  "ret": "\"1. Make sure the video file is on the eReader or on an inserted Micro SD/SDHC card; when connected by USB, the device appears as removable disks so you can copy files to it.\\n2. From the main menu, use the Navigation keys to select \\\"Video\\\", then press the \\\"M\\\" key to enter Video mode and play video files. The Video mode playback screen shows the progress bar, elapsed and total time, file name, and volume while a clip is playing.<PIC>\\n3. During video playback, press \\\"M\\\" for options: \\\"Subtitle Language\\\" if your file has subtitles, \\\"Time Play\\\" to choose a playback time, or \\\"Full Screen\\\" to change the display. The display modes are \\\"Full screen\\\", \\\"Normal\\\", and \\\"Original\\\".\\n4. Use compatible files. The Video section lists AVI, RMVB, and MPEG2; the specifications also list AVI, RMVB, MOV, and MP4.\",[\"Manual13_9\"]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color E-Reader.md:120",
+    "agentic-rag/en-manual/Color E-Reader.md:128",
+    "agentic-rag/en-manual/Color E-Reader.md:202",
+    "agentic-rag/en-manual/Color E-Reader.md:300",
+    "agentic-rag/en-manual/Color E-Reader.md:374",
+    "agentic-rag/en-manual/插图/Manual13_9.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Color E-Reader button operation, main menu, video mode, file management, specifications, and the Video mode playback image."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 291,
+  "question": "After or during shooting, how can I view the camera image on TV for better clarity?",
+  "content": "The EOS 20D can show captured images on a TV, but it is not a live shooting monitor: the LCD monitor cannot be used as a viewfinder for shooting. To review on a TV:\n1. Turn off both the camera and TV before connecting or disconnecting them.\n2. Open the camera terminal cover and use the supplied video cable to connect the camera terminal to the TV monitor's VIDEO IN terminal; push the plugs fully in and set the TV line input to Video IN.<PIC>\n3. Set the camera power switch to <ON>, then press the playback button; the image appears on the TV and the camera LCD monitor stays blank.<PIC>\n4. If the TV image is not displayed properly, set the camera's [Video system] to match the TV's NTSC/PAL format. When finished, set the camera to <OFF>, turn off the TV, then disconnect the cable.",
+  "images": [
+    "Manual10_182",
+    "Manual10_183"
+  ],
+  "ret": "\"The EOS 20D can show captured images on a TV, but it is not a live shooting monitor: the LCD monitor cannot be used as a viewfinder for shooting. To review on a TV:\\n1. Turn off both the camera and TV before connecting or disconnecting them.\\n2. Open the camera terminal cover and use the supplied video cable to connect the camera terminal to the TV monitor's VIDEO IN terminal; push the plugs fully in and set the TV line input to Video IN.<PIC>\\n3. Set the camera power switch to <ON>, then press the playback button; the image appears on the TV and the camera LCD monitor stays blank.<PIC>\\n4. If the TV image is not displayed properly, set the camera's [Video system] to match the TV's NTSC/PAL format. When finished, set the camera to <OFF>, turn off the TV, then disconnect the cable.\",[\"Manual10_182\", \"Manual10_183\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:773-777",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2821-2841",
+    "agentic-rag/en-manual/Canon EOS 20D.md:3902-3905"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D TV playback section. Manual10_182 shows the supplied video cable connected to the camera terminal and TV VIDEO IN. Manual10_183 shows the camera power/playback controls used to display the captured image. Included the non-live-view limitation from the LCD monitor note and the NTSC/PAL troubleshooting caveat."
+}

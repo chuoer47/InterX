@@ -1,0 +1,20 @@
+{
+  "id": 243,
+  "question": "How do I use the battery conversion feature before sailing?",
+  "content": "Before operating the boat, use the battery switch assembly in the battery compartment. The assembly has the red \"HOUSE\" switch, yellow \"EMERG PARALLEL\" switch, and red \"START\" switch.<PIC>\n1. For normal operation before sailing, set both the \"START\" and \"HOUSE\" switches to ON. The switch position indicator is green for ON and red for OFF.<PIC>\n2. Keep the \"EMERG PARALLEL\" switch OFF during normal operation; this lets both batteries charge automatically while the engine is running.\n3. Use \"EMERG PARALLEL\" only if the start battery is discharged: turn it ON to start the engine, then turn it OFF once the engine has started or the start battery is charged.\n4. During the pre-operation battery check, make sure the battery terminals are not damaged, the leads are connected properly, and the batteries have enough power to start the engines. Do not operate if battery power is insufficient or decreased.",
+  "images": [
+    "Manual09_43",
+    "Manual09_44"
+  ],
+  "ret": "\"Before operating the boat, use the battery switch assembly in the battery compartment. The assembly has the red \\\"HOUSE\\\" switch, yellow \\\"EMERG PARALLEL\\\" switch, and red \\\"START\\\" switch.<PIC>\\n1. For normal operation before sailing, set both the \\\"START\\\" and \\\"HOUSE\\\" switches to ON. The switch position indicator is green for ON and red for OFF.<PIC>\\n2. Keep the \\\"EMERG PARALLEL\\\" switch OFF during normal operation; this lets both batteries charge automatically while the engine is running.\\n3. Use \\\"EMERG PARALLEL\\\" only if the start battery is discharged: turn it ON to start the engine, then turn it OFF once the engine has started or the start battery is charged.\\n4. During the pre-operation battery check, make sure the battery terminals are not damaged, the leads are connected properly, and the batteries have enough power to start the engines. Do not operate if battery power is insufficient or decreased.\",[\"Manual09_43\", \"Manual09_44\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:545",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:555",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:568",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1791",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1923"
+  ],
+  "status": "answered",
+  "notes": "Interpreted \"battery conversion feature\" as the battery switch/emergency parallel feature in the Yamaha 210FSH manual. Included the switch label and ON/OFF position images because they directly support selecting the correct switches and positions."
+}

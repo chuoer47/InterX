@@ -1,0 +1,17 @@
+{
+  "id": 295,
+  "question": "How do you set up the camera to fine tune the model when using it?",
+  "content": "To fine tune the MV camera picture, aim the lens while viewing the camera through Dashboard. The camera sensor and lens unit can be physically tilted through 65 degrees, rotated through 350 degrees, and panned through 350 degrees; the illustration labels the 65-degree tilt and 350-degree twist/rotate movements used for this aiming step.<PIC>\nSoftware can rotate the image only 180 degrees; it cannot make other adjustments. Zoom and focus are adjusted remotely, not physically on the camera. After aiming, replace the lens guard and bubble, lock the bubble clockwise, remove the protective plastic sticker, check LED function, and use Dashboard to adjust focus and configure other settings.",
+  "images": [
+    "Manual33_7"
+  ],
+  "ret": "\"To fine tune the MV camera picture, aim the lens while viewing the camera through Dashboard. The camera sensor and lens unit can be physically tilted through 65 degrees, rotated through 350 degrees, and panned through 350 degrees; the illustration labels the 65-degree tilt and 350-degree twist/rotate movements used for this aiming step.<PIC>\\nSoftware can rotate the image only 180 degrees; it cannot make other adjustments. Zoom and focus are adjusted remotely, not physically on the camera. After aiming, replace the lens guard and bubble, lock the bubble clockwise, remove the protective plastic sticker, check LED function, and use Dashboard to adjust focus and configure other settings.\",[\"Manual33_7\"]",
+  "manual_guess": "MV Camera.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/MV Camera.md:23-33",
+    "agentic-rag/en-manual/MV Camera.md:47-95",
+    "agentic-rag/en-manual/插图/Manual33_7.jpg"
+  ],
+  "status": "answered",
+  "notes": "The question says \"model,\" but the matching manual evidence says to fine tune the picture. Answered from the MV Camera wall-mount aiming and Dashboard setup steps."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 367,
+  "question": "How can you set the light timer of a over-the-range microwave?",
+  "content": "Set the Light Timer to have the Lo Light turn on at the low setting and turn off automatically at the same times every day until you reset it.\n1. Touch Light Timer once for AM or twice for PM to set the light-on time.\n2. Enter the desired on time with the number pads.\n3. Touch Light Timer again once for AM or twice for PM to set the light-off time.\n4. Enter the desired off time with the number pads.\n5. Touch Start. The manual's example shows 2:00 AM on and 7:00 AM off using Light Timer, 2 0 0, Light Timer again, 7 0 0, then Start.<PIC>\nTo change the on/off times, repeat the setting steps. To cancel the Light Timer while it is operating, touch Light HI/LO/Off.",
+  "images": [
+    "Manual24_11"
+  ],
+  "ret": "\"Set the Light Timer to have the Lo Light turn on at the low setting and turn off automatically at the same times every day until you reset it.\\n1. Touch Light Timer once for AM or twice for PM to set the light-on time.\\n2. Enter the desired on time with the number pads.\\n3. Touch Light Timer again once for AM or twice for PM to set the light-off time.\\n4. Enter the desired off time with the number pads.\\n5. Touch Start. The manual's example shows 2:00 AM on and 7:00 AM off using Light Timer, 2 0 0, Light Timer again, 7 0 0, then Start.<PIC>\\nTo change the on/off times, repeat the setting steps. To cancel the Light Timer while it is operating, touch Light HI/LO/Off.\",[\"Manual24_11\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:343",
+    "agentic-rag/en-manual/Bosch Microwave.md:441",
+    "agentic-rag/en-manual/Bosch Microwave.md:443",
+    "agentic-rag/en-manual/Bosch Microwave.md:445",
+    "agentic-rag/en-manual/Bosch Microwave.md:447",
+    "agentic-rag/en-manual/Bosch Microwave.md:451",
+    "agentic-rag/en-manual/Bosch Microwave.md:453",
+    "agentic-rag/en-manual/Bosch Microwave.md:455",
+    "agentic-rag/en-manual/Bosch Microwave.md:457",
+    "agentic-rag/en-manual/插图/Manual24_11.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answer is grounded in the Bosch over-the-range microwave LIGHT TIMER section and the adjacent procedure illustration. The single <PIC> placeholder corresponds to Manual24_11."
+}

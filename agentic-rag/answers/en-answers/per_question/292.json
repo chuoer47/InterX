@@ -1,0 +1,27 @@
+{
+  "id": 292,
+  "question": "How can I delete a single image from my camera if I don't like the photo?",
+  "content": "1. Press the playback button to display an image.\n2. Turn the dial to select the photo you want to delete.\n3. Press the erase button; the Erase menu appears at the bottom of the screen.\n4. Turn the dial to select [Erase], then press <SET>. The access lamp blinks and the image is erased.\n\nIf the photo is still displayed during single-shooting image review, you can instead press the erase button and select [OK]. Erased images cannot be recovered, and protected images must have protection canceled before they can be erased. While the access lamp is blinking, do not open the CF card slot cover, remove the battery, or shake or bang the camera.",
+  "images": [],
+  "ret": "\"1. Press the playback button to display an image.\\n2. Turn the dial to select the photo you want to delete.\\n3. Press the erase button; the Erase menu appears at the bottom of the screen.\\n4. Turn the dial to select [Erase], then press <SET>. The access lamp blinks and the image is erased.\\n\\nIf the photo is still displayed during single-shooting image review, you can instead press the erase button and select [OK]. Erased images cannot be recovered, and protected images must have protection canceled before they can be erased. While the access lamp is blinking, do not open the CF card slot cover, remove the battery, or shake or bang the camera.\",[]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    {
+      "manual": "Canon EOS 20D.md",
+      "lines": "2569-2573",
+      "summary": "During single-shooting image review, delete the displayed image by pressing the erase button and selecting [OK]."
+    },
+    {
+      "manual": "Canon EOS 20D.md",
+      "lines": "2867-2893",
+      "summary": "Erasing Images / Erasing a Single Image procedure, including playback, selecting the image, erase menu, [Erase], <SET>, and irreversible/protected-image warning."
+    },
+    {
+      "manual": "Canon EOS 20D.md",
+      "lines": "613-619",
+      "summary": "Access-lamp caution while data is being erased or transferred."
+    }
+  ],
+  "status": "answered",
+  "notes": "No images used; the text procedure fully answers the question, so <PIC> count is 0 and images count is 0."
+}

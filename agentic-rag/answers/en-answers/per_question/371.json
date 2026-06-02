@@ -1,0 +1,25 @@
+{
+  "id": 371,
+  "question": "How can you clean the grease filter of a over-the-range microwave?",
+  "content": "Remove and clean the grease filter often, at least once a month.\n1. Slide the filter to the side, pull it downward, then push it to the other side so it drops out from the hood bottom.<PIC>\n2. Wash the filter in a dishwasher, or soak it in hot water with a mild detergent. Rinse well and shake it dry; do not use ammonia. The aluminum filter may darken in a dishwasher.<PIC>\n3. Reinstall it by sliding it into the side slot, then pushing it up and toward the oven center until it locks.<PIC>\nDo not operate the oven hood without the filter in place.",
+  "images": [
+    "Manual24_47",
+    "Manual24_48",
+    "Manual24_49"
+  ],
+  "ret": "\"Remove and clean the grease filter often, at least once a month.\\n1. Slide the filter to the side, pull it downward, then push it to the other side so it drops out from the hood bottom.<PIC>\\n2. Wash the filter in a dishwasher, or soak it in hot water with a mild detergent. Rinse well and shake it dry; do not use ammonia. The aluminum filter may darken in a dishwasher.<PIC>\\n3. Reinstall it by sliding it into the side slot, then pushing it up and toward the oven center until it locks.<PIC>\\nDo not operate the oven hood without the filter in place.\",[\"Manual24_47\", \"Manual24_48\", \"Manual24_49\"]",
+  "manual_guess": "Bosch Microwave",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:942",
+    "agentic-rag/en-manual/Bosch Microwave.md:944",
+    "agentic-rag/en-manual/Bosch Microwave.md:946",
+    "agentic-rag/en-manual/Bosch Microwave.md:948",
+    "agentic-rag/en-manual/Bosch Microwave.md:950",
+    "agentic-rag/en-manual/Bosch Microwave.md:952",
+    "agentic-rag/en-manual/Bosch Microwave.md:954",
+    "agentic-rag/en-manual/Bosch Microwave.md:956",
+    "agentic-rag/en-manual/Bosch Microwave.md:960"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Cleaning the Grease Filter section. Images show removal, washing, and reinstallation; the warning about not operating without the filter is directly relevant."
+}

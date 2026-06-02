@@ -1,0 +1,21 @@
+{
+  "id": 416,
+  "question": "What are the essential preparation checks to perform before using a snowmobile?",
+  "content": "Before each use, perform the pre-operation checks before starting the engine.\n1. Make sure there is enough fuel and engine oil; use unleaded gasoline rated 88 pump octane or higher and YAMALUBE 2-cycle oil.\n2. Check that the throttle lever opens smoothly and springs back to idle, the manual starter works, and the starter rope is not damaged.\n3. Check the Throttle Override System with the parking brake applied; if the engine does not stop during the check, turn the main switch OFF and consult a dealer.\n4. Test the brake at slow speed when starting out. Do not operate the machine if braking is not proper.\n5. Inspect the V-belt for wear or damage, and make sure the V-belt guard mounts, wing bolt, and guard are secure; never run the engine without the V-belt or with the guard removed.\n6. Check the drive track for deflection, wear, damage, and misadjustment. Do not operate with track damage or misadjustment because braking ability and control could be lost.\n7. Check slide runners, skis, and ski runners for wear or damage, and replace them when they reach their wear limits.\n8. Check steering for excessive free play, check the lights, battery fluid level, and tightness of fittings and fasteners.\n9. Carry service tools and spare parts; for a long-distance trip, also carry extra fuel and oil.",
+  "images": [],
+  "ret": "\"Before each use, perform the pre-operation checks before starting the engine.\\n1. Make sure there is enough fuel and engine oil; use unleaded gasoline rated 88 pump octane or higher and YAMALUBE 2-cycle oil.\\n2. Check that the throttle lever opens smoothly and springs back to idle, the manual starter works, and the starter rope is not damaged.\\n3. Check the Throttle Override System with the parking brake applied; if the engine does not stop during the check, turn the main switch OFF and consult a dealer.\\n4. Test the brake at slow speed when starting out. Do not operate the machine if braking is not proper.\\n5. Inspect the V-belt for wear or damage, and make sure the V-belt guard mounts, wing bolt, and guard are secure; never run the engine without the V-belt or with the guard removed.\\n6. Check the drive track for deflection, wear, damage, and misadjustment. Do not operate with track damage or misadjustment because braking ability and control could be lost.\\n7. Check slide runners, skis, and ski runners for wear or damage, and replace them when they reach their wear limits.\\n8. Check steering for excessive free play, check the lights, battery fluid level, and tightness of fittings and fasteners.\\n9. Carry service tools and spare parts; for a long-distance trip, also carry extra fuel and oil.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:266",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:690-696",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:700-708",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:771-795",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:797-823",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:825-867",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:871-914",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:916-935",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1051"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha Snowmobile pre-operation checks section and related before-riding guidance. No image is needed because the requested preparation checks are stated directly in text."
+}

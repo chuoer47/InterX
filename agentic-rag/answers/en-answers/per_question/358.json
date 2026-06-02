@@ -1,0 +1,30 @@
+{
+  "id": 358,
+  "question": "How can you lower the roll bar of a lawn mower?",
+  "content": "Lower the roll bar only when absolutely necessary; there is no rollover protection when it is down, so do not wear the seat belt in the down position, drive slowly and carefully, and raise the roll bar again as soon as clearance permits.\n1. Remove the hairpin cotters and the 2 pins from the roll bar pivot brackets; the pins and hairpin cotters are the retainers shown at the side brackets.<PIC>\n2. Lower the roll bar to one of the two down positions shown for the machine.<PIC>\n3. Reinstall the 2 pins and secure them with the hairpin cotters.",
+  "images": [
+    "Manual23_33",
+    "Manual23_32"
+  ],
+  "ret": "\"Lower the roll bar only when absolutely necessary; there is no rollover protection when it is down, so do not wear the seat belt in the down position, drive slowly and carefully, and raise the roll bar again as soon as clearance permits.\\n1. Remove the hairpin cotters and the 2 pins from the roll bar pivot brackets; the pins and hairpin cotters are the retainers shown at the side brackets.<PIC>\\n2. Lower the roll bar to one of the two down positions shown for the machine.<PIC>\\n3. Reinstall the 2 pins and secure them with the hairpin cotters.\",[\"Manual23_33\", \"Manual23_32\"]",
+  "manual_guess": "Toro Z Master 4000.md",
+  "evidence_refs": [
+    {
+      "manual": "Toro Z Master 4000.md",
+      "lines": "527-545",
+      "note": "ROPS warnings: keep roll bar raised/locked with seat belt; no rollover protection down; lower only when necessary; do not wear seat belt down; drive carefully; raise when clearance permits."
+    },
+    {
+      "manual": "Toro Z Master 4000.md",
+      "lines": "547-565",
+      "note": "Lowering procedure: remove hairpin cotters and 2 pins, lower to down position, then reinstall and secure pins."
+    },
+    {
+      "manual": "Toro Z Master 4000.md",
+      "lines": "579-587",
+      "note": "Figure 9 labels roll bar, raised position, pin, and hairpin cotter."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Toro Z Master 4000 ROPS procedure. Two images are used because Figure 9 identifies the pins/hairpin cotters and Figure 8 shows the two down positions."
+}

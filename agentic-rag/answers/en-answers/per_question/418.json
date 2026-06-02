@@ -1,0 +1,17 @@
+{
+  "id": 418,
+  "question": "What is a V-BeltHolder?",
+  "content": "A V-belt holder is the provided storage holder for keeping a spare snowmobile V-belt for emergency use. Loosen the bolt to remove the belt, tighten the bolt when installing the belt in the holder, make sure the fuel hose is not pinched and is in place, and install the belt securely so it cannot come loose and be damaged by the hot muffler.",
+  "images": [],
+  "ret": "\"A V-belt holder is the provided storage holder for keeping a spare snowmobile V-belt for emergency use. Loosen the bolt to remove the belt, tighten the bolt when installing the belt in the holder, make sure the fuel hose is not pinched and is in place, and install the belt securely so it cannot come loose and be damaged by the hot muffler.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha Snowmobile.md",
+      "lines": "510-530",
+      "summary": "The V-BELT HOLDER section says to keep a spare V-belt in the provided holder, loosen the bolt to remove it, tighten the bolt when installing it, ensure the fuel hose is not pinched, and secure the belt to avoid hot muffler damage."
+    }
+  ],
+  "status": "answered",
+  "notes": "Text-only answer; no image is required because the section directly defines the V-belt holder and its cautions."
+}

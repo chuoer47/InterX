@@ -1,0 +1,24 @@
+{
+  "id": 247,
+  "question": "How do I use the storage compartments if I want to store wet items while on board?",
+  "content": "Use the wet storage compartment under the swim platform for wet items. To open it, pull the lock handle up, turn the lock handle clockwise, and open the rear platform hatch; the hatch is label 1 and the lock handle is label 2.<PIC>\nPlace the wet items in the wet storage compartment under the opened hatch.<PIC>\nTo close it, close the rear platform hatch, turn the lock handle counterclockwise and confirm the hatch is securely closed, then push the lock handle down. Make sure storage compartments are securely closed before getting underway; the engines will not start if the rear platform hatch is not securely closed.",
+  "images": [
+    "Manual09_143",
+    "Manual09_144"
+  ],
+  "ret": "\"Use the wet storage compartment under the swim platform for wet items. To open it, pull the lock handle up, turn the lock handle clockwise, and open the rear platform hatch; the hatch is label 1 and the lock handle is label 2.<PIC>\\nPlace the wet items in the wet storage compartment under the opened hatch.<PIC>\\nTo close it, close the rear platform hatch, turn the lock handle counterclockwise and confirm the hatch is securely closed, then push the lock handle down. Make sure storage compartments are securely closed before getting underway; the engines will not start if the rear platform hatch is not securely closed.\",[\"Manual09_143\", \"Manual09_144\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1065",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1067",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1215",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1217",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1219",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1223",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1225",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1227",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1229"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH wet storage compartment section. Images Manual09_143 and Manual09_144 were inspected and match the hatch/lock handle and wet storage compartment. PIC count is 2 and images count is 2."
+}

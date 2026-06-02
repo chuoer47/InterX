@@ -1,0 +1,19 @@
+{
+  "id": 293,
+  "question": "How can I erase all images from my camera if I don't like these.",
+  "content": "1. Press the playback button to display an image.\n2. Press the erase button to open the Erase menu.\n3. Turn the dial to select [All], then press <SET>.\n4. In the confirmation dialog, turn the dial to select [OK], then press <SET>. All unprotected images on the CF card will be erased.\nOnly protected images are not erased. Once an image is erased, it cannot be recovered, so make sure you no longer need the images first. While images are being erased, you can cancel by pressing <SET>.",
+  "images": [],
+  "ret": "\"1. Press the playback button to display an image.\\n2. Press the erase button to open the Erase menu.\\n3. Turn the dial to select [All], then press <SET>.\\n4. In the confirmation dialog, turn the dial to select [OK], then press <SET>. All unprotected images on the CF card will be erased.\\nOnly protected images are not erased. Once an image is erased, it cannot be recovered, so make sure you no longer need the images first. While images are being erased, you can cancel by pressing <SET>.\",[]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:2867",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2869",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2897",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2899",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2905",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2911",
+    "agentic-rag/en-manual/Canon EOS 20D.md:2919"
+  ],
+  "status": "answered",
+  "notes": "No image placeholders are used because the text procedure fully specifies the controls and menu choices."
+}

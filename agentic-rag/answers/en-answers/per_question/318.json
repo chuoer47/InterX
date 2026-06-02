@@ -1,0 +1,29 @@
+{
+  "id": 318,
+  "question": "To engure my safety when using the grill, how to do leak testing on valves, hose and regulatol?",
+  "content": "1. Turn all grill control knobs to OFF.\n2. Make sure the regulator is tightly connected to the LP tank.\n3. Completely open the LP tank valve by turning the OPD hand wheel counterclockwise. If you hear a rushing sound, turn the gas off immediately; this means a major leak at the connection. Correct it before proceeding by calling Sears for replacement parts at 1-800-4-MY-HOME.\n4. Brush a clean 50/50 mild soap-and-water solution onto the valve, hose, regulator, and connection points where bubbles are shown.<PIC>\n5. If growing bubbles appear, there is a leak. Close the LP tank valve immediately and retighten the connections. If the leak cannot be stopped, do not try to repair it; call Sears for replacement parts at 1-800-4-MY-HOME.\n6. After the leak test, always close the LP tank valve by turning the hand wheel clockwise.\nDo not smoke, do not use an open flame to check for leaks, and do the leak test outdoors in a well-ventilated area away from ignition sources, open flames, or sparks. Do not use the grill until it has been leak-tested.",
+  "images": [
+    "Manual19_20"
+  ],
+  "ret": "\"1. Turn all grill control knobs to OFF.\\n2. Make sure the regulator is tightly connected to the LP tank.\\n3. Completely open the LP tank valve by turning the OPD hand wheel counterclockwise. If you hear a rushing sound, turn the gas off immediately; this means a major leak at the connection. Correct it before proceeding by calling Sears for replacement parts at 1-800-4-MY-HOME.\\n4. Brush a clean 50/50 mild soap-and-water solution onto the valve, hose, regulator, and connection points where bubbles are shown.<PIC>\\n5. If growing bubbles appear, there is a leak. Close the LP tank valve immediately and retighten the connections. If the leak cannot be stopped, do not try to repair it; call Sears for replacement parts at 1-800-4-MY-HOME.\\n6. After the leak test, always close the LP tank valve by turning the hand wheel clockwise.\\nDo not smoke, do not use an open flame to check for leaks, and do the leak test outdoors in a well-ventilated area away from ignition sources, open flames, or sparks. Do not use the grill until it has been leak-tested.\",[\"Manual19_20\"]",
+  "manual_guess": "Outdoor Grill.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Outdoor Grill.md:198",
+    "agentic-rag/en-manual/Outdoor Grill.md:200",
+    "agentic-rag/en-manual/Outdoor Grill.md:202",
+    "agentic-rag/en-manual/Outdoor Grill.md:204",
+    "agentic-rag/en-manual/Outdoor Grill.md:206",
+    "agentic-rag/en-manual/Outdoor Grill.md:208",
+    "agentic-rag/en-manual/Outdoor Grill.md:252",
+    "agentic-rag/en-manual/Outdoor Grill.md:254",
+    "agentic-rag/en-manual/Outdoor Grill.md:256",
+    "agentic-rag/en-manual/Outdoor Grill.md:258",
+    "agentic-rag/en-manual/Outdoor Grill.md:260",
+    "agentic-rag/en-manual/Outdoor Grill.md:262",
+    "agentic-rag/en-manual/Outdoor Grill.md:264",
+    "agentic-rag/en-manual/Outdoor Grill.md:266",
+    "agentic-rag/en-manual/Outdoor Grill.md:272"
+  ],
+  "status": "answered",
+  "notes": "The answer uses the Outdoor Grill leak-testing procedure for valves, hose, and regulator. Manual19_20 is included because it shows the bubble-check points around the LP tank connection, hose, regulator, and valve manifold."
+}

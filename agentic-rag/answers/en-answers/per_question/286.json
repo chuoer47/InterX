@@ -1,0 +1,32 @@
+{
+  "id": 286,
+  "question": "How do I replace the camera's date/time battery?",
+  "content": "The date/time back-up battery is a CR2016 lithium battery. Replacing it resets the date/time setting, so set the correct date/time afterward.\n1. Turn the power switch to <OFF>.\n2. Open the cover and remove the battery pack.<PIC>\n3. Take out the date/time battery holder.<PIC>\n4. Install the new CR2016 in the holder with the correct + and - orientation.<PIC>\n5. Close the cover.<PIC>",
+  "images": [
+    "Manual10_46",
+    "Manual10_47",
+    "Manual10_48",
+    "Manual10_49"
+  ],
+  "ret": "\"The date/time back-up battery is a CR2016 lithium battery. Replacing it resets the date/time setting, so set the correct date/time afterward.\\n1. Turn the power switch to <OFF>.\\n2. Open the cover and remove the battery pack.<PIC>\\n3. Take out the date/time battery holder.<PIC>\\n4. Install the new CR2016 in the holder with the correct + and - orientation.<PIC>\\n5. Close the cover.<PIC>\",[\"Manual10_46\", \"Manual10_47\", \"Manual10_48\", \"Manual10_49\"]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/en-manual/Canon EOS 20D.md",
+      "lines": "861-865",
+      "note": "Date/time battery section; CR2016 lithium battery, reset behavior, and power switch off."
+    },
+    {
+      "file": "agentic-rag/en-manual/Canon EOS 20D.md",
+      "lines": "867-883",
+      "note": "Replacement steps and adjacent image anchors for opening the cover, removing the holder, orienting the new battery, and closing the cover."
+    },
+    {
+      "file": "agentic-rag/en-manual/Canon EOS 20D.md",
+      "lines": "885",
+      "note": "Confirms the date/time battery type is CR2016 lithium."
+    }
+  ],
+  "status": "answered",
+  "notes": "All four images are adjacent to distinct physical replacement steps; <PIC> count matches the images array."
+}

@@ -1,0 +1,17 @@
+{
+  "id": 310,
+  "question": "When using this eReader, what kinds of trobles might I encounter and how to solve them?",
+  "content": "Common troubles and fixes are:\n1. If the e-book reader cannot power on, charge it until the power indicator bar is full. If it still appears defective, contact the manufacturer for instructions.\n2. If the device cannot charge, the AC adaptor or USB cable may be defective; contact the manufacturer for a replacement.\n3. If there is no sound or noise through earphones, raise the volume above 0, try another pair of earphones, and use higher-quality music files because low-quality compression can cause noise or distortion.\n4. If files cannot be downloaded into the reader, check for a defective USB cable, free space if the E Reader's memory is full, and on Windows 98 install a USB 2.0 driver so the reader can be detected as a removable disk.\n5. If music files cannot play, the format or resolution may not be supported; contact manufacturer tech support for assistance.\n6. If the reader cannot identify an inserted Micro SD card, power off, remove the card, reinsert it, and turn the device back on. Always turn power off before inserting or removing a memory card, and do not reset the unit while a memory card is inserted.\nFor minor device problems, the Reset On/Off switch on the back next to the card reader resets the device to factory defaults. Back up all data before using factory restore, and contact the manufacturer rather than disassembling the device if the problem continues.",
+  "images": [],
+  "ret": "\"Common troubles and fixes are:\\n1. If the e-book reader cannot power on, charge it until the power indicator bar is full. If it still appears defective, contact the manufacturer for instructions.\\n2. If the device cannot charge, the AC adaptor or USB cable may be defective; contact the manufacturer for a replacement.\\n3. If there is no sound or noise through earphones, raise the volume above 0, try another pair of earphones, and use higher-quality music files because low-quality compression can cause noise or distortion.\\n4. If files cannot be downloaded into the reader, check for a defective USB cable, free space if the E Reader's memory is full, and on Windows 98 install a USB 2.0 driver so the reader can be detected as a removable disk.\\n5. If music files cannot play, the format or resolution may not be supported; contact manufacturer tech support for assistance.\\n6. If the reader cannot identify an inserted Micro SD card, power off, remove the card, reinsert it, and turn the device back on. Always turn power off before inserting or removing a memory card, and do not reset the unit while a memory card is inserted.\\nFor minor device problems, the Reset On/Off switch on the back next to the card reader resets the device to factory defaults. Back up all data before using factory restore, and contact the manufacturer rather than disassembling the device if the problem continues.\",[]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color E-Reader.md:34-42",
+    "agentic-rag/en-manual/Color E-Reader.md:80",
+    "agentic-rag/en-manual/Color E-Reader.md:272",
+    "agentic-rag/en-manual/Color E-Reader.md:308-316",
+    "agentic-rag/en-manual/Color E-Reader.md:381-402"
+  ],
+  "status": "answered",
+  "notes": "No images used; the answer is grounded in the text troubleshooting entries plus the related Micro SD, reset, factory restore, and manufacturer-contact cautions."
+}

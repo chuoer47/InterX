@@ -1,0 +1,19 @@
+{
+  "id": 309,
+  "question": "Can this eReader become a photo viewer? If so, how do I operate this feature?",
+  "content": "Yes. It has a Photo mode for viewing pictures. Use JPEG or BMP images.\n1. Add photos by connecting the reader to a computer with the USB data cable and copying files to the removable disk. If using a Micro SD/SDHC card up to 16GB, power the reader off before inserting or removing the card, then turn it back on.\n2. From the main menu, select Photo and press M to enter Photo mode. The front control layout shows the M/menu button, left/right navigation keys, Play/Pause button, and zoom in/out key used for photo viewing.<PIC>\n3. Press the left/right navigation keys for the previous or next photo.\n4. Press Play/Pause to rotate the photo counter-clockwise.\n5. Use the zoom in/out key to zoom the photo.\nLarge files may take longer to load into the photo viewer and to rotate.",
+  "images": [
+    "Manual13_0"
+  ],
+  "ret": "\"Yes. It has a Photo mode for viewing pictures. Use JPEG or BMP images.\\n1. Add photos by connecting the reader to a computer with the USB data cable and copying files to the removable disk. If using a Micro SD/SDHC card up to 16GB, power the reader off before inserting or removing the card, then turn it back on.\\n2. From the main menu, select Photo and press M to enter Photo mode. The front control layout shows the M/menu button, left/right navigation keys, Play/Pause button, and zoom in/out key used for photo viewing.<PIC>\\n3. Press the left/right navigation keys for the previous or next photo.\\n4. Press Play/Pause to rotate the photo counter-clockwise.\\n5. Use the zoom in/out key to zoom the photo.\\nLarge files may take longer to load into the photo viewer and to rotate.\",[\"Manual13_0\"]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color E-Reader.md:44-50",
+    "agentic-rag/en-manual/Color E-Reader.md:62-82",
+    "agentic-rag/en-manual/Color E-Reader.md:120-130",
+    "agentic-rag/en-manual/Color E-Reader.md:218-230",
+    "agentic-rag/en-manual/Color E-Reader.md:300-316"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Color E-Reader Photo section and document-management instructions. One image is included because the answer references the physical controls used to operate Photo mode."
+}

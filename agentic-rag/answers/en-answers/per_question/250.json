@@ -1,0 +1,20 @@
+{
+  "id": 250,
+  "question": "How do I use the jet wash function to clean the boat after using it?",
+  "content": "Use the jet wash only as a passenger, not while operating the boat. Before use, make sure the shut-off valve is open; on 210FSH DELUXE, make sure the anchor light socket is closed. If water leaks from the hose fitting or coil hose, or if any other problem appears, close the shut-off valve immediately. The operator must attach the engine shut-off cord to their PFD and keep scanning for people, objects, and other watercraft.\n1. Connect the coil hose to the hose fitting.<PIC>\n2. Start the engines.\n3. Push the jet wash switch; water starts about 5 seconds later. Press the switch again to adjust the water flow through 3 levels.<PIC>\n4. Move the jet wash handle lever to discharge water.<PIC>\n5. To stop, push the jet wash switch, stop the engines, push the collar on the hose fitting inward, and disconnect the coil hose.\n6. If you need to turn the water supply on or off, stop the engines, open the rear platform hatch, remove the inspection cover, turn the shut-off valve 90 clockwise to turn on or 90 counterclockwise to turn off, reinstall the cover, and close the hatch.<PIC>",
+  "images": [
+    "Manual09_173",
+    "Manual09_174",
+    "Manual09_177",
+    "Manual09_180"
+  ],
+  "ret": "\"Use the jet wash only as a passenger, not while operating the boat. Before use, make sure the shut-off valve is open; on 210FSH DELUXE, make sure the anchor light socket is closed. If water leaks from the hose fitting or coil hose, or if any other problem appears, close the shut-off valve immediately. The operator must attach the engine shut-off cord to their PFD and keep scanning for people, objects, and other watercraft.\\n1. Connect the coil hose to the hose fitting.<PIC>\\n2. Start the engines.\\n3. Push the jet wash switch; water starts about 5 seconds later. Press the switch again to adjust the water flow through 3 levels.<PIC>\\n4. Move the jet wash handle lever to discharge water.<PIC>\\n5. To stop, push the jet wash switch, stop the engines, push the collar on the hose fitting inward, and disconnect the coil hose.\\n6. If you need to turn the water supply on or off, stop the engines, open the rear platform hatch, remove the inspection cover, turn the shut-off valve 90 clockwise to turn on or 90 counterclockwise to turn off, reinstall the cover, and close the hatch.<PIC>\",[\"Manual09_173\", \"Manual09_174\", \"Manual09_177\", \"Manual09_180\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1385-1393",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1399-1425",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1429-1437"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Jet wash and To use the jet wash sections. Images show the coil hose/hose fitting, jet wash switch, handle lever, and shut-off valve."
+}

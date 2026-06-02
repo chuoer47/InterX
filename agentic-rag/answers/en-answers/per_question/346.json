@@ -1,0 +1,35 @@
+{
+  "id": 346,
+  "question": "The intake and impeller of my jetski are dirty. How to clean them?",
+  "content": "Beach the WaveRunner and clean it only with the engine stopped. If weeds or debris clog the jet intake or impeller, cavitation can reduce jet thrust even though engine speed rises; if you keep running it, the engine can overheat and seize. The jet intake/intake grate area to check is underneath the hull.<PIC>\n1. Stop the engine before beaching the watercraft.\n2. Shut the engine off and remove the clip from the engine shut-off switch before putting your hands near the jet intake or impeller. Severe injury or death can result from contact with rotating jet pump parts.\n3. Put a suitable clean cloth or carpeting under the hull, then turn the watercraft over onto its port (left) side and support the bow so the handlebars are not bent or damaged.<PIC>\n4. Remove weeds or debris from around the drive shaft, impeller, pump housing, and jet thrust nozzle. If the debris is difficult to remove, have a Yamaha dealer handle it.\n5. Avoid operating where weed growth is thick. If you must travel through weeds, alternate partial throttle and full throttle, because weeds collect more at a steady speed and at trolling speed.",
+  "images": [
+    "Manual20_85",
+    "Manual20_86"
+  ],
+  "ret": "\"Beach the WaveRunner and clean it only with the engine stopped. If weeds or debris clog the jet intake or impeller, cavitation can reduce jet thrust even though engine speed rises; if you keep running it, the engine can overheat and seize. The jet intake/intake grate area to check is underneath the hull.<PIC>\\n1. Stop the engine before beaching the watercraft.\\n2. Shut the engine off and remove the clip from the engine shut-off switch before putting your hands near the jet intake or impeller. Severe injury or death can result from contact with rotating jet pump parts.\\n3. Put a suitable clean cloth or carpeting under the hull, then turn the watercraft over onto its port (left) side and support the bow so the handlebars are not bent or damaged.<PIC>\\n4. Remove weeds or debris from around the drive shaft, impeller, pump housing, and jet thrust nozzle. If the debris is difficult to remove, have a Yamaha dealer handle it.\\n5. Avoid operating where weed growth is thick. If you must travel through weeds, alternate partial throttle and full throttle, because weeds collect more at a steady speed and at trolling speed.\",[\"Manual20_85\", \"Manual20_86\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "774-796",
+      "note": "Cleaning section describes cavitation/overheat risk, beaching, shutdown, port-side turn, debris removal targets, dealer fallback, and weedy-area operation."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "171-179",
+      "note": "Safety section says to stop the engine and remove the shut-off switch clip before removing debris and warns against contact with intake grate or jet nozzle while running."
+    },
+    {
+      "image": "Manual20_85",
+      "source": "Yamaha WaveRunner 2005.md:778",
+      "note": "Shows the shut-off clip and the underside intake grate/jet intake area to check."
+    },
+    {
+      "image": "Manual20_86",
+      "source": "Yamaha WaveRunner 2005.md:790",
+      "note": "Shows turning the watercraft onto its side for cleaning access."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answer uses the Yamaha WaveRunner cleaning procedure and includes only directly relevant safety and operating cautions."
+}

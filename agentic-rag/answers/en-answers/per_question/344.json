@@ -1,0 +1,23 @@
+{
+  "id": 344,
+  "question": "Inspecting fuel filter and fuel tank of my jetski is important. How to do that?",
+  "content": "1. Inspect the fuel filter as a disposable one-piece filter. Replace it after the initial 10 hours or first month of operation, then every 200 hours or 24 months, or whenever water is found in the filter. The illustrated fuel filter is the part marked for this check.<PIC>\n2. Do not replace the fuel filter yourself. An incorrectly installed filter can leak gasoline and create a fire or explosion hazard; have a Yamaha dealer replace it if needed.\n3. Inspect the fuel tank for leakage and for water in the tank. The illustrated fuel tank is the part to check.<PIC>\n4. If water is found in the fuel system, or if the tank needs cleaning, have a Yamaha dealer service the watercraft.",
+  "images": [
+    "Manual20_81",
+    "Manual20_82"
+  ],
+  "ret": "\"1. Inspect the fuel filter as a disposable one-piece filter. Replace it after the initial 10 hours or first month of operation, then every 200 hours or 24 months, or whenever water is found in the filter. The illustrated fuel filter is the part marked for this check.<PIC>\\n2. Do not replace the fuel filter yourself. An incorrectly installed filter can leak gasoline and create a fire or explosion hazard; have a Yamaha dealer replace it if needed.\\n3. Inspect the fuel tank for leakage and for water in the tank. The illustrated fuel tank is the part to check.<PIC>\\n4. If water is found in the fuel system, or if the tank needs cleaning, have a Yamaha dealer service the watercraft.\",[\"Manual20_81\", \"Manual20_82\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:734",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:736",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:738",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:740",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:742",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:744",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:746",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:748"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha WaveRunner maintenance sections for Fuel filter and Fuel tank. The two images are adjacent to the relevant instructions and identify the checked parts."
+}

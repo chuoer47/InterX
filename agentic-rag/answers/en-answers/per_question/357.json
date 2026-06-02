@@ -1,0 +1,28 @@
+{
+  "id": 357,
+  "question": "How can you know about the current status with different LED indicator behavior on the base station of a landline?",
+  "content": "For the XL495 base station, read the LED as a message/status indicator: steady on means there is no new message and the memory is not full, the answering machine is switched on, or paging mode is being entered. Flashing means there is a new message and memory is not full, an incoming call, recording of an incoming message or announcement, message playback, or remote access/listening to messages from the handset. Fast flashing means there is no new message and the memory is full, or registration mode is being entered.<PIC>",
+  "images": [
+    "Manual22_46"
+  ],
+  "ret": "\"For the XL495 base station, read the LED as a message/status indicator: steady on means there is no new message and the memory is not full, the answering machine is switched on, or paging mode is being entered. Flashing means there is a new message and memory is not full, an incoming call, recording of an incoming message or announcement, message playback, or remote access/listening to messages from the handset. Fast flashing means there is no new message and the memory is full, or registration mode is being entered.<PIC>\",[\"Manual22_46\"]",
+  "manual_guess": "Philips XL490 XL495",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/en-manual/Philips XL490 XL495.md",
+      "lines": "869-875",
+      "note": "Answering machine section and base-station button light context for XL495."
+    },
+    {
+      "file": "agentic-rag/en-manual/Philips XL490 XL495.md",
+      "lines": "1089-1093",
+      "note": "Heading and image anchor for the base-station LED behavior table."
+    },
+    {
+      "file": "agentic-rag/en-manual/插图/Manual22_46.jpg",
+      "note": "Table mapping steady on, flashing, and fast flashing LED behavior to message/status conditions."
+    }
+  ],
+  "status": "answered",
+  "notes": "Uses the base-station LED behavior table image because the detailed status mapping is embedded as an illustration."
+}

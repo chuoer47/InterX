@@ -1,0 +1,20 @@
+{
+  "id": 395,
+  "question": "How can you install the sealing ring for a multi-use pressure cooker and air fryer?",
+  "content": "1. Place the sealing ring over the stainless-steel sealing ring rack on the underside of the pressure cooking lid.\n2. Press the ring into place all the way around the rack so it is seated behind the rack, not lying loose across the lid.<PIC>\n3. Before using the cooker, confirm only one sealing ring is installed. Use only authorised Instant Pot sealing rings, and do not use one that is stretched, deformed, or damaged.",
+  "images": [
+    "Manual30_31"
+  ],
+  "ret": "\"1. Place the sealing ring over the stainless-steel sealing ring rack on the underside of the pressure cooking lid.\\n2. Press the ring into place all the way around the rack so it is seated behind the rack, not lying loose across the lid.<PIC>\\n3. Before using the cooker, confirm only one sealing ring is installed. Use only authorised Instant Pot sealing rings, and do not use one that is stretched, deformed, or damaged.\",[\"Manual30_31\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:180",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:182",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:186",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:351",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:357",
+    "agentic-rag/en-manual/插图/Manual30_31.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Instant Pot Duo Crisp sealing-ring component and silicone sealing-ring maintenance sections. The selected image directly illustrates the correct seated position and an incorrect loose placement."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 433,
+  "question": "What safety precautions should be followed to ensure safe operation during this process?",
+  "content": "1. Keep the television away from rain, moisture, dripping, splashing, and objects filled with liquids.\n2. Do not remove the cover or back, and do not try to service the television yourself; there are no user-serviceable parts inside, so servicing should be done by qualified personnel.\n3. Operate the television only from the power source shown on the marking label, protect the power cord from being walked on or pinched, and do not overload wall outlets or extension cords.\n4. Use a stable cart, stand, table, shelf, or wall mount that follows the manufacturer's instructions, and keep all ventilation openings unblocked to prevent overheating.\n5. Unplug the television before cleaning, use only a damp cloth, avoid liquid or aerosol cleaners, and do not use attachments not recommended by the manufacturer.\n6. Never push objects through cabinet slots or spill liquid into the television. Before operation, make sure the antenna or cable connection is complete and the set is plugged into a power outlet.",
+  "images": [],
+  "ret": "\"1. Keep the television away from rain, moisture, dripping, splashing, and objects filled with liquids.\\n2. Do not remove the cover or back, and do not try to service the television yourself; there are no user-serviceable parts inside, so servicing should be done by qualified personnel.\\n3. Operate the television only from the power source shown on the marking label, protect the power cord from being walked on or pinched, and do not overload wall outlets or extension cords.\\n4. Use a stable cart, stand, table, shelf, or wall mount that follows the manufacturer's instructions, and keep all ventilation openings unblocked to prevent overheating.\\n5. Unplug the television before cleaning, use only a damp cloth, avoid liquid or aerosol cleaners, and do not use attachments not recommended by the manufacturer.\\n6. Never push objects through cabinet slots or spill liquid into the television. Before operation, make sure the antenna or cable connection is complete and the set is plugged into a power outlet.\",[]",
+  "manual_guess": "Color Television",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color Television.md:5-7",
+    "agentic-rag/en-manual/Color Television.md:11-15",
+    "agentic-rag/en-manual/Color Television.md:19",
+    "agentic-rag/en-manual/Color Television.md:25-33",
+    "agentic-rag/en-manual/Color Television.md:37",
+    "agentic-rag/en-manual/Color Television.md:121-125"
+  ],
+  "status": "answered",
+  "notes": "The question uses an unresolved pronoun; neighboring questions route it to the Color Television manual. The answer uses the manual's general safety and pre-operation instructions. No image is needed because the relevant evidence is textual."
+}

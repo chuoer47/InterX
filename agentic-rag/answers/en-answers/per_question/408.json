@@ -1,0 +1,19 @@
+{
+  "id": 408,
+  "question": "What is the correct procedure for positioning the home base of a vacuum cleaner?",
+  "content": "Position the Home Base Charging Station in a location with good Wi-Fi coverage. Keep at least 1.5 ft (0.5 m) clear on both sides, at least 4 ft (1.2 m) clear in front, and at least 4 ft (1.2 m) away from stairs. The stair clearance is a safety requirement to help prevent the robot from falling down stairs.",
+  "images": [],
+  "ret": "\"Position the Home Base Charging Station in a location with good Wi-Fi coverage. Keep at least 1.5 ft (0.5 m) clear on both sides, at least 4 ft (1.2 m) clear in front, and at least 4 ft (1.2 m) away from stairs. The stair clearance is a safety requirement to help prevent the robot from falling down stairs.\",[]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:78",
+    "agentic-rag/en-manual/Roomba i5.md:80",
+    "agentic-rag/en-manual/Roomba i5.md:82",
+    "agentic-rag/en-manual/Roomba i5.md:84",
+    "agentic-rag/en-manual/Roomba i5.md:85",
+    "agentic-rag/en-manual/Roomba i5.md:86",
+    "agentic-rag/en-manual/Roomba i5.md:88"
+  ],
+  "status": "answered",
+  "notes": "No image is needed; the placement procedure and warning are stated directly in the Roomba i5 manual."
+}

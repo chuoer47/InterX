@@ -1,0 +1,29 @@
+{
+  "id": 263,
+  "question": "How to replace the fuse of the boat?",
+  "content": "Do not install a fuse with a higher amperage than specified; use only the proper rating, otherwise the electrical system can be damaged and a fire can result.\n1. Open the engine hood, then unfasten the band securing the fuse box on the air filter case.<PIC>\n2. Pull the fuse box toward the bow to remove it from the air filter case.\n3. Push both sides of the fuse box cover inward and pull the cover toward the bow to remove it.<PIC>\n4. Identify the blown fuse in the fuse box; the diagram shows the electronic throttle valve fuse, fuel pump fuse, main relay drive fuse, main fuse, fuse puller, battery fuse, spare fuse, and unused positions.<PIC>\n5. If replacing the accessory fuse or bilge pump fuse, open the battery compartment and remove the fuse holder; the holder contains the accessory and bilge pump fuses.<PIC>\n6. Use the fuse puller to replace the blown fuse with a spare fuse of the correct amperage: electronic throttle valve 10 A, fuel pump 10 A, main relay drive 10 A, main fuse 20 A, battery fuse 30 A, accessory fuse 20 A, bilge pump fuse 3 A.\n7. Reinstall the fuse box cover. If you replaced the accessory or bilge pump fuse, reinstall the fuse holder. Reinstall the fuse box to the air filter case, fasten the band, and close the engine hood.",
+  "images": [
+    "Manual09_281",
+    "Manual09_282",
+    "Manual09_283",
+    "Manual09_284"
+  ],
+  "ret": "\"Do not install a fuse with a higher amperage than specified; use only the proper rating, otherwise the electrical system can be damaged and a fire can result.\\n1. Open the engine hood, then unfasten the band securing the fuse box on the air filter case.<PIC>\\n2. Pull the fuse box toward the bow to remove it from the air filter case.\\n3. Push both sides of the fuse box cover inward and pull the cover toward the bow to remove it.<PIC>\\n4. Identify the blown fuse in the fuse box; the diagram shows the electronic throttle valve fuse, fuel pump fuse, main relay drive fuse, main fuse, fuse puller, battery fuse, spare fuse, and unused positions.<PIC>\\n5. If replacing the accessory fuse or bilge pump fuse, open the battery compartment and remove the fuse holder; the holder contains the accessory and bilge pump fuses.<PIC>\\n6. Use the fuse puller to replace the blown fuse with a spare fuse of the correct amperage: electronic throttle valve 10 A, fuel pump 10 A, main relay drive 10 A, main fuse 20 A, battery fuse 30 A, accessory fuse 20 A, bilge pump fuse 3 A.\\n7. Reinstall the fuse box cover. If you replaced the accessory or bilge pump fuse, reinstall the fuse holder. Reinstall the fuse box to the air filter case, fasten the band, and close the engine hood.\",[\"Manual09_281\", \"Manual09_282\", \"Manual09_283\", \"Manual09_284\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2392",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2394",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2396",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2398",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2402",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2409",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2413",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2424",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2426",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2432",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2434",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2443"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH fuse replacement section; includes the warning against higher-amperage fuses, the access/removal/replacement/reassembly sequence, fuse ratings, and the four adjacent figures used by the procedure."
+}

@@ -1,0 +1,24 @@
+{
+  "id": 396,
+  "question": "How can you remove silicone sealing ring for a multi-use pressure cooker and air fryer?",
+  "content": "To remove the silicone sealing ring, grip the edge of the silicone and pull it out from behind the stainless-steel sealing ring rack.<PIC> Only use authorised Instant Pot sealing rings, do not use one that is stretched or damaged, and replace the ring every 12-18 months or sooner if it is stretched, deformed, or damaged.",
+  "images": [
+    "Manual30_30"
+  ],
+  "ret": "\"To remove the silicone sealing ring, grip the edge of the silicone and pull it out from behind the stainless-steel sealing ring rack.<PIC> Only use authorised Instant Pot sealing rings, do not use one that is stretched or damaged, and replace the ring every 12-18 months or sooner if it is stretched, deformed, or damaged.\",[\"Manual30_30\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    {
+      "manual": "Instant Pot Duo Crisp.md",
+      "lines": "351-355",
+      "note": "Silicone sealing ring removal procedure and removal illustration anchor."
+    },
+    {
+      "manual": "Instant Pot Duo Crisp.md",
+      "lines": "180-186",
+      "note": "Sealing ring role, installation requirement, authorized-ring warning, and replacement interval."
+    }
+  ],
+  "status": "answered",
+  "notes": "Image Manual30_30 shows the silicone ring being pulled out from behind the lid's stainless-steel sealing ring rack."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 384,
+  "question": "How do you know about Serial port connector (10-1 pin COM) of a motherboard?",
+  "content": "The 10-1 pin COM connector is the motherboard header for a serial (COM) port. Connect the serial port module cable to this COM header, then install the module in a slot opening at the back of the system chassis; the COM module itself is purchased separately. The illustration shows the motherboard location and the COM header/pin layout for that cable connection.<PIC>",
+  "images": [
+    "Manual25_39"
+  ],
+  "ret": "\"The 10-1 pin COM connector is the motherboard header for a serial (COM) port. Connect the serial port module cable to this COM header, then install the module in a slot opening at the back of the system chassis; the COM module itself is purchased separately. The illustration shows the motherboard location and the COM header/pin layout for that cable connection.<PIC>\",[\"Manual25_39\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:136",
+    "agentic-rag/en-manual/Motherboard.md:473",
+    "agentic-rag/en-manual/Motherboard.md:479",
+    "agentic-rag/en-manual/Motherboard.md:481",
+    "agentic-rag/en-manual/Motherboard.md:483",
+    "agentic-rag/en-manual/插图/Manual25_39.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Motherboard internal connectors section. The adjacent figure is used because it shows the COM header location and pin layout for the serial port module cable."
+}

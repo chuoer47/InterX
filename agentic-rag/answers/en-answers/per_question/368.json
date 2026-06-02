@@ -1,0 +1,17 @@
+{
+  "id": 368,
+  "question": "How can you set yout favorite recipe with a over-the-range microwave?",
+  "content": "To set a Favorite Recipe, touch the Favorite Recipe pad, enter the cook time with the number keypad, then touch Start. For example, to program 2 minutes, press Favorite Recipe, then 2, 0, 0, then Start; the display counts down when cooking begins.<PIC>\nThe saved recipe uses Hi power by default, but the power level can be modified.",
+  "images": [
+    "Manual24_16"
+  ],
+  "ret": "\"To set a Favorite Recipe, touch the Favorite Recipe pad, enter the cook time with the number keypad, then touch Start. For example, to program 2 minutes, press Favorite Recipe, then 2, 0, 0, then Start; the display counts down when cooking begins.<PIC>\\nThe saved recipe uses Hi power by default, but the power level can be modified.\",[\"Manual24_16\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:327",
+    "agentic-rag/en-manual/Bosch Microwave.md:489-503",
+    "agentic-rag/en-manual/插图/Manual24_16.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered as programming a Favorite Recipe. The manual states the Favorite Recipe key recalls one previously stored cooking instruction; the programming example shows Favorite Recipe, cook-time digits, then Start. Power level default note included."
+}

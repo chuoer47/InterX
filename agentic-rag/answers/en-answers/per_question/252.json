@@ -1,0 +1,26 @@
+{
+  "id": 252,
+  "question": "How to remove the bimini top of the boat?",
+  "content": "For the 210FSH SPORT T-top bimini: 1. Open the flap on the starboard side of the bimini top; the flap is the cover section shown at the side of the top.<PIC>\n2. Loosen the ratchet, then loosen the strap that secures the bimini top; the ratchet is the labeled strap tensioner.<PIC>\n3. Slowly pull the bimini top toward the bow and remove it.\n\nFor the 210FSH DELUXE bimini: 1. Store the bimini top in the fully collapsed position. To do that, first remove the center-pole lock pins and push the center poles down, pull the bimini top toward the bow, install the storage cover, then while supporting the bimini top remove the lock pins securing the forward support poles to the mounting brackets and lower the top onto the rear deck; the forward support pole, lock pin, and bracket are shown here.<PIC>\n2. Remove the main pole mounting pins that secure the bimini top to the main pole mounting brackets; the mounting pin is labeled at the base of the frame.<PIC>\n3. Remove the bimini top from the boat.",
+  "images": [
+    "Manual09_183",
+    "Manual09_184",
+    "Manual09_191",
+    "Manual09_193"
+  ],
+  "ret": "\"For the 210FSH SPORT T-top bimini: 1. Open the flap on the starboard side of the bimini top; the flap is the cover section shown at the side of the top.<PIC>\\n2. Loosen the ratchet, then loosen the strap that secures the bimini top; the ratchet is the labeled strap tensioner.<PIC>\\n3. Slowly pull the bimini top toward the bow and remove it.\\n\\nFor the 210FSH DELUXE bimini: 1. Store the bimini top in the fully collapsed position. To do that, first remove the center-pole lock pins and push the center poles down, pull the bimini top toward the bow, install the storage cover, then while supporting the bimini top remove the lock pins securing the forward support poles to the mounting brackets and lower the top onto the rear deck; the forward support pole, lock pin, and bracket are shown here.<PIC>\\n2. Remove the main pole mounting pins that secure the bimini top to the main pole mounting brackets; the mounting pin is labeled at the base of the frame.<PIC>\\n3. Remove the bimini top from the boat.\",[\"Manual09_183\", \"Manual09_184\", \"Manual09_191\", \"Manual09_193\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1447",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1453",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1457",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1461",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1495",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1507",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1521",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1523",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1527"
+  ],
+  "status": "answered",
+  "notes": "Question does not specify SPORT or DELUXE trim, so the answer includes both bimini removal procedures from the Yamaha 210FSH manual. Four PIC placeholders align with four selected figure IDs."
+}

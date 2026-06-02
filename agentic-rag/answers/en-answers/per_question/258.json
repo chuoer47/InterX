@@ -1,0 +1,25 @@
+{
+  "id": 258,
+  "question": "When I want to start the boat, how do I turn on the boat's engine to get the machine started?",
+  "content": "1. Finish the pre-operation checks, make sure the boat is launched in water free of weeds and debris, and use water at least 90 cm (3 ft) deep from the bottom of the boat.\n2. Turn the battery switch to ON.\n3. Check the engine compartment for gasoline, gasoline vapors, and loose electrical connections; if anything smells or looks wrong, do not start. Push the blower switch and run the blowers for at least 4 minutes.<PIC>\n4. Attach the engine shut-off cord (lanyard) to your PFD, then install the clip on the engine shut-off switch by pushing the clip groove over the nut beneath the knob; keep the cord clear of the steering wheel and controls.<PIC>\n5. Put both remote control levers in neutral. The starter motors will not operate unless the levers are in neutral.\n6. Turn the main switch keys to START and release each key when the engines start.<PIC> If an engine does not start after 5 seconds of cranking, release the key and wait at least 15 seconds before trying again. Do not turn a key to START while its engine is already running, and use only enough throttle to keep the engine idling.",
+  "images": [
+    "Manual09_235",
+    "Manual09_236",
+    "Manual09_237"
+  ],
+  "ret": "\"1. Finish the pre-operation checks, make sure the boat is launched in water free of weeds and debris, and use water at least 90 cm (3 ft) deep from the bottom of the boat.\\n2. Turn the battery switch to ON.\\n3. Check the engine compartment for gasoline, gasoline vapors, and loose electrical connections; if anything smells or looks wrong, do not start. Push the blower switch and run the blowers for at least 4 minutes.<PIC>\\n4. Attach the engine shut-off cord (lanyard) to your PFD, then install the clip on the engine shut-off switch by pushing the clip groove over the nut beneath the knob; keep the cord clear of the steering wheel and controls.<PIC>\\n5. Put both remote control levers in neutral. The starter motors will not operate unless the levers are in neutral.\\n6. Turn the main switch keys to START and release each key when the engines start.<PIC> If an engine does not start after 5 seconds of cranking, release the key and wait at least 15 seconds before trying again. Do not turn a key to START while its engine is already running, and use only enough throttle to keep the engine idling.\",[\"Manual09_235\", \"Manual09_236\", \"Manual09_237\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:19",
+    "agentic-rag/en-manual/手册内容总览.md:76",
+    "agentic-rag/en-manual/手册内容总览.md:79",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1909",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1913",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1923",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1927",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1935",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1941"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH starting procedure. Images show the blower switch, the engine shut-off switch with clip and lanyard, and turning the main switch key to START."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 270,
+  "question": "How should I clean my coffee maker after I use it so that it can last longer?",
+  "content": "1. After brewing, remove the cup, then lift and close the lever to eject the used capsule into the used capsule container.\n2. Before cleaning, unplug the machine and let it cool. Wipe the appliance surface with a damp cloth and mild cleaning agent, and clean the coffee outlet regularly with a soft damp cloth.<PIC>\n3. Remove the maintenance unit in separate pieces so it can be cleaned easily.<PIC>\n4. Never immerse the appliance or any part in water, put it in a dishwasher, use strong cleaners or solvent cleaners, use sharp objects, brushes or sharp abrasives, or use a steam or pressure cleaner.\n5. For long service life, descale the machine with the recommended descaling kit, following the kit manual and the frequency required for your water hardness.",
+  "images": [
+    "Manual07_47",
+    "Manual07_48"
+  ],
+  "ret": "\"1. After brewing, remove the cup, then lift and close the lever to eject the used capsule into the used capsule container.\\n2. Before cleaning, unplug the machine and let it cool. Wipe the appliance surface with a damp cloth and mild cleaning agent, and clean the coffee outlet regularly with a soft damp cloth.<PIC>\\n3. Remove the maintenance unit in separate pieces so it can be cleaned easily.<PIC>\\n4. Never immerse the appliance or any part in water, put it in a dishwasher, use strong cleaners or solvent cleaners, use sharp objects, brushes or sharp abrasives, or use a steam or pressure cleaner.\\n5. For long service life, descale the machine with the recommended descaling kit, following the kit manual and the frequency required for your water hardness.\",[\"Manual07_47\", \"Manual07_48\"]",
+  "manual_guess": "Nespresso CitiZ D111.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:31",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:83",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:137",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:139",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:141",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:175",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:285",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:405",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:413",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:417"
+  ],
+  "status": "answered",
+  "notes": "Images Manual07_47 and Manual07_48 are used because they directly support soft-cloth cleaning and the removable maintenance unit."
+}

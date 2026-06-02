@@ -1,0 +1,25 @@
+{
+  "id": 331,
+  "question": "If I need to manipulate the two kinds of engine switches on the jetski, what should I do?",
+  "content": "Use them this way:\n1. To stop the engine normally, push the red engine stop switch on the handlebar.<PIC>\n2. Before starting, attach the engine shut-off cord to your wrist and insert the clip on the cord under the black engine shut-off switch.<PIC>\n3. If the clip is pulled out, such as if the operator falls off, the engine stops automatically; with the clip removed, the engine will not start. Remove the clip whenever the engine is not running to prevent accidental starting or unauthorized use.",
+  "images": [
+    "Manual20_43",
+    "Manual20_44"
+  ],
+  "ret": "\"Use them this way:\\n1. To stop the engine normally, push the red engine stop switch on the handlebar.<PIC>\\n2. Before starting, attach the engine shut-off cord to your wrist and insert the clip on the cord under the black engine shut-off switch.<PIC>\\n3. If the clip is pulled out, such as if the operator falls off, the engine stops automatically; with the clip removed, the engine will not start. Remove the clip whenever the engine is not running to prevent accidental starting or unauthorized use.\",[\"Manual20_43\", \"Manual20_44\"]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "374-390",
+      "notes": "Defines the red engine stop switch, the black engine shut-off switch, the clip/cord, automatic stopping when the clip is removed, and the warning to attach/remove the cord correctly."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "412-420",
+      "notes": "States that the engine will not start when the clip is removed from the engine shut-off switch."
+    }
+  ],
+  "status": "answered",
+  "notes": "The question refers to the WaveRunner/jetski engine stop switch and engine shut-off switch. Two images are used because the manual has separate adjacent figures for the red stop switch and the shut-off switch clip/cord."
+}

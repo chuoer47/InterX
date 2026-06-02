@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文手册问答 RAG"
+  short_description: "回答 agentic-rag 中文手册问题"
+  default_prompt: "Use $answer-ch-agentic-rag to answer the next agentic-rag Chinese manual question in v2 format."

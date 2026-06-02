@@ -1,0 +1,26 @@
+{
+  "id": 413,
+  "question": "What are the detailed instructions for T-rail mounting of a camera or equipment?",
+  "content": "Use the included drop-ceiling T-rail hardware; it fits most 9/16\", 15/16\", or 1 1/2\" T-rails.\n1. Use the dashed lines on the mount-plate template to set the correct spacing between the T-rail clips for the ceiling rail.<PIC>\n2. Tighten the set screws on the T-rail clips, securing them with a 5/64\" (2 mm) hex key at the locations shown.<PIC>\n3. Fasten the mount plate to the T-rail clips through the mount-plate holes marked G.<PIC>\n4. Rotate the T-rail clips onto the ceiling T-rail and snap them into place; after installation, the black foam pads should be slightly compressed.<PIC>\n5. For standard mounting, use 6-32 x 4 mm T-rail screws. For a recessed T-rail, use the recessed-rail modification hardware shown: rubber spacers with 6-32 x 7 mm screws.<PIC>",
+  "images": [
+    "Manual33_10",
+    "Manual33_11",
+    "Manual33_12",
+    "Manual33_13",
+    "Manual33_14"
+  ],
+  "ret": "\"Use the included drop-ceiling T-rail hardware; it fits most 9/16\\\", 15/16\\\", or 1 1/2\\\" T-rails.\\n1. Use the dashed lines on the mount-plate template to set the correct spacing between the T-rail clips for the ceiling rail.<PIC>\\n2. Tighten the set screws on the T-rail clips, securing them with a 5/64\\\" (2 mm) hex key at the locations shown.<PIC>\\n3. Fasten the mount plate to the T-rail clips through the mount-plate holes marked G.<PIC>\\n4. Rotate the T-rail clips onto the ceiling T-rail and snap them into place; after installation, the black foam pads should be slightly compressed.<PIC>\\n5. For standard mounting, use 6-32 x 4 mm T-rail screws. For a recessed T-rail, use the recessed-rail modification hardware shown: rubber spacers with 6-32 x 7 mm screws.<PIC>\",[\"Manual33_10\", \"Manual33_11\", \"Manual33_12\", \"Manual33_13\", \"Manual33_14\"]",
+  "manual_guess": "MV Camera.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/MV Camera.md:97",
+    "agentic-rag/en-manual/MV Camera.md:99",
+    "agentic-rag/en-manual/MV Camera.md:101",
+    "agentic-rag/en-manual/MV Camera.md:105",
+    "agentic-rag/en-manual/MV Camera.md:109",
+    "agentic-rag/en-manual/MV Camera.md:113",
+    "agentic-rag/en-manual/MV Camera.md:117",
+    "agentic-rag/en-manual/MV Camera.md:121"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Cisco Meraki MV Camera T-rail mounting section. Images correspond in order to clip spacing, set screws, mount-plate attachment, rail snap-in/foam compression, and recessed-rail spacer hardware."
+}

@@ -1,0 +1,31 @@
+{
+  "id": 322,
+  "question": "What are identification numbers of my jetski? I don't understand that.",
+  "content": "The identification numbers are the three numbers Yamaha wants you to record for parts orders and theft records: the Primary Identification (PRI-ID) number, the Hull Identification Number (HIN), and the engine serial number.\n1. The PRI-ID number is stamped on a label inside the engine compartment; the figure marks that label as item 1.<PIC>\n2. The HIN is stamped on a plate attached to the hull on the aft, starboard (right) side; the figure marks that plate as item 1.<PIC>\n3. The engine serial number is stamped on a label attached to the engine unit; the figure marks that label as item 1.<PIC>\nWrite all three down and keep a separate copy somewhere safe in case the watercraft is stolen.",
+  "images": [
+    "jetski_01",
+    "jetski_02",
+    "jetski_03"
+  ],
+  "ret": "\"The identification numbers are the three numbers Yamaha wants you to record for parts orders and theft records: the Primary Identification (PRI-ID) number, the Hull Identification Number (HIN), and the engine serial number.\\n1. The PRI-ID number is stamped on a label inside the engine compartment; the figure marks that label as item 1.<PIC>\\n2. The HIN is stamped on a plate attached to the hull on the aft, starboard (right) side; the figure marks that plate as item 1.<PIC>\\n3. The engine serial number is stamped on a label attached to the engine unit; the figure marks that label as item 1.<PIC>\\nWrite all three down and keep a separate copy somewhere safe in case the watercraft is stolen.\",[\"jetski_01\", \"jetski_02\", \"jetski_03\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:322",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:15",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:17",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:19",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:23",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:25",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:27",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:31",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:35",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:37",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:39",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:43",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:45",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:47",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:49"
+  ],
+  "status": "answered",
+  "notes": "Answered from the WaveRunner identification-number section. Images use the location diagrams adjacent to the PRI-ID, HIN, and engine serial number descriptions."
+}

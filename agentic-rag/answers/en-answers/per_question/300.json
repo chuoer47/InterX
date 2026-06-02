@@ -1,0 +1,16 @@
+{
+  "id": 300,
+  "question": "Besides the two main controling functions, what other functions of the earphones can I operate?",
+  "content": "Besides music and call controls, the Hydrabuds ANC can operate these other functions: phone voice assistant by pressing and holding the left earbud until the first beep; Spotify Tap by pressing and holding the right earbud until the first beep; Ambient Awareness/ANC mode cycling by pressing the left earbud; Low Latency Mode on/off by pressing and holding either earbud until the second beep; new-device pairing by turning Bluetooth off on the connected device or by pressing and then pressing and holding either earbud to drop the connection; and reset functions, with the earbuds disconnected from Bluetooth and out of the case, by holding 6 seconds for factory reset or 10 seconds for hardware reset.",
+  "images": [],
+  "ret": "\"Besides music and call controls, the Hydrabuds ANC can operate these other functions: phone voice assistant by pressing and holding the left earbud until the first beep; Spotify Tap by pressing and holding the right earbud until the first beep; Ambient Awareness/ANC mode cycling by pressing the left earbud; Low Latency Mode on/off by pressing and holding either earbud until the second beep; new-device pairing by turning Bluetooth off on the connected device or by pressing and then pressing and holding either earbud to drop the connection; and reset functions, with the earbuds disconnected from Bluetooth and out of the case, by holding 6 seconds for factory reset or 10 seconds for hardware reset.\",[]",
+  "manual_guess": "Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:61",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:113-139",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:141-187",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:191"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Hydrabuds ANC Earbud Controls and More Controls sections. No images used because the answer is a direct list of supported controls and gestures."
+}

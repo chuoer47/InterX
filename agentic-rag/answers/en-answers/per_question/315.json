@@ -1,0 +1,17 @@
+{
+  "id": 315,
+  "question": "Are caution or warning labels inside the fax important? If not, can I remove them?",
+  "content": "Yes. The caution and warning labels inside the product are important safety labels. Do not remove or damage any of them. They identify hazards such as moving parts; keep your hands away from those areas when the parts are moving to avoid injury.",
+  "images": [],
+  "ret": "\"Yes. The caution and warning labels inside the product are important safety labels. Do not remove or damage any of them. They identify hazards such as moving parts; keep your hands away from those areas when the parts are moving to avoid injury.\",[]",
+  "manual_guess": "Brother Safety Guide",
+  "evidence_refs": [
+    {
+      "manual": "Brother Safety Guide.md",
+      "lines": "217-221",
+      "summary": "The manual says not to remove or damage caution or warning labels inside the product, and warns that moving parts in the illustrated gray shaded areas can cause injury."
+    }
+  ],
+  "status": "answered",
+  "notes": "No image used because the text directly answers whether the labels may be removed."
+}

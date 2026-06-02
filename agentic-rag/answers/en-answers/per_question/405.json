@@ -1,0 +1,23 @@
+{
+  "id": 405,
+  "question": "What is the proper procedure for cleaning the full bin sensors on a vacuum cleaner?",
+  "content": "Clean the full bin sensors once every 2 weeks.\n1. Remove and empty the bin; the bin pulls out of the robot before cleaning begins.<PIC>\n2. Wipe the inner full-bin sensors inside the robot with a clean, dry cloth.<PIC>\n3. Wipe the bin door and its inner and outer sensor ports with a clean, dry cloth.<PIC>",
+  "images": [
+    "Manual32_12",
+    "Manual32_13",
+    "Manual32_14"
+  ],
+  "ret": "\"Clean the full bin sensors once every 2 weeks.\\n1. Remove and empty the bin; the bin pulls out of the robot before cleaning begins.<PIC>\\n2. Wipe the inner full-bin sensors inside the robot with a clean, dry cloth.<PIC>\\n3. Wipe the bin door and its inner and outer sensor ports with a clean, dry cloth.<PIC>\",[\"Manual32_12\", \"Manual32_13\", \"Manual32_14\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:178",
+    "agentic-rag/en-manual/Roomba i5.md:182",
+    "agentic-rag/en-manual/Roomba i5.md:186",
+    "agentic-rag/en-manual/Roomba i5.md:220",
+    "agentic-rag/en-manual/Roomba i5.md:222",
+    "agentic-rag/en-manual/Roomba i5.md:226",
+    "agentic-rag/en-manual/Roomba i5.md:230"
+  ],
+  "status": "answered",
+  "notes": "The Roomba i5 care table gives the full bin sensor cleaning frequency as once every 2 weeks, and the Cleaning the Full Bin Sensors subsection gives the three-step procedure with figures Manual32_12, Manual32_13, and Manual32_14."
+}

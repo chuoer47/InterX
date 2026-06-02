@@ -1,0 +1,17 @@
+{
+  "id": 419,
+  "question": "What are the steps to adjust the throttle cable on a snowmobile?",
+  "content": "Adjust the throttle cable only after the engine idle speed has been adjusted first.\n1. Loosen the adjuster locknut.\n2. Turn the adjuster in or out until the throttle lever free play is correct: BR250T/ET410TR/VK540E 1.0 to 2.0 mm (0.04 to 0.08 in), or CS340E 0.5 to 1.0 mm (0.02 to 0.04 in).<PIC>\n3. Tighten the locknut.\n4. Before riding, confirm that the throttle lever opens smoothly and springs back to idle when released.",
+  "images": [
+    "Manual34_148"
+  ],
+  "ret": "\"Adjust the throttle cable only after the engine idle speed has been adjusted first.\\n1. Loosen the adjuster locknut.\\n2. Turn the adjuster in or out until the throttle lever free play is correct: BR250T/ET410TR/VK540E 1.0 to 2.0 mm (0.04 to 0.08 in), or CS340E 0.5 to 1.0 mm (0.02 to 0.04 in).<PIC>\\n3. Tighten the locknut.\\n4. Before riding, confirm that the throttle lever opens smoothly and springs back to idle when released.\",[\"Manual34_148\"]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1279-1295",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:793-795",
+    "agentic-rag/en-manual/插图/Manual34_148.jpg"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the throttle cable adjustment section and the adjacent throttle lever free play specification figure."
+}

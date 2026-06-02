@@ -1,0 +1,33 @@
+{
+  "id": 278,
+  "question": "How should fire extinguishers be stored on board and where should they be placed?",
+  "content": "Keep at least one full 5-B (B-1) fire extinguisher aboard; two are recommended. Mount one extinguisher in the lockable storage compartment, using a chemical-type extinguisher with a capacity of 2 lb or more.<PIC>\nIf a second extinguisher is carried, mount it in the battery compartment at the labeled location outside the compartment.<PIC> Because that extinguisher is near the engine compartment, use a clean-agent type that displaces oxygen, such as CO2 or FE-36, with a capacity of 5 lb or more.",
+  "images": [
+    "Manual09_211",
+    "Manual09_212"
+  ],
+  "ret": "\"Keep at least one full 5-B (B-1) fire extinguisher aboard; two are recommended. Mount one extinguisher in the lockable storage compartment, using a chemical-type extinguisher with a capacity of 2 lb or more.<PIC>\\nIf a second extinguisher is carried, mount it in the battery compartment at the labeled location outside the compartment.<PIC> Because that extinguisher is near the engine compartment, use a clean-agent type that displaces oxygen, such as CO2 or FE-36, with a capacity of 5 lb or more.\",[\"Manual09_211\", \"Manual09_212\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    {
+      "source": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "1727-1729",
+      "notes": "Fire extinguisher check: one 5-B (B-1) type fire extinguisher is required in USCG-controlled waters; at least one must be aboard and full, and two are recommended."
+    },
+    {
+      "source": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "1731-1739",
+      "notes": "Storage section: one extinguisher mounts in the lockable storage compartment; a second, if used, mounts in the battery compartment at the labeled location, with specified type and capacity for each."
+    },
+    {
+      "source": "agentic-rag/en-manual/插图/Manual09_211.jpg",
+      "notes": "Shows the fire extinguisher placement in the lockable storage compartment."
+    },
+    {
+      "source": "agentic-rag/en-manual/插图/Manual09_212.jpg",
+      "notes": "Shows the fire extinguisher placement in the battery compartment."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH 2021 fire extinguisher check and storage section. Two nearby figures were inspected and aligned with the two placement sentences."
+}

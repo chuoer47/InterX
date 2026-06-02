@@ -1,0 +1,14 @@
+{
+  "id": 334,
+  "question": "What do fuel meter and hour meter on my jetski do?",
+  "content": "The fuel meter lets you check the fuel level while riding. It has eight segments that show the amount of fuel remaining in the tank, but the segment indication can change with operating conditions, so use it as a reference. The hour meter helps you follow the maintenance schedule by showing the total hours of engine operation since the watercraft was new. The elapsed time is retained even if the battery terminals have been disconnected; if the hour meter malfunctions, the display shows \"_ _\" and the warning light blinks.",
+  "images": [],
+  "ret": "\"The fuel meter lets you check the fuel level while riding. It has eight segments that show the amount of fuel remaining in the tank, but the segment indication can change with operating conditions, so use it as a reference. The hour meter helps you follow the maintenance schedule by showing the total hours of engine operation since the watercraft was new. The elapsed time is retained even if the battery terminals have been disconnected; if the hour meter malfunctions, the display shows \\\"_ _\\\" and the warning light blinks.\",[]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:478-490",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:526-540"
+  ],
+  "status": "answered",
+  "notes": "No images used; the text directly defines both meters and the adjacent figures are not necessary for this conceptual answer."
+}

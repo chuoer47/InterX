@@ -1,0 +1,17 @@
+{
+  "id": 374,
+  "question": "How can you set the PCI Express 3.0 x16 slots of a motherboard?",
+  "content": "Set the PCI Express 3.0 x16 slots by matching the slot use to the number of VGA/PCIe cards: with one card, install it in PCIe 3.0 x16_1 (gray), where it runs at x16 and is recommended for single VGA use; with two cards, use PCIe 3.0 x16_1 and PCIe 3.0 x16_2, both at x8; with three cards, use PCIe 3.0 x16_1 at x8, PCIe 3.0 x16_2 at x8, and PCIe 3.0 x16_3 at x4.<PIC> Provide sufficient power for some modes, and connect a chassis fan to CHA_FAN1/2/3 when using multiple graphics cards for better cooling. If you need to configure PCIe link speed in BIOS, use PCI Express Configuration > PCIe Speed, with options Auto, Gen1, Gen2, and Gen3.",
+  "images": [
+    "Manual25_31"
+  ],
+  "ret": "\"Set the PCI Express 3.0 x16 slots by matching the slot use to the number of VGA/PCIe cards: with one card, install it in PCIe 3.0 x16_1 (gray), where it runs at x16 and is recommended for single VGA use; with two cards, use PCIe 3.0 x16_1 and PCIe 3.0 x16_2, both at x8; with three cards, use PCIe 3.0 x16_1 at x8, PCIe 3.0 x16_2 at x8, and PCIe 3.0 x16_3 at x4.<PIC> Provide sufficient power for some modes, and connect a chassis fan to CHA_FAN1/2/3 when using multiple graphics cards for better cooling. If you need to configure PCIe link speed in BIOS, use PCI Express Configuration > PCIe Speed, with options Auto, Gen1, Gen2, and Gen3.\",[\"Manual25_31\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:361-369",
+    "agentic-rag/en-manual/Motherboard.md:1487-1493",
+    "agentic-rag/en-manual/插图/Manual25_31.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answer uses the PCI Express 3.0 x16 slot operating-mode table and nearby slot guidance; BIOS PCIe Speed options are included because the question asks how the PCI Express setting can be set."
+}

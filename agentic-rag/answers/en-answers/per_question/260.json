@@ -1,0 +1,20 @@
+{
+  "id": 260,
+  "question": "How to operate the boat cross wakes and swells?",
+  "content": "Cross wakes and swells by adjusting both speed and crossing angle. Usually, slow down and quarter the wake or swell, meaning cross it at an angle, to reduce the jolt to you and the boat. A 45-degree crossing is usually easier to control than a very small angle such as 10 degrees, because at small angles the boat can try strongly to steer away from the wake or swell; be ready to steer and balance as needed.<PIC>\nExpect groups of wakes or swells to be less smooth than a single one. Small swells are easier than larger swells or wakes, and a sharp wake gives more jolt than a broad swell.<PIC>",
+  "images": [
+    "Manual09_249",
+    "Manual09_250"
+  ],
+  "ret": "\"Cross wakes and swells by adjusting both speed and crossing angle. Usually, slow down and quarter the wake or swell, meaning cross it at an angle, to reduce the jolt to you and the boat. A 45-degree crossing is usually easier to control than a very small angle such as 10 degrees, because at small angles the boat can try strongly to steer away from the wake or swell; be ready to steer and balance as needed.<PIC>\\nExpect groups of wakes or swells to be less smooth than a single one. Small swells are easier than larger swells or wakes, and a sharp wake gives more jolt than a broad swell.<PIC>\",[\"Manual09_249\", \"Manual09_250\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2051",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2053",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2055",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2057",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2059"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH 2021 Crossing wakes and swells section. Included the two adjacent illustrations because they directly show crossing angles and sharp wake versus broad swell behavior. PIC count is 2 and images count is 2."
+}

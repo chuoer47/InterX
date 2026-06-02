@@ -1,0 +1,27 @@
+{
+  "id": 406,
+  "question": "What is the correct procedure for cleaning the extractors (brushes or rollers) on a vacuum cleaner?",
+  "content": "Clean the extractors, called Multi-Surface Brushes, this way:\n1. Pinch the brush frame release tab, lift the tab, and remove any obstruction from the cleaning head.<PIC>\n2. Remove both brushes from the robot. Pull the brush caps off the brush ends, clear hair or debris from under the caps, then reinstall the caps.<PIC>\n3. Clear hair and debris from the square and hexagonal pegs on the opposite ends of the brushes.<PIC>\n4. Remove the bin from the robot and clear debris from the vacuum path.<PIC>\n5. Reinstall the brushes. Match each brush peg shape to the matching brush icon shape in the cleaning head module.",
+  "images": [
+    "Manual32_19",
+    "Manual32_20",
+    "Manual32_21",
+    "Manual32_22"
+  ],
+  "ret": "\"Clean the extractors, called Multi-Surface Brushes, this way:\\n1. Pinch the brush frame release tab, lift the tab, and remove any obstruction from the cleaning head.<PIC>\\n2. Remove both brushes from the robot. Pull the brush caps off the brush ends, clear hair or debris from under the caps, then reinstall the caps.<PIC>\\n3. Clear hair and debris from the square and hexagonal pegs on the opposite ends of the brushes.<PIC>\\n4. Remove the bin from the robot and clear debris from the vacuum path.<PIC>\\n5. Reinstall the brushes. Match each brush peg shape to the matching brush icon shape in the cleaning head module.\",[\"Manual32_19\", \"Manual32_20\", \"Manual32_21\", \"Manual32_22\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:263",
+    "agentic-rag/en-manual/Roomba i5.md:265",
+    "agentic-rag/en-manual/Roomba i5.md:267",
+    "agentic-rag/en-manual/Roomba i5.md:269",
+    "agentic-rag/en-manual/Roomba i5.md:271",
+    "agentic-rag/en-manual/Roomba i5.md:273",
+    "agentic-rag/en-manual/Roomba i5.md:275",
+    "agentic-rag/en-manual/Roomba i5.md:277",
+    "agentic-rag/en-manual/Roomba i5.md:279",
+    "agentic-rag/en-manual/Roomba i5.md:281"
+  ],
+  "status": "answered",
+  "notes": "Question routed to the Roomba i5 vacuum maintenance section. The manual names the extractor procedure as Cleaning the Multi-Surface Brushes and provides four adjacent illustrations for steps 1 through 4."
+}

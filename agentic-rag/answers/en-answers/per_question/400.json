@@ -1,0 +1,26 @@
+{
+  "id": 400,
+  "question": "What can you know about natural release(NRorNPR) of a multi-use pressure cooker and air fryer?",
+  "content": "Natural Release, also called NR or NPR, lets the Instant Pot Duo Crisp stop cooking gradually: as the temperature drops, the cooker depressurises naturally over time. Leave the quick release button in the Seal position after cooking completes and turn Keep Warm off; the food continues carryover cooking while pressure falls, and depressurisation can take up to 40 minutes depending on the food and liquid volume, type, and temperature.<PIC>\nUse Natural Release for high-starch foods such as soups, stews, chilis, pasta, oatmeal, and congee, and for expanding foods such as beans and grains. Do not open the lid until all internal pressure is released: if the float valve is still up or the lid is difficult to open, the cooker is still pressurised. When pressure is fully released, the float valve drops into the lid.",
+  "images": [
+    "Manual30_9"
+  ],
+  "ret": "\"Natural Release, also called NR or NPR, lets the Instant Pot Duo Crisp stop cooking gradually: as the temperature drops, the cooker depressurises naturally over time. Leave the quick release button in the Seal position after cooking completes and turn Keep Warm off; the food continues carryover cooking while pressure falls, and depressurisation can take up to 40 minutes depending on the food and liquid volume, type, and temperature.<PIC>\\nUse Natural Release for high-starch foods such as soups, stews, chilis, pasta, oatmeal, and congee, and for expanding foods such as beans and grains. Do not open the lid until all internal pressure is released: if the float valve is still up or the lid is difficult to open, the cooker is still pressurised. When pressure is fully released, the float valve drops into the lid.\",[\"Manual30_9\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:152",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:1",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:3",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:35",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:188",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:196",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:200",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:224",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:228",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:230",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:232",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:234"
+  ],
+  "status": "answered",
+  "notes": "Image Manual30_9 is the Natural Release figure; it shows Seal position, Keep Warm off, carryover/resting, variable depressurisation time up to 40 minutes, and float valve drop after full release."
+}

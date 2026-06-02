@@ -1,0 +1,19 @@
+{
+  "id": 253,
+  "question": "How do I install a bimini top on my boat if I want to use the canopy?",
+  "content": "Use the procedure for your 210FSH model:\n1. For a 210FSH SPORT, the bimini top is the T-top canopy used as a sunshade or rain cover for the leaning post. To install it, reverse the removal steps: guide the bimini top back into place opposite the removal direction, tighten the securing strap with the ratchet, then close the starboard-side flap; the ratchet is the strap tensioner shown here.<PIC>\n2. For a 210FSH DELUXE, if the bimini top has been removed, reverse the removal steps and make sure the main pole mounting pins are securely installed; this figure shows the main pole mounting pin location.<PIC>\n3. To set up the DELUXE bimini top for use as the canopy, raise the top, secure each forward support pole to its mounting bracket with the lock pin, remove the storage cover, unfold the top and pull it toward the stern, then push each center pole up and install the lock pin; this figure shows the center pole lock pin used for the final raised position.<PIC>\nDo not exceed 72 km/h (45 mph) with the bimini top in the up position.",
+  "images": [
+    "Manual09_184",
+    "Manual09_193",
+    "Manual09_188"
+  ],
+  "ret": "\"Use the procedure for your 210FSH model:\\n1. For a 210FSH SPORT, the bimini top is the T-top canopy used as a sunshade or rain cover for the leaning post. To install it, reverse the removal steps: guide the bimini top back into place opposite the removal direction, tighten the securing strap with the ratchet, then close the starboard-side flap; the ratchet is the strap tensioner shown here.<PIC>\\n2. For a 210FSH DELUXE, if the bimini top has been removed, reverse the removal steps and make sure the main pole mounting pins are securely installed; this figure shows the main pole mounting pin location.<PIC>\\n3. To set up the DELUXE bimini top for use as the canopy, raise the top, secure each forward support pole to its mounting bracket with the lock pin, remove the storage cover, unfold the top and pull it toward the stern, then push each center pole up and install the lock pin; this figure shows the center pole lock pin used for the final raised position.<PIC>\\nDo not exceed 72 km/h (45 mph) with the bimini top in the up position.\",[\"Manual09_184\", \"Manual09_193\", \"Manual09_188\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1439-1461",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1463-1487",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1521-1533"
+  ],
+  "status": "answered",
+  "notes": "Manual splits bimini instructions by 210FSH SPORT and 210FSH DELUXE, so the answer gives the SPORT install reversal and the DELUXE install/setup steps plus the up-position speed limit."
+}

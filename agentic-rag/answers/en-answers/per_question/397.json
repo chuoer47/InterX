@@ -1,0 +1,29 @@
+{
+  "id": 397,
+  "question": "What do you know about sealing ring of a multi-use pressure cooker and air fryer?",
+  "content": "On the Instant Pot Duo Crisp, the sealing ring is used with the pressure cooking lid. When the lid is closed, it forms the airtight seal between the lid and inner pot, so it must be installed before using the cooker. Install only one sealing ring at a time, and use only authorised Instant Pot sealing rings. Do not use a stretched, deformed, or damaged sealing ring; replace it every 12-18 months, or sooner if it is stretched, deformed, or damaged. The ring sits around the underside of the pressure cooking lid behind the stainless-steel sealing ring rack.<PIC>\nTo remove it for cleaning or replacement, grip the edge of the silicone and pull it out from behind the stainless-steel sealing ring rack.<PIC>\nTo reinstall it, place the sealing ring over the sealing ring rack and press it into place.<PIC>\nClean the cooker and parts after each use. Always unplug the cooker and let it cool to room temperature before cleaning, and do not use metal scouring pads, abrasive powders, or harsh chemical detergents. Discoloration after machine washing does not affect safety or performance.",
+  "images": [
+    "Manual30_16",
+    "Manual30_30",
+    "Manual30_31"
+  ],
+  "ret": "\"On the Instant Pot Duo Crisp, the sealing ring is used with the pressure cooking lid. When the lid is closed, it forms the airtight seal between the lid and inner pot, so it must be installed before using the cooker. Install only one sealing ring at a time, and use only authorised Instant Pot sealing rings. Do not use a stretched, deformed, or damaged sealing ring; replace it every 12-18 months, or sooner if it is stretched, deformed, or damaged. The ring sits around the underside of the pressure cooking lid behind the stainless-steel sealing ring rack.<PIC>\\nTo remove it for cleaning or replacement, grip the edge of the silicone and pull it out from behind the stainless-steel sealing ring rack.<PIC>\\nTo reinstall it, place the sealing ring over the sealing ring rack and press it into place.<PIC>\\nClean the cooker and parts after each use. Always unplug the cooker and let it cool to room temperature before cleaning, and do not use metal scouring pads, abrasive powders, or harsh chemical detergents. Discoloration after machine washing does not affect safety or performance.\",[\"Manual30_16\", \"Manual30_30\", \"Manual30_31\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:180",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:182",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:184",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:186",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:334",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:336",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:338",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:342",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:351",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:353",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:355",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:357",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:359"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Instant Pot Duo Crisp sealing-ring description and care/removal/installation sections. The three images show the sealing ring location, removal, and installation."
+}

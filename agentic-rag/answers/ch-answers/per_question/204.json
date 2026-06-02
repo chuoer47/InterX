@@ -1,0 +1,22 @@
+{
+  "id": 204,
+  "question": "如何将功能键盘搭配CAM软件使用？",
+  "content": "1. 前往官网下载并安装最新版CAM软件。<PIC>\n2. 在CAM软件中为键盘设置配置信息，可自定义灯光、宏命令和按键重映射，并将设置保存到键盘的四个板载配置文件之一。\n3. 配置保存到键盘后，即使不运行CAM软件，也可直接使用已存储的灯光、宏命令和按键绑定。\n4. 需要切换配置文件时，按FN+F1、F2、F3或F4即可调用对应的配置文件。\n如果已将自定义灯光保存到某个配置文件，切换到该配置文件时会自动激活对应的自定义灯光。",
+  "images": ["Manual21_0"],
+  "ret": "\"1. 前往官网下载并安装最新版CAM软件。<PIC>\\n2. 在CAM软件中为键盘设置配置信息，可自定义灯光、宏命令和按键重映射，并将设置保存到键盘的四个板载配置文件之一。\\n3. 配置保存到键盘后，即使不运行CAM软件，也可直接使用已存储的灯光、宏命令和按键绑定。\\n4. 需要切换配置文件时，按FN+F1、F2、F3或F4即可调用对应的配置文件。\\n如果已将自定义灯光保存到某个配置文件，切换到该配置文件时会自动激活对应的自定义灯光。\",[\"Manual21_0\"]",
+  "manual_guess": "功能键盘手册.md",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/ch-manual/功能键盘手册.md",
+      "lines": "59-73",
+      "text": "Section 7 explains using the keyboard with CAM: download/install CAM from the official site, configure and store up to four onboard profiles, then use stored lighting, macro, and remap functions even without CAM running; switch profiles with FN+F1/F2/F3/F4."
+    },
+    {
+      "file": "agentic-rag/ch-manual/功能键盘手册.md",
+      "lines": "75-78",
+      "text": "Hardware mode notes that profile switching activates stored lighting profiles, including custom lighting saved to a profile."
+    }
+  ],
+  "status": "answered",
+  "notes": "Used section 7 of 功能键盘手册.md as the primary evidence. The manual states the CAM workflow and profile switching, but does not provide an official download URL."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 360,
+  "question": "How can you adjust the height of cut for a lawn mower with an electric deck lift?",
+  "content": "1. Push up on the deck-lift switch to raise the mower deck; push down on the same switch to lower it.<PIC>\n2. Choose the hole in the height-of-cut bracket that matches the desired cutting height, then insert the height-of-cut pin in that hole.<PIC>\n3. Whenever you change the height of cut, adjust the anti-scalp rollers.",
+  "images": [
+    "Manual23_55",
+    "Manual23_56"
+  ],
+  "ret": "\"1. Push up on the deck-lift switch to raise the mower deck; push down on the same switch to lower it.<PIC>\\n2. Choose the hole in the height-of-cut bracket that matches the desired cutting height, then insert the height-of-cut pin in that hole.<PIC>\\n3. Whenever you change the height of cut, adjust the anti-scalp rollers.\",[\"Manual23_55\", \"Manual23_56\"]",
+  "manual_guess": "Toro Z Master 4000",
+  "evidence_refs": [
+    {
+      "manual": "Toro Z Master 4000.md",
+      "lines": "1009-1033",
+      "note": "Electric deck lift procedure: push up on deck-lift switch, select height-of-cut bracket hole, insert pin; Figures 31 and 32 identify the switch and pin/bracket."
+    },
+    {
+      "manual": "Toro Z Master 4000.md",
+      "lines": "1035-1037",
+      "note": "Anti-scalp rollers should be adjusted whenever height of cut changes."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answer uses the electric deck lift section and includes only images directly tied to the switch and height-of-cut pin/bracket."
+}

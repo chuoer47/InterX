@@ -1,0 +1,21 @@
+{
+  "id": 364,
+  "question": "How can you remove the filters of a lawn mower?",
+  "content": "For the Toro Z Master 4000 air-cleaner filters, first park on a level surface, disengage the blade-control switch (PTO), engage the parking brake, shut off the engine, remove the key, and wait for all moving parts to stop.\n\nIf the mower has a Kawasaki engine: release the air-cleaner latches, pull the air-cleaner cover off the body, clean the inside of the cover with compressed air, gently slide the primary filter out without knocking it against the body, and remove the safety filter only if you are replacing it. The Kawasaki layout shows the air-cleaner body, primary filter, latches, cover, and safety filter.<PIC>\n\nIf the mower has a Kohler engine: release the air-cleaner latches, remove the air-inlet cover, clean the air-inlet screen and cover, reinstall and latch the air-inlet cover, then release the air-cleaner cover latches and pull the cover off the body. Clean the inside of the cover with compressed air, gently slide the primary filter out without knocking it against the body, and remove the inner filter only if you intend to replace it. The Kohler layout shows the inner filter, primary filter, air-cleaner cover, latch, and air-cleaner body.<PIC>",
+  "images": [
+    "Manual23_72",
+    "Manual23_82"
+  ],
+  "ret": "\"For the Toro Z Master 4000 air-cleaner filters, first park on a level surface, disengage the blade-control switch (PTO), engage the parking brake, shut off the engine, remove the key, and wait for all moving parts to stop.\\n\\nIf the mower has a Kawasaki engine: release the air-cleaner latches, pull the air-cleaner cover off the body, clean the inside of the cover with compressed air, gently slide the primary filter out without knocking it against the body, and remove the safety filter only if you are replacing it. The Kawasaki layout shows the air-cleaner body, primary filter, latches, cover, and safety filter.<PIC>\\n\\nIf the mower has a Kohler engine: release the air-cleaner latches, remove the air-inlet cover, clean the air-inlet screen and cover, reinstall and latch the air-inlet cover, then release the air-cleaner cover latches and pull the cover off the body. Clean the inside of the cover with compressed air, gently slide the primary filter out without knocking it against the body, and remove the inner filter only if you intend to replace it. The Kohler layout shows the inner filter, primary filter, air-cleaner cover, latch, and air-cleaner body.<PIC>\",[\"Manual23_72\", \"Manual23_82\"]",
+  "manual_guess": "Toro Z Master 4000.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1450",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1454",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1464",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1651",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1655",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1669"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Toro Z Master 4000 air-cleaner filter removal procedures for Kawasaki and Kohler engine variants. Images are the matching labeled filter layouts."
+}

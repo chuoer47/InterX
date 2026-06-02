@@ -1,0 +1,22 @@
+{
+  "id": "69",
+  "question": "该如何关闭吹风机？",
+  "content": "通过停机开关切断点火电源来关闭发动机。<PIC>",
+  "images": ["Manual04_29"],
+  "ret": "\"通过停机开关切断点火电源来关闭发动机。<PIC>\",[\"Manual04_29\"]",
+  "manual_guess": "吹风机手册.md",
+  "evidence_refs": [
+    {
+      "source": "agentic-rag/ch-manual/吹风机手册.md",
+      "lines": "138",
+      "summary": "安全装置章节列出停机开关（3）：停机开关用于关闭发动机。"
+    },
+    {
+      "source": "agentic-rag/ch-manual/吹风机手册.md",
+      "lines": "230-231",
+      "summary": "停机章节说明通过停机开关切断点火电源关闭发动机，附有停机开关图示 Manual04_29。"
+    }
+  ],
+  "status": "answered",
+  "notes": "已使用吹风机手册中文证据作答；选择 Manual04_29 展示停机开关位置。PIC 数量 1 与 images 数量 1 一致。"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 391,
+  "question": "How can you set steam release valve for a multi-use pressure cooker and air fryer?",
+  "content": "Use the quick release button on the pressure cooking lid; it controls the steam release valve. For sealing, flick the button to the Seal position, then let it spring back. The lid says Turn to Seal, but do not turn the button more than 1/4 turn, or 45 degrees. For venting or quick release, press the button down until it clicks and locks in the Vent position. The labeled positions are Seal: flick to seal, and Vent: press to vent.<PIC> When venting, steam ejects from the top of the steam release valve. Keep hands, face, and exposed skin away, do not cover or block the valve, and open the lid only after pressure is fully released and the float valve drops.",
+  "images": [
+    "Manual30_14"
+  ],
+  "ret": "\"Use the quick release button on the pressure cooking lid; it controls the steam release valve. For sealing, flick the button to the Seal position, then let it spring back. The lid says Turn to Seal, but do not turn the button more than 1/4 turn, or 45 degrees. For venting or quick release, press the button down until it clicks and locks in the Vent position. The labeled positions are Seal: flick to seal, and Vent: press to vent.<PIC> When venting, steam ejects from the top of the steam release valve. Keep hands, face, and exposed skin away, do not cover or block the valve, and open the lid only after pressure is fully released and the float valve drops.\",[\"Manual30_14\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:164",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:170",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:172",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:224",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:236"
+  ],
+  "status": "answered",
+  "notes": "Freshly answered from the Instant Pot Duo Crisp pressure-control and depressurisation sections. One image is used because it directly labels the quick release button's Seal and Vent positions."
+}

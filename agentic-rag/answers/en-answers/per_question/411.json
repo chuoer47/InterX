@@ -1,0 +1,17 @@
+{
+  "id": 411,
+  "question": "What is the function of the dual-mode virtual wall barrier on a vacuum cleaner?",
+  "content": "The Dual Mode Virtual Wall Barrier keeps the Roomba in the areas you want cleaned and out of areas you do not want it to enter. In Virtual Wall mode it creates a straight barrier that blocks openings up to 10 ft (3 m). In Halo mode it creates a circular keep-out zone around items such as a pet bowl, vase, or under a desk, reaching about 12 in (30 cm) from the device.",
+  "images": [],
+  "ret": "\"The Dual Mode Virtual Wall Barrier keeps the Roomba in the areas you want cleaned and out of areas you do not want it to enter. In Virtual Wall mode it creates a straight barrier that blocks openings up to 10 ft (3 m). In Halo mode it creates a circular keep-out zone around items such as a pet bowl, vase, or under a desk, reaching about 12 in (30 cm) from the device.\",[]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:154",
+    "agentic-rag/en-manual/Roomba i5.md:156",
+    "agentic-rag/en-manual/Roomba i5.md:158",
+    "agentic-rag/en-manual/Roomba i5.md:164",
+    "agentic-rag/en-manual/Roomba i5.md:172"
+  ],
+  "status": "answered",
+  "notes": "No image used because the nearby text directly states the accessory purpose and both barrier modes."
+}

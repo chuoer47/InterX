@@ -1,0 +1,25 @@
+{
+  "id": 425,
+  "question": "What are the steps to inspect the spark plug on a snowmobile?",
+  "content": "1. Periodically remove the spark plug and inspect the white porcelain insulator around the center electrode. A normally used machine should show a medium to light tan color.\n2. If the plug color is distinctly different, do not try to diagnose the engine yourself. A very white center-electrode porcelain can indicate an intake-tract air leak or carburetion problem, so take the machine to a dealer.\n3. Use only a spark plug with the proper reach: BR250T is 12.7 mm (0.50 in), and CS340E/ET410TR/VK540E is 19.0 mm (0.75 in).<PIC>\n4. Before installing the plug, measure the electrode gap with a wire thickness gauge and adjust it to specification; the plug drawing identifies reach as 1 and electrode gap as 2.<PIC>\n5. Clean the gasket surface, wipe grime from the threads, and torque the spark plug to 28 Nm (2.8 m-kg, 20 ft-lb). Consult your dealer before changing to a different type of spark plug.",
+  "images": [
+    "Manual34_138",
+    "Manual34_139"
+  ],
+  "ret": "\"1. Periodically remove the spark plug and inspect the white porcelain insulator around the center electrode. A normally used machine should show a medium to light tan color.\\n2. If the plug color is distinctly different, do not try to diagnose the engine yourself. A very white center-electrode porcelain can indicate an intake-tract air leak or carburetion problem, so take the machine to a dealer.\\n3. Use only a spark plug with the proper reach: BR250T is 12.7 mm (0.50 in), and CS340E/ET410TR/VK540E is 19.0 mm (0.75 in).<PIC>\\n4. Before installing the plug, measure the electrode gap with a wire thickness gauge and adjust it to specification; the plug drawing identifies reach as 1 and electrode gap as 2.<PIC>\\n5. Clean the gasket surface, wipe grime from the threads, and torque the spark plug to 28 Nm (2.8 m-kg, 20 ft-lb). Consult your dealer before changing to a different type of spark plug.\",[\"Manual34_138\", \"Manual34_139\"]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1235",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1237",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1239",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1241",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1243",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1245",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1247",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1249",
+    "agentic-rag/en-manual/插图/Manual34_138.jpg",
+    "agentic-rag/en-manual/插图/Manual34_139.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha Snowmobile SPARK PLUG INSPECTION section. Included the reach-value figure and the reach/gap drawing because they directly support the proper-reach and electrode-gap steps. The allowed Markdown says to adjust the electrode gap to specification but does not state a numeric gap value in the inspected spark plug section."
+}

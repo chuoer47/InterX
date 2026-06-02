@@ -1,0 +1,25 @@
+{
+  "id": 345,
+  "question": "How to adjust the adjustable sponson of my jetski if needed?",
+  "content": "In the position diagram, A/up is the higher mounting level and B/down is the lower mounting level: up gives less water resistance for better straight-ahead acceleration on plane and top speed, while down gives more hook for enhanced turning performance.<PIC>\n1. Remove the three bolts on each sponson, shown as the circled fasteners on the installed sponson.<PIC>\n2. Remove both sponsons and reinstall them in the desired position, keeping both sponsons at the same level; the exploded view shows the sponson shifting to a different bolt-hole position.<PIC>\n3. Tighten the bolts on both sponsons to 18 N-m (1.8 kgf-m, 13 ft-lb).",
+  "images": [
+    "Manual20_70",
+    "Manual20_83",
+    "Manual20_84"
+  ],
+  "ret": "\"In the position diagram, A/up is the higher mounting level and B/down is the lower mounting level: up gives less water resistance for better straight-ahead acceleration on plane and top speed, while down gives more hook for enhanced turning performance.<PIC>\\n1. Remove the three bolts on each sponson, shown as the circled fasteners on the installed sponson.<PIC>\\n2. Remove both sponsons and reinstall them in the desired position, keeping both sponsons at the same level; the exploded view shows the sponson shifting to a different bolt-hole position.<PIC>\\n3. Tighten the bolts on both sponsons to 18 N-m (1.8 kgf-m, 13 ft-lb).\",[\"Manual20_70\", \"Manual20_83\", \"Manual20_84\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:622",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:628",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:632",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:752",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:758",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:762",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:766",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:768",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:772"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha WaveRunner adjustable sponson description and adjustment procedure. Images selected because they show the up/down mounting levels, the bolts to remove, and the reinstall/position-shift view."
+}

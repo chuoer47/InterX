@@ -1,0 +1,30 @@
+{
+  "id": 332,
+  "question": "There are two kinds of levers on the jetski, how to manipulate them?",
+  "content": "The two lever controls are the choke lever and the throttle lever.\n1. For the choke lever, use it when starting a cold engine: move the lever in direction a to turn the choke on, and move it in direction b to turn the choke off.<PIC>\n2. For the throttle lever, squeeze it to increase engine speed; release it to decrease engine speed or return to idle.<PIC>\nWhen turning, remember that throttle affects steering: more throttle gives stronger thrust and sharper turning, while releasing the throttle greatly reduces steering response above trolling speed.",
+  "images": [
+    "Manual20_46",
+    "Manual20_47"
+  ],
+  "ret": "\"The two lever controls are the choke lever and the throttle lever.\\n1. For the choke lever, use it when starting a cold engine: move the lever in direction a to turn the choke on, and move it in direction b to turn the choke off.<PIC>\\n2. For the throttle lever, squeeze it to increase engine speed; release it to decrease engine speed or return to idle.<PIC>\\nWhen turning, remember that throttle affects steering: more throttle gives stronger thrust and sharper turning, while releasing the throttle greatly reduces steering response above trolling speed.\",[\"Manual20_46\", \"Manual20_47\"]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "396-400",
+      "summary": "Choke lever operation: move in direction a to turn choke on and direction b to turn choke off; adjacent image Manual20_46."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "404-408",
+      "summary": "Throttle lever operation: squeeze to increase engine speed; release to decrease engine speed or return to idle; adjacent image Manual20_47."
+    },
+    {
+      "manual": "Yamaha WaveRunner 2005.md",
+      "lines": "679-698",
+      "summary": "Turning depends on handlebar position and throttle; releasing throttle above trolling speed greatly reduces steering response and is warned against when avoiding objects."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from Yamaha WaveRunner 2005 control sections. Images are used because each directly identifies the corresponding lever and manipulation shown next to the evidence text."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 387,
+  "question": "How can you set quick release for a multi-use pressure cooker and air fryer?",
+  "content": "To set Quick Release, press the quick release button down until it clicks and locks in the Vent position.<PIC>\nSteam will eject through the top of the steam release valve while venting; keep hands, face, and exposed skin away from the valve.<PIC>\nWhen pressure has fully released, the float valve drops into the lid. Do not try to open the lid before the float valve has dropped.",
+  "images": [
+    "multi-use_pressure_cooker_and_air_fryer_01",
+    "multi-use_pressure_cooker_and_air_fryer_02"
+  ],
+  "ret": "\"To set Quick Release, press the quick release button down until it clicks and locks in the Vent position.<PIC>\\nSteam will eject through the top of the steam release valve while venting; keep hands, face, and exposed skin away from the valve.<PIC>\\nWhen pressure has fully released, the float valve drops into the lid. Do not try to open the lid before the float valve has dropped.\",[\"multi-use_pressure_cooker_and_air_fryer_01\", \"multi-use_pressure_cooker_and_air_fryer_02\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:224",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:236",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:240",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:244",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:248"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Quick Release (QR) section; included both adjacent QR illustrations because they show the Vent position and active venting."
+}

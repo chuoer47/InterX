@@ -1,0 +1,28 @@
+{
+  "id": 401,
+  "question": "What is the robot anatomy of the vacuum?",
+  "content": "The Roomba robot vacuum anatomy includes the top-side parts: iAdapt Localization Camera, handle, faceplate, RCON sensor, light touch sensor, dust bin and filter, and bin release button.<PIC>\nIts Home Base charging station includes the RCON sensor, IR sensor window, and charging contacts.\nThe bottom-side parts include brush caps, dirt disposal port, dust bin, brush frame release tab, cliff sensors, floor tracking sensor, multi-surface brushes, edge-sweeping brush, charging contacts, and caster wheel.<PIC>\nThe controls and indicators are the light ring indicator, CLEAN / Power button, Dock / Home button, Spot Clean button, Wi-Fi indicator, troubleshooting indicator, battery indicator, full bin indicator, and Dirt Detect indicator.<PIC>",
+  "images": [
+    "Manual32_1",
+    "Manual32_3",
+    "Manual32_2"
+  ],
+  "ret": "\"The Roomba robot vacuum anatomy includes the top-side parts: iAdapt Localization Camera, handle, faceplate, RCON sensor, light touch sensor, dust bin and filter, and bin release button.<PIC>\\nIts Home Base charging station includes the RCON sensor, IR sensor window, and charging contacts.\\nThe bottom-side parts include brush caps, dirt disposal port, dust bin, brush frame release tab, cliff sensors, floor tracking sensor, multi-surface brushes, edge-sweeping brush, charging contacts, and caster wheel.<PIC>\\nThe controls and indicators are the light ring indicator, CLEAN / Power button, Dock / Home button, Spot Clean button, Wi-Fi indicator, troubleshooting indicator, battery indicator, full bin indicator, and Dirt Detect indicator.<PIC>\",[\"Manual32_1\", \"Manual32_3\", \"Manual32_2\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:21",
+    "agentic-rag/en-manual/Roomba i5.md:23",
+    "agentic-rag/en-manual/Roomba i5.md:25",
+    "agentic-rag/en-manual/Roomba i5.md:27",
+    "agentic-rag/en-manual/Roomba i5.md:37",
+    "agentic-rag/en-manual/Roomba i5.md:39",
+    "agentic-rag/en-manual/Roomba i5.md:45",
+    "agentic-rag/en-manual/Roomba i5.md:47",
+    "agentic-rag/en-manual/Roomba i5.md:49",
+    "agentic-rag/en-manual/Roomba i5.md:62",
+    "agentic-rag/en-manual/Roomba i5.md:64",
+    "agentic-rag/en-manual/Roomba i5.md:66"
+  ],
+  "status": "answered",
+  "notes": "Answered from the About your Roomba Robot Vacuum section. Three labeled figures are included for the top view, bottom view, and buttons/indicators; the Home Base parts are listed from nearby text without a separate image anchor."
+}

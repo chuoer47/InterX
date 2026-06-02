@@ -1,0 +1,22 @@
+{
+  "id": 257,
+  "question": "How to perform anchor light switch check while sailing?",
+  "content": "Perform the check before night operation or low-visibility running:\n1. If the boat is a 210FSH DELUXE, install the removable anchor light first.\n2. At the helm, use the navigation and anchor lights switch; its upper side is NAV and its lower side is ANC.<PIC>\n3. Push the upper side of the switch and confirm the bow light comes on.<PIC>\n4. With the upper side still selected, confirm the anchor light comes on. On a 210FSH DELUXE, check the removable stern anchor light.<PIC>\n5. On a 210FSH SPORT, check the anchor light at the top of the T-top.<PIC>\n6. Push the lower side of the switch and confirm only the anchor light comes on.\n7. Put the switch in the middle position and confirm the bow light and anchor light are off.\n8. If the boat is a 210FSH DELUXE, remove the anchor light after the check.",
+  "images": [
+    "Manual09_223",
+    "Manual09_224",
+    "Manual09_225",
+    "Manual09_226"
+  ],
+  "ret": "\"Perform the check before night operation or low-visibility running:\\n1. If the boat is a 210FSH DELUXE, install the removable anchor light first.\\n2. At the helm, use the navigation and anchor lights switch; its upper side is NAV and its lower side is ANC.<PIC>\\n3. Push the upper side of the switch and confirm the bow light comes on.<PIC>\\n4. With the upper side still selected, confirm the anchor light comes on. On a 210FSH DELUXE, check the removable stern anchor light.<PIC>\\n5. On a 210FSH SPORT, check the anchor light at the top of the T-top.<PIC>\\n6. Push the lower side of the switch and confirm only the anchor light comes on.\\n7. Put the switch in the middle position and confirm the bow light and anchor light are off.\\n8. If the boat is a 210FSH DELUXE, remove the anchor light after the check.\",[\"Manual09_223\", \"Manual09_224\", \"Manual09_225\", \"Manual09_226\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:315",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:957",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1321",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1329",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1825"
+  ],
+  "status": "answered",
+  "notes": "Question routes to Yamaha 210FSH 2021. Answer uses the pre-operation navigation and anchor lights switch check, preserving the 210FSH DELUXE install/remove steps, upper/lower/middle switch positions, and model-specific anchor light locations. Four images are used from the same check section; <PIC> count equals images count."
+}

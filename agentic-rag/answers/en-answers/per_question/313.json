@@ -1,0 +1,21 @@
+{
+  "id": 313,
+  "question": "In order to keep your fingers safe, what should you pay attention to about the fax?",
+  "content": "To protect your fingers, wait until pages have exited the fax before picking them up; otherwise your fingers can be trapped inside the machine. Do not put your hand or any foreign object into the ink insertion slot. Keep your fingers out of the illustrated pinch areas around the open covers and rear of the product.<PIC>\nWhen changing a tray from large paper size back to its original size, keep your fingers out of the gaps and slots in the bottom of the tray.<PIC>\nFor MFC-J6540DW, MFC-J6555DW, MFC-J6740DW, MFC-J6940DW, and MFC-J6955DW, also avoid the internal area shown near the front of the machine, because putting fingers there may cause injury.<PIC>",
+  "images": [
+    "Manual15_7",
+    "Manual15_8",
+    "Manual15_9"
+  ],
+  "ret": "\"To protect your fingers, wait until pages have exited the fax before picking them up; otherwise your fingers can be trapped inside the machine. Do not put your hand or any foreign object into the ink insertion slot. Keep your fingers out of the illustrated pinch areas around the open covers and rear of the product.<PIC>\\nWhen changing a tray from large paper size back to its original size, keep your fingers out of the gaps and slots in the bottom of the tray.<PIC>\\nFor MFC-J6540DW, MFC-J6555DW, MFC-J6740DW, MFC-J6940DW, and MFC-J6955DW, also avoid the internal area shown near the front of the machine, because putting fingers there may cause injury.<PIC>\",[\"Manual15_7\", \"Manual15_8\", \"Manual15_9\"]",
+  "manual_guess": "Brother Safety Guide.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Brother Safety Guide.md:163",
+    "agentic-rag/en-manual/Brother Safety Guide.md:165",
+    "agentic-rag/en-manual/Brother Safety Guide.md:169",
+    "agentic-rag/en-manual/Brother Safety Guide.md:173",
+    "agentic-rag/en-manual/Brother Safety Guide.md:177"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Brother Product Safety Guide CAUTION section. Included only the images that directly show the finger or pinch areas referenced by the safety text."
+}

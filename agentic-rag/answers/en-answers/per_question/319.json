@@ -1,0 +1,23 @@
+{
+  "id": 319,
+  "question": "What should I pay attention to on ablout indirect cooking using the grill?",
+  "content": "Indirect cooking is for poultry and large cuts of meat: use selected burners so heat circulates through the grill without a direct flame touching the food, which reduces flare-ups from dripping fat and juices.\n1. Always cook with the lid closed.\n2. Expect cooking times to vary with weather; in cold or windy conditions, increase the temperature setting enough to maintain sufficient cooking temperatures.\n3. For one-burner cooking, the figure shows one burner ON and the remaining burners OFF; it can use direct or indirect heat, works best for smaller meals or foods, and consumes less fuel.<PIC>\n4. For two-burner cooking, the figure shows the two end burners ON and the center burners OFF; use low for slow, even indirect heat, ideal for slow roasting and baking.<PIC>",
+  "images": [
+    "Manual19_36",
+    "Manual19_37"
+  ],
+  "ret": "\"Indirect cooking is for poultry and large cuts of meat: use selected burners so heat circulates through the grill without a direct flame touching the food, which reduces flare-ups from dripping fat and juices.\\n1. Always cook with the lid closed.\\n2. Expect cooking times to vary with weather; in cold or windy conditions, increase the temperature setting enough to maintain sufficient cooking temperatures.\\n3. For one-burner cooking, the figure shows one burner ON and the remaining burners OFF; it can use direct or indirect heat, works best for smaller meals or foods, and consumes less fuel.<PIC>\\n4. For two-burner cooking, the figure shows the two end burners ON and the center burners OFF; use low for slow, even indirect heat, ideal for slow roasting and baking.<PIC>\",[\"Manual19_36\", \"Manual19_37\"]",
+  "manual_guess": "Outdoor Grill.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Outdoor Grill.md:509",
+    "agentic-rag/en-manual/Outdoor Grill.md:511",
+    "agentic-rag/en-manual/Outdoor Grill.md:513",
+    "agentic-rag/en-manual/Outdoor Grill.md:515",
+    "agentic-rag/en-manual/Outdoor Grill.md:517",
+    "agentic-rag/en-manual/Outdoor Grill.md:519",
+    "agentic-rag/en-manual/Outdoor Grill.md:521",
+    "agentic-rag/en-manual/Outdoor Grill.md:523"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Outdoor Grill indirect cooking section. Images are included because they show the one-burner and two-burner on/off arrangements referenced by the answer."
+}

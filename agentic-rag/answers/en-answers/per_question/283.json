@@ -1,0 +1,38 @@
+{
+  "id": 283,
+  "question": "How do you mount the lens of a camera when preparing for photography?",
+  "content": "1. Remove the rear lens cap and the camera body cap by turning them in the arrow direction.<PIC>\n2. Align an EF-S lens with the camera's white EF-S lens mount index, then turn the lens in the arrow direction until it clicks in place. For any lens other than EF-S, align it with the red EF lens index mark instead.<PIC>\n3. Set the lens focus mode switch to <AF>; autofocus will not work if it is set to <MF>. Then remove the front lens cap.<PIC>\nWhen attaching the lens, take care to prevent dust from entering the camera through the lens mount.",
+  "images": [
+    "Manual10_21",
+    "Manual10_22",
+    "Manual10_23"
+  ],
+  "ret": "\"1. Remove the rear lens cap and the camera body cap by turning them in the arrow direction.<PIC>\\n2. Align an EF-S lens with the camera's white EF-S lens mount index, then turn the lens in the arrow direction until it clicks in place. For any lens other than EF-S, align it with the red EF lens index mark instead.<PIC>\\n3. Set the lens focus mode switch to <AF>; autofocus will not work if it is set to <MF>. Then remove the front lens cap.<PIC>\\nWhen attaching the lens, take care to prevent dust from entering the camera through the lens mount.\",[\"Manual10_21\", \"Manual10_22\", \"Manual10_23\"]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    {
+      "manual": "Canon EOS 20D.md",
+      "lines": "531-549",
+      "summary": "Mounting a lens: remove caps, align EF-S with the white EF-S lens mount index or other lenses with the red EF lens index mark, turn until it clicks, set focus mode switch to AF, and remove the front lens cap."
+    },
+    {
+      "manual": "Canon EOS 20D.md",
+      "lines": "557",
+      "summary": "When attaching or detaching the lens, prevent dust from entering through the lens mount."
+    },
+    {
+      "image": "Manual10_21",
+      "summary": "Shows removing the rear lens cap and camera body cap."
+    },
+    {
+      "image": "Manual10_22",
+      "summary": "Shows aligning the lens mount index and turning the lens into place."
+    },
+    {
+      "image": "Manual10_23",
+      "summary": "Shows the AF/MF focus mode switch and front lens cap removal."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D Mounting a Lens section. Three images are included because each directly illustrates one mounting step."
+}

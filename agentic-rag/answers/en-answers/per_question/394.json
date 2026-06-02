@@ -1,0 +1,19 @@
+{
+  "id": 394,
+  "question": "How can you Install the condensation collector for a multi-use pressure cooker and air fryer?",
+  "content": "1. Before cooking, place the condensation collector at the back of the cooker base; it catches overflow from the condensation rim.\n2. Align the collector grooves over the tabs on the back of the cooker base, then slide the collector into place.<PIC>\n3. After each use, empty and rinse the collector.",
+  "images": [
+    "Manual30_38"
+  ],
+  "ret": "\"1. Before cooking, place the condensation collector at the back of the cooker base; it catches overflow from the condensation rim.\\n2. Align the collector grooves over the tabs on the back of the cooker base, then slide the collector into place.<PIC>\\n3. After each use, empty and rinse the collector.\",[\"Manual30_38\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:395",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:397",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:399",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:401",
+    "agentic-rag/en-manual/插图/Manual30_38.jpg"
+  ],
+  "status": "answered",
+  "notes": "The manual states the collector sits at the back of the cooker base, catches overflow from the condensation rim, should be installed before cooking, removed by pulling away, installed by aligning grooves over rear tabs and sliding into place, and emptied/rinsed after each use. Manual30_38 visually supports the rear-base alignment."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 268,
+  "question": "How should I do if I want to empty the system before not in use, for frost protection or before maintenance?",
+  "content": "To empty the system for non-use, frost protection, or before repair or maintenance, remember that the machine will be blocked for 10 minutes after emptying mode.\n1. Press the Espresso and Lungo buttons together to turn the machine off.<PIC>\n2. Remove the water tank, then open the lever.<PIC>\n3. Press the Espresso and Lungo buttons together for 3 seconds.<PIC>\n4. Confirm both LEDs are blinking alternately.<PIC>\n5. Close the lever.<PIC>\n6. Let the machine switch off automatically, then empty and clean the used capsule container and drip tray.",
+  "images": [
+    "Manual07_28",
+    "Manual07_29",
+    "Manual07_30",
+    "Manual07_31",
+    "Manual07_32"
+  ],
+  "ret": "\"To empty the system for non-use, frost protection, or before repair or maintenance, remember that the machine will be blocked for 10 minutes after emptying mode.\\n1. Press the Espresso and Lungo buttons together to turn the machine off.<PIC>\\n2. Remove the water tank, then open the lever.<PIC>\\n3. Press the Espresso and Lungo buttons together for 3 seconds.<PIC>\\n4. Confirm both LEDs are blinking alternately.<PIC>\\n5. Close the lever.<PIC>\\n6. Let the machine switch off automatically, then empty and clean the used capsule container and drip tray.\",[\"Manual07_28\", \"Manual07_29\", \"Manual07_30\", \"Manual07_31\", \"Manual07_32\"]",
+  "manual_guess": "Nespresso CitiZ D111",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:311",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:313",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:315",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:319",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:323",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:327",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:331",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:335",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:337"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Nespresso CitiZ D111 emptying-system procedure. The manual says before a repair; the question's maintenance wording was treated as that same use case. Images are the section illustrations for the button presses, lever movement, and alternating LEDs."
+}

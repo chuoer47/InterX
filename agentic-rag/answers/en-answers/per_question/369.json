@@ -1,0 +1,34 @@
+{
+  "id": 369,
+  "question": "How can you reheat food with a over-the-range microwave?",
+  "content": "Use the Sensor Reheat feature; it reheats without entering a cooking time or power level.\n1. Put food at normal storage temperature in a microwavable container. Cover it loosely with a lid, waxed paper, or vented microwave-safe plastic wrap; do not use a tight-sealing plastic cover. Make sure the glass turntable, the outside of the container, and the oven interior are dry.\n2. Touch Reheat, then select the food category: 1 for Casserole, 2 for Dinner Plate, or 3 for Soup/Sauce.<PIC>\n3. For a casserole, the illustrated sequence is Reheat, number 1, then the oven displays SENSING while it measures the food.<PIC>\n4. Stay within the recommended amounts: Casserole 1-4 cups, Dinner Plate 1-2 servings, Soup/Sauce 1-4 cups.<PIC>\n5. Do not open the door or touch Stop/Clear during sensing. After sensing ends, the oven beeps twice and shows the remaining cook time; then you can stir, turn, or rearrange food if needed. At the end, it beeps four times and END displays.",
+  "images": [
+    "Manual24_29",
+    "Manual24_30",
+    "Manual24_31"
+  ],
+  "ret": "\"Use the Sensor Reheat feature; it reheats without entering a cooking time or power level.\\n1. Put food at normal storage temperature in a microwavable container. Cover it loosely with a lid, waxed paper, or vented microwave-safe plastic wrap; do not use a tight-sealing plastic cover. Make sure the glass turntable, the outside of the container, and the oven interior are dry.\\n2. Touch Reheat, then select the food category: 1 for Casserole, 2 for Dinner Plate, or 3 for Soup/Sauce.<PIC>\\n3. For a casserole, the illustrated sequence is Reheat, number 1, then the oven displays SENSING while it measures the food.<PIC>\\n4. Stay within the recommended amounts: Casserole 1-4 cups, Dinner Plate 1-2 servings, Soup/Sauce 1-4 cups.<PIC>\\n5. Do not open the door or touch Stop/Clear during sensing. After sensing ends, the oven beeps twice and shows the remaining cook time; then you can stir, turn, or rearrange food if needed. At the end, it beeps four times and END displays.\",[\"Manual24_29\", \"Manual24_30\", \"Manual24_31\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:369",
+    "agentic-rag/en-manual/Bosch Microwave.md:323",
+    "agentic-rag/en-manual/Bosch Microwave.md:561",
+    "agentic-rag/en-manual/Bosch Microwave.md:565",
+    "agentic-rag/en-manual/Bosch Microwave.md:567",
+    "agentic-rag/en-manual/Bosch Microwave.md:571",
+    "agentic-rag/en-manual/Bosch Microwave.md:573",
+    "agentic-rag/en-manual/Bosch Microwave.md:575",
+    "agentic-rag/en-manual/Bosch Microwave.md:579",
+    "agentic-rag/en-manual/Bosch Microwave.md:663",
+    "agentic-rag/en-manual/Bosch Microwave.md:665",
+    "agentic-rag/en-manual/Bosch Microwave.md:667",
+    "agentic-rag/en-manual/Bosch Microwave.md:671",
+    "agentic-rag/en-manual/Bosch Microwave.md:673",
+    "agentic-rag/en-manual/Bosch Microwave.md:677",
+    "agentic-rag/en-manual/插图/Manual24_29.jpg",
+    "agentic-rag/en-manual/插图/Manual24_30.jpg",
+    "agentic-rag/en-manual/插图/Manual24_31.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Bosch over-the-range microwave Sensor Reheat section. Images are used because the category numbers, example touch sequence, and recommended amounts are presented in adjacent figures."
+}

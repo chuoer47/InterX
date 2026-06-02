@@ -1,0 +1,19 @@
+{
+  "id": 256,
+  "question": "How can I use the bilge pump of the boat?",
+  "content": "1. Use the bilge pump to drain bilge water while the boat is on the water. To run it manually, turn on the bilge pump switch; the switch operates the pump for water collected in the bilge under the engine compartment.<PIC>\n2. The pump discharges the water through the bilge pump outlet.<PIC>\n3. If the switch is not on, the pump still detects excessive bilge water and automatically drains most of it through the outlet, even when the battery switches are OFF.\n4. The bilge pump indicator light comes on while the pump is operating, and in automatic operation the pump does not stop until most bilge water has been drained.\n5. Do not run the engines at full throttle while bilge water remains in the engine compartment. Make sure all drain plugs are tightened before operating the boat.",
+  "images": [
+    "Manual09_201",
+    "Manual09_202"
+  ],
+  "ret": "\"1. Use the bilge pump to drain bilge water while the boat is on the water. To run it manually, turn on the bilge pump switch; the switch operates the pump for water collected in the bilge under the engine compartment.<PIC>\\n2. The pump discharges the water through the bilge pump outlet.<PIC>\\n3. If the switch is not on, the pump still detects excessive bilge water and automatically drains most of it through the outlet, even when the battery switches are OFF.\\n4. The bilge pump indicator light comes on while the pump is operating, and in automatic operation the pump does not stop until most bilge water has been drained.\\n5. Do not run the engines at full throttle while bilge water remains in the engine compartment. Make sure all drain plugs are tightened before operating the boat.\",[\"Manual09_201\", \"Manual09_202\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1601-1603",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1625-1651",
+    "agentic-rag/en-manual/插图/Manual09_201.jpg",
+    "agentic-rag/en-manual/插图/Manual09_202.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH bilge pump section. Images identify the bilge pump switch and bilge pump outlet."
+}

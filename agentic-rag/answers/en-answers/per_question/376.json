@@ -1,0 +1,24 @@
+{
+  "id": 376,
+  "question": "How can you set the rear panel connectors of a motherboard?",
+  "content": "Set up the rear panel by matching each cable to the numbered port in the layout: 1 PS/2 mouse/keyboard combo, 2 DisplayPort, 3 VGA, 4 LAN RJ-45 Gigabit Ethernet, 5 orange center/subwoofer, 6 black rear speaker out, 7 light-blue line in, 8 lime line out or front speaker out in 4.1/5.1/7.1-channel audio, 9 pink microphone, 10 optical S/PDIF out, 11 USB 3.1 Type-A, 12 USB 3.1 Type-C, 13 USB 3.0 ports 3-6, 14 DVI-D, 15 HDMI, and 16 USB 2.0 ports 13 and 14.<PIC>\nUse USB 3.0 ports for USB 3.0 devices for better performance. USB 3.0 devices are for data storage, and the USB 2.0/3.0 rear ports are controlled by the xHCI controller, so some legacy USB devices may need firmware updates. For displays, multi-VGA output supports up to three displays in the operating-system environment, two in BIOS, and one in DOS; DVI-D is not compatible with DVI-I and cannot be converted to RGB/CRT.",
+  "images": [
+    "Manual25_35"
+  ],
+  "ret": "\"Set up the rear panel by matching each cable to the numbered port in the layout: 1 PS/2 mouse/keyboard combo, 2 DisplayPort, 3 VGA, 4 LAN RJ-45 Gigabit Ethernet, 5 orange center/subwoofer, 6 black rear speaker out, 7 light-blue line in, 8 lime line out or front speaker out in 4.1/5.1/7.1-channel audio, 9 pink microphone, 10 optical S/PDIF out, 11 USB 3.1 Type-A, 12 USB 3.1 Type-C, 13 USB 3.0 ports 3-6, 14 DVI-D, 15 HDMI, and 16 USB 2.0 ports 13 and 14.<PIC>\\nUse USB 3.0 ports for USB 3.0 devices for better performance. USB 3.0 devices are for data storage, and the USB 2.0/3.0 rear ports are controlled by the xHCI controller, so some legacy USB devices may need firmware updates. For displays, multi-VGA output supports up to three displays in the operating-system environment, two in BIOS, and one in DOS; DVI-D is not compatible with DVI-I and cannot be converted to RGB/CRT.\",[\"Manual25_35\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:415",
+    "agentic-rag/en-manual/Motherboard.md:417",
+    "agentic-rag/en-manual/Motherboard.md:419",
+    "agentic-rag/en-manual/Motherboard.md:433",
+    "agentic-rag/en-manual/Motherboard.md:445",
+    "agentic-rag/en-manual/Motherboard.md:451",
+    "agentic-rag/en-manual/Motherboard.md:453",
+    "agentic-rag/en-manual/Motherboard.md:461",
+    "agentic-rag/en-manual/Motherboard.md:465",
+    "agentic-rag/en-manual/Motherboard.md:469"
+  ],
+  "status": "answered",
+  "notes": "Answered from Motherboard.md section 1.7.1 Rear panel connectors. The selected image is the numbered rear-panel connector layout; no old submissions or generated answer files were used."
+}

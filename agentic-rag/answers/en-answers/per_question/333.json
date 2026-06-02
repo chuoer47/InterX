@@ -1,0 +1,26 @@
+{
+  "id": 333,
+  "question": "What information should I obtain about Quick Shift Trim System (QSTS) selector when using my jetski",
+  "content": "The QSTS selector is on the left handlebar grip. It adjusts the watercraft trim angle by changing the jet thrust nozzle angle vertically. To change trim, reduce engine speed to 3,000 r/min or less, squeeze the shift lock lever, turn the selector to the desired position, then release the lever to lock it.<PIC>\nThe selector has five positions: two bow-down positions, neutral, and two bow-up positions.<PIC>\nDo not turn the QSTS selector while operating at full throttle, or QSTS damage could occur. Neutral N gives good performance for most conditions. Bow down improves turning performance and helps the watercraft get on plane faster, but at higher speeds it can increase bow steer, make the craft follow waves and wakes, and reduce fuel economy and maximum speed. Bow up reduces water resistance and improves straight-ahead acceleration and top speed when on plane, but if the craft porpoises, choose neutral or bow down.<PIC>",
+  "images": [
+    "Manual20_51",
+    "Manual20_52",
+    "Manual20_53"
+  ],
+  "ret": "\"The QSTS selector is on the left handlebar grip. It adjusts the watercraft trim angle by changing the jet thrust nozzle angle vertically. To change trim, reduce engine speed to 3,000 r/min or less, squeeze the shift lock lever, turn the selector to the desired position, then release the lever to lock it.<PIC>\\nThe selector has five positions: two bow-down positions, neutral, and two bow-up positions.<PIC>\\nDo not turn the QSTS selector while operating at full throttle, or QSTS damage could occur. Neutral N gives good performance for most conditions. Bow down improves turning performance and helps the watercraft get on plane faster, but at higher speeds it can increase bow steer, make the craft follow waves and wakes, and reduce fuel economy and maximum speed. Bow up reduces water resistance and improves straight-ahead acceleration and top speed when on plane, but if the craft porpoises, choose neutral or bow down.<PIC>\",[\"Manual20_51\", \"Manual20_52\", \"Manual20_53\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:438",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:440",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:442",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:448",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:456",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:460",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:462",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:466",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:470",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:474"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Yamaha WaveRunner QSTS selector section. Images show the selector and shift lock lever, the five selector/nozzle positions, and the bow-down/neutral/bow-up watercraft attitudes."
+}

@@ -1,0 +1,20 @@
+{
+  "id": 423,
+  "question": "What are the proper techniques for riding downhill on a snowmobile?",
+  "content": "1. Keep downhill speed to a minimum.\n2. Use just enough throttle to keep the clutch engaged while descending, so engine compression helps slow the snowmobile and prevents it from rolling freely downhill. The downhill-riding illustration shows the controlled descent this section describes.<PIC>\n3. Apply the brake frequently, but use only light pressure.\n4. Use extra caution with braking during descent; excessive braking can lock the track and cause loss of control.",
+  "images": [
+    "Manual34_128"
+  ],
+  "ret": "\"1. Keep downhill speed to a minimum.\\n2. Use just enough throttle to keep the clutch engaged while descending, so engine compression helps slow the snowmobile and prevents it from rolling freely downhill. The downhill-riding illustration shows the controlled descent this section describes.<PIC>\\n3. Apply the brake frequently, but use only light pressure.\\n4. Use extra caution with braking during descent; excessive braking can lock the track and cause loss of control.\",[\"Manual34_128\"]",
+  "manual_guess": "Yamaha Snowmobile",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1089",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1091",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1093",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1095",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1097",
+    "agentic-rag/en-manual/插图/Manual34_128.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the RIDING DOWNHILL section and its adjacent warning. The adjacent downhill-riding illustration was inspected and included because it directly depicts the controlled downhill descent discussed in the text."
+}

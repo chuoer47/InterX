@@ -1,0 +1,18 @@
+{
+  "id": 381,
+  "question": "How can you secure the motherboard to the chassis?",
+  "content": "Place the motherboard in the chassis with the external-port edge toward the rear, then install nine screws in the circled screw holes to secure it.<PIC>\nDo not overtighten the screws, because this can damage the motherboard.",
+  "images": [
+    "Manual25_6"
+  ],
+  "ret": "\"Place the motherboard in the chassis with the external-port edge toward the rear, then install nine screws in the circled screw holes to secure it.<PIC>\\nDo not overtighten the screws, because this can damage the motherboard.\",[\"Manual25_6\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:149",
+    "agentic-rag/en-manual/Motherboard.md:153",
+    "agentic-rag/en-manual/Motherboard.md:157",
+    "agentic-rag/en-manual/Motherboard.md:159"
+  ],
+  "status": "answered",
+  "notes": "The answer uses the motherboard overview, placement direction, screw holes, and the adjacent figure showing the circled mounting holes."
+}

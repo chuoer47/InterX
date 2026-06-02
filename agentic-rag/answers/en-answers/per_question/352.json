@@ -1,0 +1,25 @@
+{
+  "id": 352,
+  "question": "How can you connect the base station of a landline?",
+  "content": "1. Check that the power supply voltage matches the voltage printed on the back or underside of the phone, and use only the supplied power adapter.\n2. Connect the power adapter between the DC input jack on the bottom of the base station and the wall power socket.<PIC>\n3. Connect the line cord between the telephone socket on the bottom of the base station and the wall telephone socket.\n4. If your telephone line also carries DSL high-speed internet service, install a DSL filter between the telephone line cord and the wall socket to prevent noise and caller ID problems.",
+  "images": [
+    "Manual22_22"
+  ],
+  "ret": "\"1. Check that the power supply voltage matches the voltage printed on the back or underside of the phone, and use only the supplied power adapter.\\n2. Connect the power adapter between the DC input jack on the bottom of the base station and the wall power socket.<PIC>\\n3. Connect the line cord between the telephone socket on the bottom of the base station and the wall telephone socket.\\n4. If your telephone line also carries DSL high-speed internet service, install a DSL filter between the telephone line cord and the wall socket to prevent noise and caller ID problems.\",[\"Manual22_22\"]",
+  "manual_guess": "Philips XL490 XL495.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:219",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:225",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:226",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:229",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:230",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:232",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:234",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:236",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:238",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:240",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:241"
+  ],
+  "status": "answered",
+  "notes": "The answer uses the Connect the base station section for the Philips XL490/XL495 landline manual. Manual22_22 is included because it directly shows the power adapter connection to the underside DC input jack and wall power socket."
+}

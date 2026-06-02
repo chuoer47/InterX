@@ -1,0 +1,35 @@
+{
+  "id": 398,
+  "question": "What do you know about steam release valve of a multi-use pressure cooker and air fryer?",
+  "content": "The steam release valve is part of the Instant Pot Duo Crisp pressure cooking lid. It sits loosely on the steam release pipe, and when pressure is released, steam ejects from the top of the valve.<PIC>\nThe quick release button controls the steam release valve. For Quick Release, press the quick release button down until it clicks and locks into the Vent position; steam then vents from the top of the steam release valve, and pressure is fully released when the float valve drops into the lid.<PIC>\nDo not cover or block the steam release valve, and do not place hands, face, or exposed skin over it while the appliance is operating or still has residual pressure. If steam escapes abnormally from the steam release valve, float valve, or lid sides, turn the appliance off and let it depressurise before opening.\nFor cleaning or maintenance, remove the valve by pulling it up and off the steam release pipe. Reinstall it by placing it on the pipe and pressing down firmly; it should still sit loosely when installed correctly.<PIC>",
+  "images": [
+    "Manual30_15",
+    "multi-use_pressure_cooker_and_air_fryer_02",
+    "Manual30_32"
+  ],
+  "ret": "\"The steam release valve is part of the Instant Pot Duo Crisp pressure cooking lid. It sits loosely on the steam release pipe, and when pressure is released, steam ejects from the top of the valve.<PIC>\\nThe quick release button controls the steam release valve. For Quick Release, press the quick release button down until it clicks and locks into the Vent position; steam then vents from the top of the steam release valve, and pressure is fully released when the float valve drops into the lid.<PIC>\\nDo not cover or block the steam release valve, and do not place hands, face, or exposed skin over it while the appliance is operating or still has residual pressure. If steam escapes abnormally from the steam release valve, float valve, or lid sides, turn the appliance off and let it depressurise before opening.\\nFor cleaning or maintenance, remove the valve by pulling it up and off the steam release pipe. Reinstall it by placing it on the pipe and pressing down firmly; it should still sit loosely when installed correctly.<PIC>\",[\"Manual30_15\", \"multi-use_pressure_cooker_and_air_fryer_02\", \"Manual30_32\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:45",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:46",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:47",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:57",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:164",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:166",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:172",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:174",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:176",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:178",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:236",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:240",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:244",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:246",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:248",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:361",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:363",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:365",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:367"
+  ],
+  "status": "answered",
+  "notes": "Answered from Instant Pot Duo Crisp steam release valve, Quick Release, safety, and maintenance sections. Three images are used for valve venting/position and valve removal."
+}

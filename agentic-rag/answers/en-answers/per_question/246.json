@@ -1,0 +1,19 @@
+{
+  "id": 246,
+  "question": "If I want to listen to music on my phone, how do I turn on the sound system?",
+  "content": "The boat manual does not give the stereo receiver's exact power-button or Bluetooth pairing sequence; it says to refer to the separate stereo system Operation Manual included with the boat. From this manual, first make sure the boat's accessory power is available: in normal operation keep the \"START\" and \"HOUSE\" battery switches in the ON position and leave \"EMERG PARALLEL\" OFF, because the house battery powers the audio system.\nOperate the sound system from the stereo receiver at the helm.<PIC>\nFor phone music, use one of the supported stereo inputs: Bluetooth, the auxiliary input jack, or the USB terminal. The auxiliary input jack and USB terminal are the two labeled inputs shown together.<PIC>",
+  "images": [
+    "Manual09_111",
+    "Manual09_112"
+  ],
+  "ret": "\"The boat manual does not give the stereo receiver's exact power-button or Bluetooth pairing sequence; it says to refer to the separate stereo system Operation Manual included with the boat. From this manual, first make sure the boat's accessory power is available: in normal operation keep the \\\"START\\\" and \\\"HOUSE\\\" battery switches in the ON position and leave \\\"EMERG PARALLEL\\\" OFF, because the house battery powers the audio system.\\nOperate the sound system from the stereo receiver at the helm.<PIC>\\nFor phone music, use one of the supported stereo inputs: Bluetooth, the auxiliary input jack, or the USB terminal. The auxiliary input jack and USB terminal are the two labeled inputs shown together.<PIC>\",[\"Manual09_111\", \"Manual09_112\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:545-568",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:498-511",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1001-1011",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1207-1213"
+  ],
+  "status": "answered_with_source_limit",
+  "notes": "The allowed owner/operator manual identifies the stereo receiver, supported phone input methods, and power source, but does not include the detailed receiver operation or pairing sequence."
+}

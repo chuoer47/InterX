@@ -1,0 +1,20 @@
+{
+  "id": 274,
+  "question": "In the boat's steering position, what does the factory reset screen show?",
+  "content": "On the helm multi-function display, the factory reset screen shows the \"Factory Reset\" title and asks \"Reset all parameters to factory setting?\" with \"Reset\" and \"Back\" buttons.<PIC>\nAfter \"Reset\" is tapped, the confirmation asks \"Are you sure?\" with \"YES\" to reset the settings and \"NO\" to return without resetting.<PIC>",
+  "images": [
+    "Manual09_87",
+    "Manual09_89"
+  ],
+  "ret": "\"On the helm multi-function display, the factory reset screen shows the \\\"Factory Reset\\\" title and asks \\\"Reset all parameters to factory setting?\\\" with \\\"Reset\\\" and \\\"Back\\\" buttons.<PIC>\\nAfter \\\"Reset\\\" is tapped, the confirmation asks \\\"Are you sure?\\\" with \\\"YES\\\" to reset the settings and \\\"NO\\\" to return without resetting.<PIC>\",[\"Manual09_87\", \"Manual09_89\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:498-502",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:831-841",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:843-845",
+    "agentic-rag/en-manual/插图/Manual09_87.jpg",
+    "agentic-rag/en-manual/插图/Manual09_89.jpg"
+  ],
+  "status": "answered",
+  "notes": "Factory reset section states that this screen resets settings to factory defaults; adjacent screen image shows the Factory Reset prompt with Reset and Back, and confirmation image shows YES/NO. No old submissions or generated answer files were read."
+}

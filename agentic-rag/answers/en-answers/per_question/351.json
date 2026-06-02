@@ -1,0 +1,25 @@
+{
+  "id": 351,
+  "question": "What is the overview of the base station of a landline?",
+  "content": "The Philips XL490 base station has one main base button: press it to find handsets, or press and hold it to enter registration mode.<PIC>\nThe Philips XL495 base station has the same find-handsets and registration-mode button, and its base also includes a speaker.<PIC>",
+  "images": [
+    "Manual22_18",
+    "Manual22_19"
+  ],
+  "ret": "\"The Philips XL490 base station has one main base button: press it to find handsets, or press and hold it to enter registration mode.<PIC>\\nThe Philips XL495 base station has the same find-handsets and registration-mode button, and its base also includes a speaker.<PIC>\",[\"Manual22_18\", \"Manual22_19\"]",
+  "manual_guess": "Philips XL490 XL495.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:193",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:195",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:197",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:198",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:200",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:202",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:204",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:205",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:207",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:209"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Overview of the base station section. The two images are the adjacent XL490 and XL495 base-station figures; each <PIC> corresponds to its model's base-station overview."
+}

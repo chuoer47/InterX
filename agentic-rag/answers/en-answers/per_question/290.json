@@ -1,0 +1,17 @@
+{
+  "id": 290,
+  "question": "How to set the camera model to \\P\\ model?",
+  "content": "1. Turn the Mode Dial until the index points to <P>.<PIC>\n2. This selects Program AE mode: P stands for Program and AE stands for Auto Exposure. In this mode, the camera automatically sets the shutter speed and aperture to suit the subject's brightness.",
+  "images": [
+    "Manual10_116"
+  ],
+  "ret": "\"1. Turn the Mode Dial until the index points to <P>.<PIC>\\n2. This selects Program AE mode: P stands for Program and AE stands for Auto Exposure. In this mode, the camera automatically sets the shutter speed and aperture to suit the subject's brightness.\",[\"Manual10_116\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:281-308",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1866-1874",
+    "agentic-rag/en-manual/插图/Manual10_116.jpg"
+  ],
+  "status": "answered",
+  "notes": "The question wording says model, but the Canon EOS 20D evidence identifies P as Program AE mode on the Mode Dial. One image is used because it shows the Mode Dial set to P."
+}

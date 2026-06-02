@@ -1,0 +1,19 @@
+{
+  "id": 362,
+  "question": "How can you unload a lawn mower?",
+  "content": "Unload it with a full-width ramp, not separate individual ramps. Set the ramp so the angle between the ramp and the ground does not exceed 15 degrees; the manual illustrates this with a ramp at least 4 times as long as the trailer or truck-bed height from the ground.<PIC>\n1. Lower the ramp and confirm the angle is 15 degrees or less.\n2. Drive the machine forward down the ramp; the unloading direction shown is forward down the ramp, not backing down.<PIC>\nAvoid sudden acceleration or deceleration while on the ramp because it can cause loss of control or tip-over.",
+  "images": [
+    "Manual23_63",
+    "Manual23_64"
+  ],
+  "ret": "\"Unload it with a full-width ramp, not separate individual ramps. Set the ramp so the angle between the ramp and the ground does not exceed 15 degrees; the manual illustrates this with a ramp at least 4 times as long as the trailer or truck-bed height from the ground.<PIC>\\n1. Lower the ramp and confirm the angle is 15 degrees or less.\\n2. Drive the machine forward down the ramp; the unloading direction shown is forward down the ramp, not backing down.<PIC>\\nAvoid sudden acceleration or deceleration while on the ramp because it can cause loss of control or tip-over.\",[\"Manual23_63\", \"Manual23_64\"]",
+  "manual_guess": "Toro Z Master 4000.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1212-1214",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1220-1244",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1246-1260",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:1292-1300"
+  ],
+  "status": "answered",
+  "notes": "Answer uses the Toro transport/unloading procedure and its referenced ramp and direction figures."
+}

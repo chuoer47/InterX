@@ -1,0 +1,20 @@
+{
+  "id": 284,
+  "question": "How do you install the card into a camera before photography?",
+  "content": "1. Open the CF card slot cover by sliding the cover in the direction shown by the arrow.<PIC>\n2. Hold the CF card with the label side facing you, then insert the end with the small holes into the camera; the CF card eject button should pop out. Insert it only in this orientation because inserting it the wrong way can damage the camera.<PIC>\n3. Close the cover and slide it in the arrow direction until it snaps shut.<PIC>\nWhen the power switch is set to <ON> or the Quick Control Dial position, the LCD panel displays the remaining shots.",
+  "images": [
+    "Manual10_25",
+    "Manual10_26",
+    "Manual10_27"
+  ],
+  "ret": "\"1. Open the CF card slot cover by sliding the cover in the direction shown by the arrow.<PIC>\\n2. Hold the CF card with the label side facing you, then insert the end with the small holes into the camera; the CF card eject button should pop out. Insert it only in this orientation because inserting it the wrong way can damage the camera.<PIC>\\n3. Close the cover and slide it in the arrow direction until it snaps shut.<PIC>\\nWhen the power switch is set to <ON> or the Quick Control Dial position, the LCD panel displays the remaining shots.\",[\"Manual10_25\", \"Manual10_26\", \"Manual10_27\"]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:561-585",
+    "agentic-rag/en-manual/插图/Manual10_25.jpg",
+    "agentic-rag/en-manual/插图/Manual10_26.jpg",
+    "agentic-rag/en-manual/插图/Manual10_27.jpg"
+  ],
+  "status": "answered",
+  "notes": "The manual's Installing the Card section gives the cover-opening step, CF card orientation and damage warning, eject-button confirmation, and cover-closing/shots-remaining confirmation."
+}

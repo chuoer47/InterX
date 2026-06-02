@@ -1,0 +1,20 @@
+{
+  "id": 266,
+  "question": "How to change the default setting of the energy saving mode?",
+  "content": "1. Make sure the machine is turned off, then press and hold the Espresso button for 3 seconds.\n2. The Espresso button blinks to show the current energy-saving setting.\n3. Press the Espresso button to cycle the setting: once for Power Off after 9 minutes, once more for Power Off after 30 minutes, and once more to deactivate automatic Power Off.\n4. Press and hold the Lungo button for 3 seconds to exit energy-saving mode.",
+  "images": [],
+  "ret": "\"1. Make sure the machine is turned off, then press and hold the Espresso button for 3 seconds.\\n2. The Espresso button blinks to show the current energy-saving setting.\\n3. Press the Espresso button to cycle the setting: once for Power Off after 9 minutes, once more for Power Off after 30 minutes, and once more to deactivate automatic Power Off.\\n4. Press and hold the Lungo button for 3 seconds to exit energy-saving mode.\",[]",
+  "manual_guess": "Nespresso CitiZ D111",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:195",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:197",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:205",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:207",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:211",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:215",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:219",
+    "agentic-rag/en-manual/Nespresso CitiZ D111.md:355"
+  ],
+  "status": "answered",
+  "notes": "The exact procedure is stated in the Nespresso CitiZ D111 Energy Saving Mode section. No image is required because the button sequence and timing are fully described in text."
+}

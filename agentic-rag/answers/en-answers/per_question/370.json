@@ -1,0 +1,28 @@
+{
+  "id": 370,
+  "question": "How can you use auto defrost of a over-the-range microwave?",
+  "content": "Use Auto Defrost for raw frozen meat, poultry, or fish; use Time Defrost for most other frozen foods.\n1. Touch Auto Defrost.\n2. Choose the category: 1 for meat, 2 for poultry, or 3 for fish.<PIC>\n3. Enter the net food weight, excluding the container, in pounds and tenths of a pound. If the package shows fractions or ounces, convert it to a decimal pound value.\n4. Touch Start. The display changes to a defrost time countdown and DEFROST appears; this is the basic sequence shown for a 1.2 lb ground beef example.<PIC>\n5. When the oven beeps during the cycle, open the door, turn, separate, or rearrange the food, remove thawed portions, return frozen portions to the oven, and touch Start again.\nUse Auto Defrost only for raw food. It works best from food at 0 degrees F directly from a freezer; enter a lower weight if the food came from a refrigerator-freezer that may be warmer than 5 degrees F or has been outside the freezer up to 20 minutes. Food must be 0.1-6.0 lb (0.1-4.0 kg), not more than 6.0 lb (4.0 kg). Keep any foil shields from touching the oven sides.",
+  "images": [
+    "Manual24_32",
+    "Manual24_33"
+  ],
+  "ret": "\"Use Auto Defrost for raw frozen meat, poultry, or fish; use Time Defrost for most other frozen foods.\\n1. Touch Auto Defrost.\\n2. Choose the category: 1 for meat, 2 for poultry, or 3 for fish.<PIC>\\n3. Enter the net food weight, excluding the container, in pounds and tenths of a pound. If the package shows fractions or ounces, convert it to a decimal pound value.\\n4. Touch Start. The display changes to a defrost time countdown and DEFROST appears; this is the basic sequence shown for a 1.2 lb ground beef example.<PIC>\\n5. When the oven beeps during the cycle, open the door, turn, separate, or rearrange the food, remove thawed portions, return frozen portions to the oven, and touch Start again.\\nUse Auto Defrost only for raw food. It works best from food at 0 degrees F directly from a freezer; enter a lower weight if the food came from a refrigerator-freezer that may be warmer than 5 degrees F or has been outside the freezer up to 20 minutes. Food must be 0.1-6.0 lb (0.1-4.0 kg), not more than 6.0 lb (4.0 kg). Keep any foil shields from touching the oven sides.\",[\"Manual24_32\", \"Manual24_33\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:331",
+    "agentic-rag/en-manual/Bosch Microwave.md:333",
+    "agentic-rag/en-manual/Bosch Microwave.md:679",
+    "agentic-rag/en-manual/Bosch Microwave.md:681",
+    "agentic-rag/en-manual/Bosch Microwave.md:683",
+    "agentic-rag/en-manual/Bosch Microwave.md:687",
+    "agentic-rag/en-manual/Bosch Microwave.md:689",
+    "agentic-rag/en-manual/Bosch Microwave.md:693",
+    "agentic-rag/en-manual/Bosch Microwave.md:699",
+    "agentic-rag/en-manual/Bosch Microwave.md:701",
+    "agentic-rag/en-manual/Bosch Microwave.md:703",
+    "agentic-rag/en-manual/Bosch Microwave.md:709",
+    "agentic-rag/en-manual/Bosch Microwave.md:733"
+  ],
+  "status": "answered",
+  "notes": "Answer grounded in the Bosch over-the-range microwave Auto Defrost section, control-panel feature description, adjacent procedure/category images, and defrosting tips."
+}

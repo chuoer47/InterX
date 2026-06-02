@@ -1,0 +1,21 @@
+{
+  "id": 329,
+  "question": "In daily usage, how to open and close the hood of the jetski?",
+  "content": "1. To open the hood, push the hood latch down, then lift the hood up.<PIC>\n2. To close the hood, push the hood down until it locks in place.<PIC>\n3. Before operating the watercraft, make sure the hood is properly secured.",
+  "images": [
+    "Manual20_38",
+    "Manual20_39"
+  ],
+  "ret": "\"1. To open the hood, push the hood latch down, then lift the hood up.<PIC>\\n2. To close the hood, push the hood down until it locks in place.<PIC>\\n3. Before operating the watercraft, make sure the hood is properly secured.\",[\"Manual20_38\", \"Manual20_39\"]",
+  "manual_guess": "Yamaha WaveRunner 2005.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:328",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:330",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:332",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:334",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:336",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:338"
+  ],
+  "status": "answered",
+  "notes": "Direct hood operation section. Images show the latch used for opening and the downward closing action. PIC count is 2 and images count is 2."
+}

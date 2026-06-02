@@ -1,0 +1,22 @@
+{
+  "id": 424,
+  "question": "What are the correct techniques for crossing a slope on a snowmobile?",
+  "content": "Side hills are not recommended for beginner or novice snowmobilers. When crossing the face of a slope, keep the snowmobile balanced by shifting your weight toward the uphill side. A recommended position is to kneel with the downhill-leg knee on the seat and keep the uphill-leg foot on the running board so you can shift body weight as needed.<PIC>\nIf the snowmobile begins to slip sideways and the path is clear of obstacles, steer in the direction of the slide. As balance returns, gradually steer back toward the direction you want to travel. If the snowmobile starts to tip, steer down the hill to regain balance. If you cannot maintain balance and it is going to tip over, dismount immediately on the uphill side. On ice or icy surfaces, drive slowly and cautiously because traction for turning, stopping, and starting is much lower; avoid rapid acceleration, turning, or braking.",
+  "images": [
+    "Manual34_129"
+  ],
+  "ret": "\"Side hills are not recommended for beginner or novice snowmobilers. When crossing the face of a slope, keep the snowmobile balanced by shifting your weight toward the uphill side. A recommended position is to kneel with the downhill-leg knee on the seat and keep the uphill-leg foot on the running board so you can shift body weight as needed.<PIC>\\nIf the snowmobile begins to slip sideways and the path is clear of obstacles, steer in the direction of the slide. As balance returns, gradually steer back toward the direction you want to travel. If the snowmobile starts to tip, steer down the hill to regain balance. If you cannot maintain balance and it is going to tip over, dismount immediately on the uphill side. On ice or icy surfaces, drive slowly and cautiously because traction for turning, stopping, and starting is much lower; avoid rapid acceleration, turning, or braking.\",[\"Manual34_129\"]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1099",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1101",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1103",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1105",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1107",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1109",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1111",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:1113"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha Snowmobile side-hill section. One adjacent image is used because it shows the recommended body position for crossing the slope."
+}

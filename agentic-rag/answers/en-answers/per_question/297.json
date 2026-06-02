@@ -1,0 +1,30 @@
+{
+  "id": 297,
+  "question": "If the case battery of earphones is low, how can I charge is?",
+  "content": "Charge the earphones' charging case with the included USB-C cable.\n1. Insert the USB-C end into the charging port on the back of the charging case.<PIC>\n2. Insert the standard USB end into a suitable USB port or USB power source.<PIC>\n3. Leave the case connected while the front battery-level LEDs show the case capacity; filled blue LEDs and a flashing LED show the current charging range.<PIC>\nTo check the case level later, press the battery-level display button on the right side of the case. Keep charging cables well ventilated, and connect or disconnect the cable carefully without tugging it.",
+  "images": [
+    "earphones_04",
+    "earphones_05",
+    "earphones_06"
+  ],
+  "ret": "\"Charge the earphones' charging case with the included USB-C cable.\\n1. Insert the USB-C end into the charging port on the back of the charging case.<PIC>\\n2. Insert the standard USB end into a suitable USB port or USB power source.<PIC>\\n3. Leave the case connected while the front battery-level LEDs show the case capacity; filled blue LEDs and a flashing LED show the current charging range.<PIC>\\nTo check the case level later, press the battery-level display button on the right side of the case. Keep charging cables well ventilated, and connect or disconnect the cable carefully without tugging it.\",[\"earphones_04\", \"earphones_05\", \"earphones_06\"]",
+  "manual_guess": "agentic-rag/en-manual/Hydrabuds ANC.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:58",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:20",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:21",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:44",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:46",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:50",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:52",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:56",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:58",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:62",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:64",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:68",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:242",
+    "agentic-rag/en-manual/Hydrabuds ANC.md:248"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Hydrabuds ANC Charging the Case section. Images map to the USB-C case port step, the USB-A power-source step, and the front LED capacity chart."
+}

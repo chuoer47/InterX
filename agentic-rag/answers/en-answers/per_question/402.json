@@ -1,0 +1,18 @@
+{
+  "id": 402,
+  "question": "What are the two primary modes available on a vacuum cleaner that can be used to tailor its performance to meet different home cleaning needs?",
+  "content": "The two modes are Virtual Wall Mode and Halo Mode. Virtual Wall Mode creates a linear barrier to block openings up to 10 ft (3 m). Halo Mode creates a circular barrier about 12 in (30 cm) from the center of the device to keep the robot away from areas such as a pet bowl, vase, or under a desk.",
+  "images": [],
+  "ret": "\"The two modes are Virtual Wall Mode and Halo Mode. Virtual Wall Mode creates a linear barrier to block openings up to 10 ft (3 m). Halo Mode creates a circular barrier about 12 in (30 cm) from the center of the device to keep the robot away from areas such as a pet bowl, vase, or under a desk.\",[]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:154",
+    "agentic-rag/en-manual/Roomba i5.md:158",
+    "agentic-rag/en-manual/Roomba i5.md:162",
+    "agentic-rag/en-manual/Roomba i5.md:164",
+    "agentic-rag/en-manual/Roomba i5.md:170",
+    "agentic-rag/en-manual/Roomba i5.md:172"
+  ],
+  "status": "answered",
+  "notes": "No image included because the two modes and their functions are explicitly stated in text."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 356,
+  "question": "How can you know about the current status with different LED indicator behavior on a landline?",
+  "content": "Use the handset LED indicator as follows: On means audio boost is on; Off means the phone is in a call or standby mode; Flashing means there is a new message, a new voicemail, a missed call, or the phone is muted. For charging status, On means the handset is on the base or charging cradle in standby mode, or audio boost is on during a call; Off means the handset is off the base or charging cradle; Flashing means the phone is muted.<PIC>\nOn the XL495 base station, Steady on means there is no new message and the memory is not full, the handset is switched on, or the phone is in paging mode. Flashing means there is a new message and the memory is not full, an incoming call, recording an incoming message or announcement, message playback, or remote access/listening to messages from the handset. Fast flashing means there is no new message and the memory is full, or the base is in registration mode.<PIC>",
+  "images": [
+    "Manual22_40",
+    "Manual22_46"
+  ],
+  "ret": "\"Use the handset LED indicator as follows: On means audio boost is on; Off means the phone is in a call or standby mode; Flashing means there is a new message, a new voicemail, a missed call, or the phone is muted. For charging status, On means the handset is on the base or charging cradle in standby mode, or audio boost is on during a call; Off means the handset is off the base or charging cradle; Flashing means the phone is muted.<PIC>\\nOn the XL495 base station, Steady on means there is no new message and the memory is not full, the handset is switched on, or the phone is in paging mode. Flashing means there is a new message and the memory is not full, an incoming call, recording an incoming message or announcement, message playback, or remote access/listening to messages from the handset. Fast flashing means there is no new message and the memory is full, or the base is in registration mode.<PIC>\",[\"Manual22_40\", \"Manual22_46\"]",
+  "manual_guess": "Philips XL490 XL495",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:843",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:845",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:847",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1089",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1091",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1093",
+    "agentic-rag/en-manual/插图/Manual22_40.jpg",
+    "agentic-rag/en-manual/插图/Manual22_46.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Philips XL490/XL495 handset and XL495 base-station LED indicator tables. Images are used because the status mappings are embedded in the table images."
+}

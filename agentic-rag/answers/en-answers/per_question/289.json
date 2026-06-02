@@ -1,0 +1,18 @@
+{
+  "id": 289,
+  "question": "How do I select the AF Mode when before taking a picture?",
+  "content": "1. On the lens, set the focus mode switch to <AF>.<PIC>\n2. Set the Mode Dial to a Creative Zone mode.\n3. Press the <AF-WB> button.<PIC>\n4. While watching the LCD panel, turn the Main Dial until the AF mode you want is displayed: ONE SHOT for One-Shot AF, AI FOCUS for AI Focus AF, or AI SERVO for AI Servo AF.<PIC>\nIn Basic Zone modes, the camera sets the AF mode automatically.",
+  "images": [
+    "Manual10_99",
+    "Camera_30",
+    "Camera_31"
+  ],
+  "ret": "\"1. On the lens, set the focus mode switch to <AF>.<PIC>\\n2. Set the Mode Dial to a Creative Zone mode.\\n3. Press the <AF-WB> button.<PIC>\\n4. While watching the LCD panel, turn the Main Dial until the AF mode you want is displayed: ONE SHOT for One-Shot AF, AI FOCUS for AI Focus AF, or AI SERVO for AI Servo AF.<PIC>\\nIn Basic Zone modes, the camera sets the AF mode automatically.\",[\"Manual10_99\", \"Camera_30\", \"Camera_31\"]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:1619-1631",
+    "agentic-rag/en-manual/Canon EOS 20D.md:1633-1653"
+  ],
+  "status": "answered",
+  "notes": "Canon EOS 20D AF mode selection procedure in Creative Zone modes; Basic Zone modes set AF mode automatically. Images correspond to the lens focus switch, AF-WB button, and LCD panel AF mode selection display."
+}

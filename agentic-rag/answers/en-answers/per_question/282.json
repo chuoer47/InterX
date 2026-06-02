@@ -1,0 +1,29 @@
+{
+  "id": 282,
+  "question": "How do I connect the camera using a household power socket?",
+  "content": "Use the optional AC Adapter Kit ACK-E2. 1. Connect the DC Coupler plug to the AC adapter socket.<PIC>\n2. Connect the power cord to the AC adapter, then insert the plug into the household power outlet.<PIC>\n3. Carefully place the cord in the groove without damaging it.<PIC>\n4. Open the battery compartment cover and the DC Coupler cord notch cover. Insert the DC Coupler until it locks, route the cord through the notch, then close the cover.<PIC>\nDo not connect or disconnect the power cord while the camera's power switch is set to <ON> or the Quick Control Dial position.",
+  "images": [
+    "Camera_14",
+    "Camera_15",
+    "Manual10_19",
+    "Manual10_20"
+  ],
+  "ret": "\"Use the optional AC Adapter Kit ACK-E2. 1. Connect the DC Coupler plug to the AC adapter socket.<PIC>\\n2. Connect the power cord to the AC adapter, then insert the plug into the household power outlet.<PIC>\\n3. Carefully place the cord in the groove without damaging it.<PIC>\\n4. Open the battery compartment cover and the DC Coupler cord notch cover. Insert the DC Coupler until it locks, route the cord through the notch, then close the cover.<PIC>\\nDo not connect or disconnect the power cord while the camera's power switch is set to <ON> or the Quick Control Dial position.\",[\"Camera_14\", \"Camera_15\", \"Manual10_19\", \"Manual10_20\"]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    "agentic-rag/question.csv:2",
+    "agentic-rag/en-manual/Canon EOS 20D.md:493",
+    "agentic-rag/en-manual/Canon EOS 20D.md:495",
+    "agentic-rag/en-manual/Canon EOS 20D.md:497",
+    "agentic-rag/en-manual/Canon EOS 20D.md:503",
+    "agentic-rag/en-manual/Canon EOS 20D.md:513",
+    "agentic-rag/en-manual/Canon EOS 20D.md:519",
+    "agentic-rag/en-manual/Canon EOS 20D.md:527",
+    "agentic-rag/en-manual/插图/Camera_14.png",
+    "agentic-rag/en-manual/插图/Camera_15.png",
+    "agentic-rag/en-manual/插图/Manual10_19.jpg",
+    "agentic-rag/en-manual/插图/Manual10_20.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answer grounded in the Canon EOS 20D household power outlet procedure. Four adjacent figures are included because each supports a distinct physical connection or routing step."
+}

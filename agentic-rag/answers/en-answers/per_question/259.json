@@ -1,0 +1,30 @@
+{
+  "id": 259,
+  "question": "How do I turn a boat while sailing?",
+  "content": "1. Turn the steering wheel in the direction you want to travel, right or left.\n2. Keep throttle applied above idle while turning, except at trolling speed. This jet boat turns with jet thrust: more throttle produces higher thrust and a sharper turn.<PIC>\n3. Use less throttle for a more gradual turn.<PIC>\n4. Do not pull the remote control levers back to idle or neutral to steer away from objects. At speeds above trolling, steering response rapidly decreases without throttle until you apply throttle again or reach trolling speed.<PIC>\n5. If there is no thrust because the engines are stopped, the boat will continue straight even with the steering wheel turned.<PIC>\n6. Make sure passengers are holding on before turns, and practice turning in an open area without obstructions.",
+  "images": [
+    "Manual09_239",
+    "Manual09_240",
+    "Manual09_241",
+    "Manual09_242"
+  ],
+  "ret": "\"1. Turn the steering wheel in the direction you want to travel, right or left.\\n2. Keep throttle applied above idle while turning, except at trolling speed. This jet boat turns with jet thrust: more throttle produces higher thrust and a sharper turn.<PIC>\\n3. Use less throttle for a more gradual turn.<PIC>\\n4. Do not pull the remote control levers back to idle or neutral to steer away from objects. At speeds above trolling, steering response rapidly decreases without throttle until you apply throttle again or reach trolling speed.<PIC>\\n5. If there is no thrust because the engines are stopped, the boat will continue straight even with the steering wheel turned.<PIC>\\n6. Make sure passengers are holding on before turns, and practice turning in an open area without obstructions.\",[\"Manual09_239\", \"Manual09_240\", \"Manual09_241\", \"Manual09_242\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/question.csv:20",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:307",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:658",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:671",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1963",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1967",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1969",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1971",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1973",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1975",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1977",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1979",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1983"
+  ],
+  "status": "answered",
+  "notes": "Grounded in Yamaha 210FSH 2021 Turning the boat, Steering, and Boat characteristics sections. Four images correspond to manual examples A-D for throttle effect and no-thrust behavior."
+}

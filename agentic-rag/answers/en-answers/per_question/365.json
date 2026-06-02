@@ -1,0 +1,15 @@
+{
+  "id": 365,
+  "question": "How can you replace the mower belt of a lawn mower?",
+  "content": "1. Park the machine on a level surface, disengage the blade-control switch (PTO), and engage the parking brake.\n2. Shut off the engine, remove the key, and wait for all moving parts to stop before leaving the operating position.\n3. Lower the mower to the 76 mm (3 inches) height of cut.\n4. Remove the belt covers.\n5. Put a 3/8-inch ratchet in the square hole of the idler arm to relieve tension on the idler spring; use the belt-routing figure to identify the clutch pulley, mower belt, spring-loaded idler assembly, ratchet, and square hole in the idler arm.<PIC>\n6. Remove the belt from the mower-deck pulleys and the clutch pulley, remove the belt guide on the spring-loaded idler arm, and remove the existing belt.\n7. Install the new belt around the mower pulleys and the clutch pulley under the engine, then reinstall the belt guide on the idler arm.\n8. Using the 3/8-inch ratchet in the square hole, install the idler spring. Ensure that the spring ends are seated in the anchor grooves.\n9. Install the belt covers.",
+  "images": [
+    "Manual23_100"
+  ],
+  "ret": "\"1. Park the machine on a level surface, disengage the blade-control switch (PTO), and engage the parking brake.\\n2. Shut off the engine, remove the key, and wait for all moving parts to stop before leaving the operating position.\\n3. Lower the mower to the 76 mm (3 inches) height of cut.\\n4. Remove the belt covers.\\n5. Put a 3/8-inch ratchet in the square hole of the idler arm to relieve tension on the idler spring; use the belt-routing figure to identify the clutch pulley, mower belt, spring-loaded idler assembly, ratchet, and square hole in the idler arm.<PIC>\\n6. Remove the belt from the mower-deck pulleys and the clutch pulley, remove the belt guide on the spring-loaded idler arm, and remove the existing belt.\\n7. Install the new belt around the mower pulleys and the clutch pulley under the engine, then reinstall the belt guide on the idler arm.\\n8. Using the 3/8-inch ratchet in the square hole, install the idler spring. Ensure that the spring ends are seated in the anchor grooves.\\n9. Install the belt covers.\",[\"Manual23_100\"]",
+  "manual_guess": "Toro Z Master 4000.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:2054-2116"
+  ],
+  "status": "answered",
+  "notes": "Answer uses the Replacing the Mower Belt procedure and the belt-routing/idler-arm figure."
+}

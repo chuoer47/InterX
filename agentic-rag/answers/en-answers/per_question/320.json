@@ -1,0 +1,32 @@
+{
+  "id": 320,
+  "question": "What are the first three steps in assembly process of the grill according to the manual?",
+  "content": "1. Attach the two locking casters at the rear of the bottom shelf and the two fixed casters at the front using the supplied wrench; the figure labels the bottom shelf front/rear and caster types.<PIC>\n2. Attach both side panels to the bottom shelf using three 1/4-20 x 1/2\" screws and 7 mm lock washers per panel. Put the panel with the hole on the left side, push both panels as far rearward on the bottom shelf as possible, then fully tighten the screws.<PIC>\n3. Attach the light adapter to the back panel with four #8-32 x 3/8\" screws, 4 mm lock washers, 4 mm flat washers, and #8 nuts.<PIC> Then place the lower back panel between the side panels at the rear of the bottom shelf, secure it to the side panels with two 1/4-20 x 1/2\" screws and 7 mm lock washers on each side, and secure it to the bottom shelf with one 1/4-20 x 1/2\" screw and 7 mm lock washer.<PIC>",
+  "images": [
+    "Manual19_49",
+    "Manual19_50",
+    "Manual19_52",
+    "Manual19_51"
+  ],
+  "ret": "\"1. Attach the two locking casters at the rear of the bottom shelf and the two fixed casters at the front using the supplied wrench; the figure labels the bottom shelf front/rear and caster types.<PIC>\\n2. Attach both side panels to the bottom shelf using three 1/4-20 x 1/2\\\" screws and 7 mm lock washers per panel. Put the panel with the hole on the left side, push both panels as far rearward on the bottom shelf as possible, then fully tighten the screws.<PIC>\\n3. Attach the light adapter to the back panel with four #8-32 x 3/8\\\" screws, 4 mm lock washers, 4 mm flat washers, and #8 nuts.<PIC> Then place the lower back panel between the side panels at the rear of the bottom shelf, secure it to the side panels with two 1/4-20 x 1/2\\\" screws and 7 mm lock washers on each side, and secure it to the bottom shelf with one 1/4-20 x 1/2\\\" screw and 7 mm lock washer.<PIC>\",[\"Manual19_49\", \"Manual19_50\", \"Manual19_52\", \"Manual19_51\"]",
+  "manual_guess": "Outdoor Grill.md",
+  "evidence_refs": [
+    {
+      "manual": "Outdoor Grill.md",
+      "lines": "623-629",
+      "note": "Assembly step 1 and caster illustration."
+    },
+    {
+      "manual": "Outdoor Grill.md",
+      "lines": "631-635",
+      "note": "Assembly step 2 and side-panel requirements."
+    },
+    {
+      "manual": "Outdoor Grill.md",
+      "lines": "637-645",
+      "note": "Assembly step 3, hardware list, and illustrations."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Outdoor Grill assembly section. Images were inspected and included for the caster layout, side-panel placement, light-adapter fastening, and lower-back-panel placement."
+}

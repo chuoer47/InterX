@@ -1,0 +1,17 @@
+{
+  "id": 330,
+  "question": "I've noticed that there are two different kinds of filler caps on the jetski. How to remove them?",
+  "content": "1. For the fuel tank filler cap, turn the cap counterclockwise to remove it. Afterward, make sure it is properly secured before operating the watercraft.<PIC>\n2. For the oil tank filler cap, turn the cap counterclockwise to remove it. Afterward, make sure it is properly secured before operating the watercraft.<PIC>",
+  "images": [
+    "Manual20_40",
+    "Manual20_41"
+  ],
+  "ret": "\"1. For the fuel tank filler cap, turn the cap counterclockwise to remove it. Afterward, make sure it is properly secured before operating the watercraft.<PIC>\\n2. For the oil tank filler cap, turn the cap counterclockwise to remove it. Afterward, make sure it is properly secured before operating the watercraft.<PIC>\",[\"Manual20_40\", \"Manual20_41\"]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:340-344",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:348-352"
+  ],
+  "status": "answered",
+  "notes": "The WaveRunner manual has separate fuel tank filler cap and oil tank filler cap sections. Both say to remove the cap by turning it counterclockwise and to make sure it is secured before operation. Manual20_40 shows the fuel tank filler cap; Manual20_41 shows the oil tank filler cap."
+}

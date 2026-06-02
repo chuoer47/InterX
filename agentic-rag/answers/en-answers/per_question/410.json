@@ -1,0 +1,20 @@
+{
+  "id": 410,
+  "question": "What is the correct procedure for cleaning the side brush of a vacuum cleaner?",
+  "content": "Clean the side brush once per month. The manual calls it the Edge-Sweeping Brush.\n1. Use a small screwdriver to loosen the screw holding the Edge-Sweeping Brush in place.<PIC>\n2. Pull the Edge-Sweeping Brush off the robot.\n3. Remove any hair or debris.\n4. Reinstall the brush.",
+  "images": [
+    "Manual32_16"
+  ],
+  "ret": "\"Clean the side brush once per month. The manual calls it the Edge-Sweeping Brush.\\n1. Use a small screwdriver to loosen the screw holding the Edge-Sweeping Brush in place.<PIC>\\n2. Pull the Edge-Sweeping Brush off the robot.\\n3. Remove any hair or debris.\\n4. Reinstall the brush.\",[\"Manual32_16\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:178",
+    "agentic-rag/en-manual/Roomba i5.md:191",
+    "agentic-rag/en-manual/Roomba i5.md:244",
+    "agentic-rag/en-manual/Roomba i5.md:246",
+    "agentic-rag/en-manual/Roomba i5.md:250",
+    "agentic-rag/en-manual/插图/Manual32_16.jpg"
+  ],
+  "status": "answered",
+  "notes": "Question maps to the Roomba i5 vacuum manual. The side brush is identified in the care table as the Side Brush and in the procedure heading as the Edge-Sweeping Brush. Included the one procedure image because it shows loosening the brush screw with a screwdriver."
+}

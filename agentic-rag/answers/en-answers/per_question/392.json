@@ -1,0 +1,24 @@
+{
+  "id": 392,
+  "question": "How can you set anti-block shield for a multi-use pressure cooker and air fryer?",
+  "content": "To install the anti-block shield, place it over the prongs on the pressure cooking lid and press down until it snaps into position.<PIC>\nDo not operate the pressure cooker without the anti-block shield installed; it keeps food particles from entering the steam release pipe and helps regulate pressure.",
+  "images": [
+    "Manual30_35"
+  ],
+  "ret": "\"To install the anti-block shield, place it over the prongs on the pressure cooking lid and press down until it snaps into position.<PIC>\\nDo not operate the pressure cooker without the anti-block shield installed; it keeps food particles from entering the steam release pipe and helps regulate pressure.\",[\"Manual30_35\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    {
+      "manual": "Instant Pot Duo Crisp.md",
+      "lines": "202-206",
+      "note": "Identifies the anti-block shield purpose and shows the component."
+    },
+    {
+      "manual": "Instant Pot Duo Crisp.md",
+      "lines": "371-381",
+      "note": "Gives removal/install instructions, installation image anchor, and warning not to operate without the shield installed."
+    }
+  ],
+  "status": "answered",
+  "notes": "Question interpreted as installing or setting the anti-block shield. One image is included because the manual's installation figure shows placing the shield over the prongs and pressing it down."
+}

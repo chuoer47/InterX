@@ -1,0 +1,19 @@
+{
+  "id": 285,
+  "question": "Have you ever wondered how to remove the camera shutter button? Understanding this process can enhance your photography experience and allow for quick repairs!",
+  "content": "The EOS 20D manual does not provide a procedure for removing the camera shutter button. It describes normal use only: the shutter button has two steps, halfway for AF/AE and fully to release the shutter. Do not try to disassemble the camera yourself; the manual warns that the camera contains precision electronic circuitry and that disassembly or modification can expose high-voltage internal parts. If the shutter button or camera requires repair, contact your dealer or the nearest Canon Service Center.",
+  "images": [],
+  "ret": "\"The EOS 20D manual does not provide a procedure for removing the camera shutter button. It describes normal use only: the shutter button has two steps, halfway for AF/AE and fully to release the shutter. Do not try to disassemble the camera yourself; the manual warns that the camera contains precision electronic circuitry and that disassembly or modification can expose high-voltage internal parts. If the shutter button or camera requires repair, contact your dealer or the nearest Canon Service Center.\",[]",
+  "manual_guess": "Canon EOS 20D",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:177",
+    "agentic-rag/en-manual/Canon EOS 20D.md:201",
+    "agentic-rag/en-manual/Canon EOS 20D.md:215",
+    "agentic-rag/en-manual/Canon EOS 20D.md:639",
+    "agentic-rag/en-manual/Canon EOS 20D.md:641",
+    "agentic-rag/en-manual/Canon EOS 20D.md:645",
+    "agentic-rag/en-manual/Canon EOS 20D.md:651"
+  ],
+  "status": "answered",
+  "notes": "No image used; the manual gives operating steps for the shutter button and explicitly warns against disassembly/self-service repair."
+}

@@ -1,0 +1,22 @@
+{
+  "id": 323,
+  "question": "I've heard that my jetski has cruising limitations. Please introduce them.",
+  "content": "Your WaveRunner's cruising limitations are:\n1. Keep scanning for people, objects, and other watercraft, watch for anything that limits visibility, operate defensively at safe speeds, and keep a safe distance. Do not follow directly behind other boats or watercraft, spray or splash others, or make sharp or confusing maneuvers; the image shows why you must keep clear space around swimmers and other craft.<PIC>\n2. Avoid submerged objects and shallow water. Never operate in water less than 60 cm (2 ft) deep because hitting a submerged object can cause injury.<PIC>\n3. Ride within your limits. Avoid aggressive maneuvers, sharp turns, and jumping wakes or waves because they increase the risk of loss of control, ejection, collision, spinal or back injury, facial injury, and broken legs, ankles, or other bones.\n4. Do not operate in rough water, bad weather, or poor visibility. Check forecasts and current weather before setting out.\n5. Do not ride without someone else nearby; if you go farther than swimming distance from shore, ride by another boat or watercraft while keeping a safe distance.\n6. The watercraft has no required lighting for night operation, so do not operate after sunset or before dawn; the image shows night operation is prohibited.<PIC>",
+  "images": [
+    "Manual20_16",
+    "Manual20_17",
+    "Manual20_18"
+  ],
+  "ret": "\"Your WaveRunner's cruising limitations are:\\n1. Keep scanning for people, objects, and other watercraft, watch for anything that limits visibility, operate defensively at safe speeds, and keep a safe distance. Do not follow directly behind other boats or watercraft, spray or splash others, or make sharp or confusing maneuvers; the image shows why you must keep clear space around swimmers and other craft.<PIC>\\n2. Avoid submerged objects and shallow water. Never operate in water less than 60 cm (2 ft) deep because hitting a submerged object can cause injury.<PIC>\\n3. Ride within your limits. Avoid aggressive maneuvers, sharp turns, and jumping wakes or waves because they increase the risk of loss of control, ejection, collision, spinal or back injury, facial injury, and broken legs, ankles, or other bones.\\n4. Do not operate in rough water, bad weather, or poor visibility. Check forecasts and current weather before setting out.\\n5. Do not ride without someone else nearby; if you go farther than swimming distance from shore, ride by another boat or watercraft while keeping a safe distance.\\n6. The watercraft has no required lighting for night operation, so do not operate after sunset or before dawn; the image shows night operation is prohibited.<PIC>\",[\"Manual20_16\", \"Manual20_17\", \"Manual20_18\"]",
+  "manual_guess": "Yamaha WaveRunner 2005",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:123-127",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:129-131",
+    "agentic-rag/en-manual/Yamaha WaveRunner 2005.md:133-135",
+    "agentic-rag/en-manual/插图/Manual20_16.jpg",
+    "agentic-rag/en-manual/插图/Manual20_17.jpg",
+    "agentic-rag/en-manual/插图/Manual20_18.jpg"
+  ],
+  "status": "answered",
+  "notes": "Evidence from the Yamaha WaveRunner cruising limitations section; selected images directly illustrate safe clearance, the 60 cm (2 ft) minimum depth, and prohibited night operation."
+}

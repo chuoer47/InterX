@@ -1,0 +1,22 @@
+{
+  "id": 415,
+  "question": "What is the proper way to use the brake lever and brake button?",
+  "content": "Use the brake lever to stop the snowmobile by squeezing it toward the handlebar; the brake light illuminates when the brake is operated. When slowing or stopping, release the throttle and apply the brake gently, not suddenly.\nTo set the parking brake with the brake button, squeeze the brake lever, push down the parking brake button while releasing the lever, and leave it held in place. To release the parking brake, squeeze the brake lever again. Always set the parking brake before starting the engine, but never run the machine with the parking brake applied because it can overheat the brake disc and reduce braking ability.",
+  "images": [],
+  "ret": "\"Use the brake lever to stop the snowmobile by squeezing it toward the handlebar; the brake light illuminates when the brake is operated. When slowing or stopping, release the throttle and apply the brake gently, not suddenly.\\nTo set the parking brake with the brake button, squeeze the brake lever, push down the parking brake button while releasing the lever, and leave it held in place. To release the parking brake, squeeze the brake lever again. Always set the parking brake before starting the engine, but never run the machine with the parking brake applied because it can overheat the brake disc and reduce braking ability.\",[]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha Snowmobile.md",
+      "lines": "440-462",
+      "summary": "Brake lever operation, brake light note, parking brake button sequence, release method, and warning not to run with parking brake applied."
+    },
+    {
+      "manual": "Yamaha Snowmobile.md",
+      "lines": "1065-1069",
+      "summary": "Riding guidance says to release the throttle and apply the brake gently, not suddenly, because improper brake use can reduce control."
+    }
+  ],
+  "status": "answered",
+  "notes": "No image used; the exact lever/button procedure and warning are stated in text."
+}

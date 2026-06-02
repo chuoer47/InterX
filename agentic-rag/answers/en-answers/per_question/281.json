@@ -1,0 +1,22 @@
+{
+  "id": 281,
+  "question": "How to install the camera battery when another one is power off?",
+  "content": "Load a fully charged BP-511A battery pack into the camera.\n1. Slide the battery-compartment lever in the arrow direction and open the cover.<PIC>\n2. Hold the battery with its contacts pointed downward, then insert it into the compartment until it locks into place.<PIC>\n3. Close the cover and press it until it snaps shut.<PIC>\nBattery Pack BP-514, BP-511, or BP-512 can also be used.",
+  "images": [
+    "Manual10_16",
+    "Camera_09",
+    "Camera_10"
+  ],
+  "ret": "\"Load a fully charged BP-511A battery pack into the camera.\\n1. Slide the battery-compartment lever in the arrow direction and open the cover.<PIC>\\n2. Hold the battery with its contacts pointed downward, then insert it into the compartment until it locks into place.<PIC>\\n3. Close the cover and press it until it snaps shut.<PIC>\\nBattery Pack BP-514, BP-511, or BP-512 can also be used.\",[\"Manual10_16\", \"Camera_09\", \"Camera_10\"]",
+  "manual_guess": "Canon EOS 20D.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Canon EOS 20D.md:427",
+    "agentic-rag/en-manual/Canon EOS 20D.md:431",
+    "agentic-rag/en-manual/Canon EOS 20D.md:433",
+    "agentic-rag/en-manual/Canon EOS 20D.md:439",
+    "agentic-rag/en-manual/Canon EOS 20D.md:447",
+    "agentic-rag/en-manual/Canon EOS 20D.md:453"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Canon EOS 20D main battery installation section. Question 286 separately covers the date/time battery, so this answer uses the BP-511A installation procedure."
+}

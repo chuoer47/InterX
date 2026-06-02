@@ -1,0 +1,22 @@
+{
+  "id": 407,
+  "question": "What is the proper procedure for cleaning the sensors and charging contacts on a vacuum cleaner?",
+  "content": "Clean the sensors and charging contacts about once per month.\n1. Turn the robot over and wipe the sensors with a clean, dry cloth; the bottom-view figure shows the floor tracking sensor and other sensor areas to clean.<PIC>\n2. Wipe the charging contacts on both the robot and the Home Base with a clean, dry cloth; the contact figure shows both sets of charging contacts.<PIC>\n3. If debris has built up on the robot or Home Base charging contacts, gently remove it with a pad of melamine foam.\n4. Do not spray cleaning solution or water onto the sensors or sensor openings.",
+  "images": [
+    "Manual32_17",
+    "Manual32_18"
+  ],
+  "ret": "\"Clean the sensors and charging contacts about once per month.\\n1. Turn the robot over and wipe the sensors with a clean, dry cloth; the bottom-view figure shows the floor tracking sensor and other sensor areas to clean.<PIC>\\n2. Wipe the charging contacts on both the robot and the Home Base with a clean, dry cloth; the contact figure shows both sets of charging contacts.<PIC>\\n3. If debris has built up on the robot or Home Base charging contacts, gently remove it with a pad of melamine foam.\\n4. Do not spray cleaning solution or water onto the sensors or sensor openings.\",[\"Manual32_17\", \"Manual32_18\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:182",
+    "agentic-rag/en-manual/Roomba i5.md:191",
+    "agentic-rag/en-manual/Roomba i5.md:283",
+    "agentic-rag/en-manual/Roomba i5.md:285",
+    "agentic-rag/en-manual/Roomba i5.md:287",
+    "agentic-rag/en-manual/Roomba i5.md:289",
+    "agentic-rag/en-manual/Roomba i5.md:291"
+  ],
+  "status": "answered",
+  "notes": "Answered from Roomba i5 care and maintenance section. Images are adjacent to the cleaning-sensors-and-contacts procedure and label the sensor/contact locations."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "question": "When in eBook mode of this eReader, what will happen after pressing \"M\" botton?",
+  "content": "In eBook mode, pressing the M button opens the eBook option menu with Page Jump, Save Mark, Load Mark, Del Mark, Browser Mode, Flip Time, Brightness, and Set color.<PIC>",
+  "images": [
+    "eReader_08"
+  ],
+  "ret": "\"In eBook mode, pressing the M button opens the eBook option menu with Page Jump, Save Mark, Load Mark, Del Mark, Browser Mode, Flip Time, Brightness, and Set color.<PIC>\",[\"eReader_08\"]",
+  "manual_guess": "Color E-Reader",
+  "evidence_refs": [
+    "agentic-rag/question.csv:66",
+    "agentic-rag/en-manual/Color E-Reader.md:142",
+    "agentic-rag/en-manual/Color E-Reader.md:152",
+    "agentic-rag/en-manual/Color E-Reader.md:154"
+  ],
+  "status": "answered",
+  "notes": "The raw question recovers the intended quoted M button. The eBook section states that pressing M opens the listed eBook options; eReader_08 shows the same menu."
+}

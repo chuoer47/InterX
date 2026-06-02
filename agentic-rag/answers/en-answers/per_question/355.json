@@ -1,0 +1,15 @@
+{
+  "id": 355,
+  "question": "What can you do if your landline is in searching status?",
+  "content": "1. Make sure the base station has power.\n2. Register the handset to the base station. If you need to do it manually, select [Menu] > [Services] > [Register], press [OK], put the base station into registration mode for 5 seconds, enter the system PIN, then press [OK]. Registration should complete in less than 2 minutes.\n3. Move the handset closer to the base station.",
+  "images": [],
+  "ret": "\"1. Make sure the base station has power.\\n2. Register the handset to the base station. If you need to do it manually, select [Menu] > [Services] > [Register], press [OK], put the base station into registration mode for 5 seconds, enter the system PIN, then press [OK]. Registration should complete in less than 2 minutes.\\n3. Move the handset closer to the base station.\",[]",
+  "manual_guess": "Philips XL490 XL495.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1403-1409",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1261-1269",
+    "agentic-rag/en-manual/Philips XL490 XL495.md:1271-1275"
+  ],
+  "status": "answered",
+  "notes": "No image needed; the FAQ gives the direct searching-status fixes, and the registration section supplies the manual registration details."
+}

@@ -1,0 +1,40 @@
+{
+  "id": 262,
+  "question": "How to flush the cooling system of the boat?",
+  "content": "1. Flush the cooling system after the boat is back on the trailer; proper flushing is not possible while the boat is in the water. Connect the garden hose adapter to a garden hose; the adapter and hose connection are shown here.<PIC>\n2. Loosen and remove the flush hose connector cap, then push and twist the garden hose adapter into the flush hose connector until it is secure; the connector, cap, and adapter are shown here.<PIC>\n3. Connect the garden hose to a water tap.\n4. Make sure the area around the boat is clear, start the engine, and immediately turn the water supply fully on. Water should flow continuously from the jet thrust nozzle and cooling water pilot outlet. Never turn the water on before starting the engine.\n5. Run the engine at a fast idle for 3 to 5 minutes. If the engine stops while flushing, turn the water supply off immediately and restart the procedure from the engine-start step.\n6. Turn off the water supply, then drain residual water from the exhaust system by alternating the remote control lever up to half throttle and back to idle for 10 to 15 seconds.\n7. Stop the engine. Never leave the water on when the engine is not running, and do not run the engine more than 15 seconds after the water is turned off.\n8. Remove the garden hose adapter, then install and securely tighten the flush hose connector cap.",
+  "images": [
+    "Manual09_257",
+    "Manual09_258"
+  ],
+  "ret": "\"1. Flush the cooling system after the boat is back on the trailer; proper flushing is not possible while the boat is in the water. Connect the garden hose adapter to a garden hose; the adapter and hose connection are shown here.<PIC>\\n2. Loosen and remove the flush hose connector cap, then push and twist the garden hose adapter into the flush hose connector until it is secure; the connector, cap, and adapter are shown here.<PIC>\\n3. Connect the garden hose to a water tap.\\n4. Make sure the area around the boat is clear, start the engine, and immediately turn the water supply fully on. Water should flow continuously from the jet thrust nozzle and cooling water pilot outlet. Never turn the water on before starting the engine.\\n5. Run the engine at a fast idle for 3 to 5 minutes. If the engine stops while flushing, turn the water supply off immediately and restart the procedure from the engine-start step.\\n6. Turn off the water supply, then drain residual water from the exhaust system by alternating the remote control lever up to half throttle and back to idle for 10 to 15 seconds.\\n7. Stop the engine. Never leave the water on when the engine is not running, and do not run the engine more than 15 seconds after the water is turned off.\\n8. Remove the garden hose adapter, then install and securely tighten the flush hose connector cap.\",[\"Manual09_257\", \"Manual09_258\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    {
+      "source": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "2061-2063",
+      "note": "Post-operation checks say proper flushing is not possible in the water and to flush after putting the boat on the trailer."
+    },
+    {
+      "source": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "2130-2145",
+      "note": "Cooling system flushing section gives adapter, connector, water tap, engine start, water-on order, flow check, and warning not to turn water on before starting the engine."
+    },
+    {
+      "source": "agentic-rag/en-manual/Yamaha 210FSH 2021.md",
+      "lines": "2147-2154",
+      "note": "Procedure gives fast-idle duration, action if the engine stops, water-off/exhaust drain sequence, engine stop, final adapter removal and cap tightening, plus warnings."
+    },
+    {
+      "source": "agentic-rag/en-manual/插图/Manual09_257.jpg",
+      "lines": "image",
+      "note": "Shows the garden hose adapter and garden hose connection."
+    },
+    {
+      "source": "agentic-rag/en-manual/插图/Manual09_258.jpg",
+      "lines": "image",
+      "note": "Shows the flush hose connector, connector cap, and adapter being pushed and twisted into place."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH 2021 flushing procedure. The two images are included because they identify the adapter-to-hose connection and the flush hose connector/cap/adapter installation."
+}

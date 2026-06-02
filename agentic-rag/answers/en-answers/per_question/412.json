@@ -1,0 +1,16 @@
+{
+  "id": 412,
+  "question": "What are the troubleshooting steps if the vacuum indicates a problem?",
+  "content": "If the Roomba indicates a problem by playing an audio alert and turning the light ring red, press CLEAN to hear details about the issue. For more help, use the iRobot HOME App, which provides additional support and instructional videos. If you are not sure whether the robot is finished or paused, check the app for its current status.",
+  "images": [],
+  "ret": "\"If the Roomba indicates a problem by playing an audio alert and turning the light ring red, press CLEAN to hear details about the issue. For more help, use the iRobot HOME App, which provides additional support and instructional videos. If you are not sure whether the robot is finished or paused, check the app for its current status.\",[]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:133",
+    "agentic-rag/en-manual/Roomba i5.md:135",
+    "agentic-rag/en-manual/Roomba i5.md:137",
+    "agentic-rag/en-manual/Roomba i5.md:139"
+  ],
+  "status": "answered",
+  "notes": "Text-only answer. No figure is required because the troubleshooting section gives the complete action sequence directly."
+}

@@ -1,0 +1,27 @@
+{
+  "id": 436,
+  "question": "What are the steps to charge an electric toothbrush when it is inside a travel case, and how do you ensure it charges properly?",
+  "content": "1. Plug the USB cord into the travel case, then plug the other end into the USB wall adapter.<PIC>\n2. Plug the wall adapter into an electrical outlet.\n3. Place the toothbrush handle into the travel case.<PIC>\n4. Check that charging has started: the toothbrush should beep twice, the lights should illuminate in an upward motion, and the battery indicator should blink white while charging.<PIC>\n5. Leave the travel case plugged in until the toothbrush is fully charged; the battery light turns off when charging is complete. For stability, place the travel case on its side.<PIC>",
+  "images": [
+    "Manual37_18",
+    "Manual37_19",
+    "Manual37_20",
+    "Manual37_21"
+  ],
+  "ret": "\"1. Plug the USB cord into the travel case, then plug the other end into the USB wall adapter.<PIC>\\n2. Plug the wall adapter into an electrical outlet.\\n3. Place the toothbrush handle into the travel case.<PIC>\\n4. Check that charging has started: the toothbrush should beep twice, the lights should illuminate in an upward motion, and the battery indicator should blink white while charging.<PIC>\\n5. Leave the travel case plugged in until the toothbrush is fully charged; the battery light turns off when charging is complete. For stability, place the travel case on its side.<PIC>\",[\"Manual37_18\", \"Manual37_19\", \"Manual37_20\", \"Manual37_21\"]",
+  "manual_guess": "Philips Sonicare Prestige.md",
+  "evidence_refs": [
+    {
+      "manual": "Philips Sonicare Prestige.md",
+      "lines": "392-412",
+      "summary": "Charging with the travel case: connect the USB cord to the travel case and USB wall adapter, plug the adapter into an outlet, place the toothbrush in the travel case, check the start indicators, leave it plugged in until the battery light turns off, and place the case on its side for stability."
+    },
+    {
+      "manual": "Philips Sonicare Prestige.md",
+      "lines": "111-116",
+      "summary": "Parts list identifies the USB-A wall adapter, USB-C cord, charging travel case, and USB-C socket."
+    }
+  ],
+  "status": "answered",
+  "notes": "Images match the four travel-case charging illustrations: USB connection, handle placement in the case, charging indication, and stable side placement. PIC count is 4 and images count is 4."
+}

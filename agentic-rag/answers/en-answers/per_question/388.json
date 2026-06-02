@@ -1,0 +1,27 @@
+{
+  "id": 388,
+  "question": "How can you set pressure cooking lid for a multi-use pressure cooker and air fryer?",
+  "content": "Use only the Instant Pot Duo Crisp pressure cooking lid with the Duo Crisp cooker base. To fit and close it, align the symbol on the lid with the symbol on the cooker base, lower the lid onto the track, then turn the lid clockwise until the lid symbol aligns with the cooker-base symbol.<PIC>\nBefore pressure cooking, make sure the appliance is properly closed and the sealing ring is installed; the sealing ring creates the airtight seal between the lid and the inner pot. For the quick release button, the lid says `Turn to Seal`, but the manual describes this as a flick: do not turn it more than 1/4 turn, or 45 degrees, and let it spring back to its original position.\nAfter pressure cooking, release pressure before opening the lid. Do not try to remove the lid while the float valve is up; wait until the float valve drops.",
+  "images": [
+    "Manual30_13"
+  ],
+  "ret": "\"Use only the Instant Pot Duo Crisp pressure cooking lid with the Duo Crisp cooker base. To fit and close it, align the symbol on the lid with the symbol on the cooker base, lower the lid onto the track, then turn the lid clockwise until the lid symbol aligns with the cooker-base symbol.<PIC>\\nBefore pressure cooking, make sure the appliance is properly closed and the sealing ring is installed; the sealing ring creates the airtight seal between the lid and the inner pot. For the quick release button, the lid says `Turn to Seal`, but the manual describes this as a flick: do not turn it more than 1/4 turn, or 45 degrees, and let it spring back to its original position.\\nAfter pressure cooking, release pressure before opening the lid. Do not try to remove the lid while the float valve is up; wait until the float valve drops.\",[\"Manual30_13\"]",
+  "manual_guess": "Instant Pot Duo Crisp.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:1",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:31",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:32",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:35",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:43",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:157",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:159",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:160",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:162",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:170",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:182",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:200",
+    "agentic-rag/en-manual/Instant Pot Duo Crisp.md:226"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Instant Pot Duo Crisp pressure cooking lid and pressure-control sections. One image is used because the close-lid procedure is directly illustrated by Manual30_13. The content has one <PIC> placeholder and one image ID."
+}

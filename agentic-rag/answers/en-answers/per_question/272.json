@@ -1,0 +1,25 @@
+{
+  "id": 272,
+  "question": "How to open the livewell and add water on the boat?",
+  "content": "Pull the latch to open the livewell lid; the livewell is on the starboard side at the stern.<PIC>\n1. Push the livewell switch to turn on the livewell pump and supply water.<PIC>\n2. When there is enough water in the livewell, push the livewell switch again to turn off the pump.\n3. If needed, push the aerator switch to aerate and circulate the water in the livewell.",
+  "images": [
+    "Manual09_153",
+    "Manual09_155"
+  ],
+  "ret": "\"Pull the latch to open the livewell lid; the livewell is on the starboard side at the stern.<PIC>\\n1. Push the livewell switch to turn on the livewell pump and supply water.<PIC>\\n2. When there is enough water in the livewell, push the livewell switch again to turn off the pump.\\n3. If needed, push the aerator switch to aerate and circulate the water in the livewell.\",[\"Manual09_153\", \"Manual09_155\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1273-1279",
+      "evidence": "Livewell section: location at starboard stern; pull latch to open livewell lid; figure labels livewell lid and latch."
+    },
+    {
+      "manual": "Yamaha 210FSH 2021.md",
+      "lines": "1283-1287",
+      "evidence": "Supply water by pushing the livewell switch to turn on the pump; turn it off when sufficient water is present; use aerator switch if needed; figure labels aerator and livewell switches."
+    }
+  ],
+  "status": "answered",
+  "notes": "Answered from the Livewell section only; no prior generated answer files used."
+}

@@ -1,0 +1,19 @@
+{
+  "id": 276,
+  "question": "When I am ready to sail, if everything is ready, how do I make the boat move forward?",
+  "content": "1. Make sure the engines are running, the area around the boat is clear of swimmers or obstacles, and passengers are seated and holding on.\n2. Move both remote control levers forward together from neutral. The first forward movement shifts the boat into forward/TDE; moving the levers farther forward opens the throttle and increases jet thrust. The lever diagram labels neutral, TDE, forward, shift, throttle, and fully open positions.<PIC>\n3. For cruising, adjust the levers so both engines run at the same engine speed. Keep some throttle available when steering, because the boat needs jet thrust to turn.",
+  "images": [
+    "Manual09_46"
+  ],
+  "ret": "\"1. Make sure the engines are running, the area around the boat is clear of swimmers or obstacles, and passengers are seated and holding on.\\n2. Move both remote control levers forward together from neutral. The first forward movement shifts the boat into forward/TDE; moving the levers farther forward opens the throttle and increases jet thrust. The lever diagram labels neutral, TDE, forward, shift, throttle, and fully open positions.<PIC>\\n3. For cruising, adjust the levers so both engines run at the same engine speed. Keep some throttle available when steering, because the boat needs jet thrust to turn.\",[\"Manual09_46\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:592-615 - Remote control levers section; the levers control throttle and shifting, are moved together, and Manual09_46 labels neutral/TDE/forward/shift/throttle/fully open positions.",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:596-600 - Before shifting, check for swimmers or obstacles; moving the levers forward from neutral shifts into forward, then farther forward accelerates the engines for more thrust.",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:632-648 - In forward, the shift gates lift; when the levers move farther forward, all jet thrust goes to the rear and moves the boat forward.",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1967-1981 - Steering depends on steering-wheel position and throttle; pulling back to idle/neutral reduces steering response.",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1993-1997 - Passengers should be seated and holding on before acceleration."
+  ],
+  "status": "answered",
+  "notes": "Image Manual09_46 is used because it is the labeled remote-control-lever diagram adjacent to the forward/throttle instructions. The answer treats \"ready to sail\" as the stage after pre-operation and engine-start checks."
+}

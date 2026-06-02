@@ -1,0 +1,22 @@
+{
+  "id": 241,
+  "question": "If this is the first time to use airfryer, What should I do before first use?",
+  "content": "1. Remove all packing material.\n2. Remove any stickers or labels from the appliance, if present.\n3. Thoroughly clean the appliance before first use. For cleaning, let the appliance and removable parts cool if they have been heated, then clean the pan and basket in a dishwasher or with hot water, dishwashing liquid, and a non-abrasive sponge. Do not use metal kitchen utensils or abrasive cleaning materials, because they can damage the non-stick coating.",
+  "images": [],
+  "ret": "\"1. Remove all packing material.\\n2. Remove any stickers or labels from the appliance, if present.\\n3. Thoroughly clean the appliance before first use. For cleaning, let the appliance and removable parts cool if they have been heated, then clean the pan and basket in a dishwasher or with hot water, dishwashing liquid, and a non-abrasive sponge. Do not use metal kitchen utensils or abrasive cleaning materials, because they can damage the non-stick coating.\",[]",
+  "manual_guess": "Philips Airfryer.md",
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/en-manual/Philips Airfryer.md",
+      "lines": "115-119",
+      "note": "Before first use steps: remove packing material, remove stickers or labels, and thoroughly clean the appliance before first use."
+    },
+    {
+      "file": "agentic-rag/en-manual/Philips Airfryer.md",
+      "lines": "367-379",
+      "note": "Cleaning chapter warning and initial cleaning procedure: cool parts, avoid metal utensils or abrasive materials, and clean the pan and basket in dishwasher or with hot water, dishwashing liquid, and a non-abrasive sponge."
+    }
+  ],
+  "status": "answered",
+  "notes": "No image is needed; the first-use procedure is fully stated in text and the relevant cleaning details are textual."
+}

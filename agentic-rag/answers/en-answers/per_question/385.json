@@ -1,0 +1,19 @@
+{
+  "id": 385,
+  "question": "How do you know about TPM connector (14-1 pin TPM) for a motherboard?",
+  "content": "The 14-1 pin TPM connector supports a Trusted Platform Module system. It is used with TPM hardware that securely stores keys, digital certificates, passwords, and data, and it helps enhance network security, protect digital identities, and ensure platform integrity. The motherboard manual labels the TPM connector as shown here.<PIC>",
+  "images": [
+    "Manual25_40"
+  ],
+  "ret": "\"The 14-1 pin TPM connector supports a Trusted Platform Module system. It is used with TPM hardware that securely stores keys, digital certificates, passwords, and data, and it helps enhance network security, protect digital identities, and ensure platform integrity. The motherboard manual labels the TPM connector as shown here.<PIC>\",[\"Manual25_40\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    {
+      "manual": "Motherboard.md",
+      "lines": "487-491",
+      "note": "Defines the 14-1 pin TPM connector, explains the TPM system security/storage purposes, and anchors the TPM connector illustration."
+    }
+  ],
+  "status": "answered",
+  "notes": "The answer is grounded in the Internal connectors section. One PIC placeholder is used and maps to the adjacent TPM connector illustration."
+}

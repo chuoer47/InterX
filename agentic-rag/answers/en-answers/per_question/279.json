@@ -1,0 +1,20 @@
+{
+  "id": 279,
+  "question": "How to care the throttle-cable of the boat?",
+  "content": "For throttle-cable care, apply water-resistant grease to the throttle-cable inner wires at the APS pulley wheel. The figure identifies the pulley-wheel area where the inner wires are greased.<PIC>",
+  "images": [
+    "Manual09_263"
+  ],
+  "ret": "\"For throttle-cable care, apply water-resistant grease to the throttle-cable inner wires at the APS pulley wheel. The figure identifies the pulley-wheel area where the inner wires are greased.<PIC>\",[\"Manual09_263\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2216",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2220",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2222",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2224",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:2226",
+    "agentic-rag/en-manual/插图/Manual09_263.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha 210FSH lubrication grease-points section; included the adjacent APS pulley-wheel figure because it identifies the greasing location."
+}

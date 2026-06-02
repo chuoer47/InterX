@@ -1,0 +1,20 @@
+{
+  "id": 404,
+  "question": "What is the correct procedure for cleaning the vacuum cleaner filter?",
+  "content": "Clean the Roomba i5 filter once per week, or twice per week in homes with pets.\n1. Remove the bin, then remove the filter by grasping both ends and pulling it out; the filter sits inside the bin under the bin door.<PIC>\n2. Remove debris by tapping the filter against a rubbish bin.<PIC>\n3. Reinsert the filter with the ridged grips facing out, then place the bin back in the robot.\nImportant: Do not wash the filter. Remove it before washing the bin. The robot will not run if the filter is not installed correctly, and the filter should be replaced every two months.",
+  "images": [
+    "Manual32_10",
+    "Manual32_11"
+  ],
+  "ret": "\"Clean the Roomba i5 filter once per week, or twice per week in homes with pets.\\n1. Remove the bin, then remove the filter by grasping both ends and pulling it out; the filter sits inside the bin under the bin door.<PIC>\\n2. Remove debris by tapping the filter against a rubbish bin.<PIC>\\n3. Reinsert the filter with the ridged grips facing out, then place the bin back in the robot.\\nImportant: Do not wash the filter. Remove it before washing the bin. The robot will not run if the filter is not installed correctly, and the filter should be replaced every two months.\",[\"Manual32_10\", \"Manual32_11\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:178-190",
+    "agentic-rag/en-manual/Roomba i5.md:206-218",
+    "agentic-rag/en-manual/Roomba i5.md:234-240",
+    "agentic-rag/en-manual/插图/Manual32_10.jpg",
+    "agentic-rag/en-manual/插图/Manual32_11.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from Roomba i5 care and maintenance filter-cleaning procedure. The two images show removing the filter from the bin and tapping debris into a rubbish bin."
+}

@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.pyo
+.DS_Store
+
+# symlink 源（指向 InterX/data/）
+ch-manual/
+en-manual/
+ch-manual
+en-manual

@@ -1,0 +1,19 @@
+{
+  "id": 255,
+  "question": "When I am sailing, how do I check the engine oil level to ensure continued sailing?",
+  "content": "On the water, moor the boat so it will not drift before checking the oil. If a Low Oil Pressure warning appears, reduce engine speed and return to shore or maneuver to a safe location before checking.\n1. With the engine stopped, place the boat precisely level on land or launch/moor it on the water. Look in all directions, start the engine, and run it at idle for 6 minutes or more; run it 5 additional minutes if the ambient temperature is 20 C (68 F) or less. Then stop the engine.\n2. Open the engine hood, loosen and remove the oil tank filler cap/dipstick, then wipe the dipstick clean. The filler cap/dipstick is the cap identified in the engine compartment.<PIC>\n3. Screw the filler cap into the filler hole until it stops, remove it again, and confirm that the oil level is between the minimum and maximum marks on the dipstick.<PIC>\n4. If the oil is significantly above the maximum mark, consult a Boat Dealer. If it is below the minimum mark, slowly add engine oil, then repeat the wipe/check/add process until the level is correct.\n5. Securely reinstall the oil tank filler cap, repeat the check for the other engine, and close the engine hood.\nEngine oil is extremely hot immediately after the engines are turned off, so avoid contact. Do not run the engine with too much or too little oil, and keep debris and water out of the filler hole. If the oil level is sufficient but a Low Oil Pressure warning remains, have a Boat Dealer check the engine.",
+  "images": [
+    "Manual09_196",
+    "Manual09_197"
+  ],
+  "ret": "\"On the water, moor the boat so it will not drift before checking the oil. If a Low Oil Pressure warning appears, reduce engine speed and return to shore or maneuver to a safe location before checking.\\n1. With the engine stopped, place the boat precisely level on land or launch/moor it on the water. Look in all directions, start the engine, and run it at idle for 6 minutes or more; run it 5 additional minutes if the ambient temperature is 20 C (68 F) or less. Then stop the engine.\\n2. Open the engine hood, loosen and remove the oil tank filler cap/dipstick, then wipe the dipstick clean. The filler cap/dipstick is the cap identified in the engine compartment.<PIC>\\n3. Screw the filler cap into the filler hole until it stops, remove it again, and confirm that the oil level is between the minimum and maximum marks on the dipstick.<PIC>\\n4. If the oil is significantly above the maximum mark, consult a Boat Dealer. If it is below the minimum mark, slowly add engine oil, then repeat the wipe/check/add process until the level is correct.\\n5. Securely reinstall the oil tank filler cap, repeat the check for the other engine, and close the engine hood.\\nEngine oil is extremely hot immediately after the engines are turned off, so avoid contact. Do not run the engine with too much or too little oil, and keep debris and water out of the filler hole. If the oil level is sufficient but a Low Oil Pressure warning remains, have a Boat Dealer check the engine.\",[\"Manual09_196\", \"Manual09_197\"]",
+  "manual_guess": "Yamaha 210FSH 2021.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:873-875",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1569",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1575-1585",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:1587-1597"
+  ],
+  "status": "answered",
+  "notes": "Used Yamaha 210FSH oil-warning and engine-oil checking sections. Images show the oil tank filler cap/dipstick and the dipstick minimum/maximum marks."
+}

@@ -1,0 +1,23 @@
+{
+  "id": 403,
+  "question": "What is the proper procedure for emptying the vacuum cleaner's bin?",
+  "content": "Empty the bin after each use.\n1. Press the bin release button and remove the bin from the robot; the bin slides out from the rear of the robot.<PIC>\n2. Open the bin door to empty the contents.<PIC>\n3. Place the bin back in the robot.",
+  "images": [
+    "Manual32_8",
+    "Manual32_9"
+  ],
+  "ret": "\"Empty the bin after each use.\\n1. Press the bin release button and remove the bin from the robot; the bin slides out from the rear of the robot.<PIC>\\n2. Open the bin door to empty the contents.<PIC>\\n3. Place the bin back in the robot.\",[\"Manual32_8\", \"Manual32_9\"]",
+  "manual_guess": "Roomba i5.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Roomba i5.md:186",
+    "agentic-rag/en-manual/Roomba i5.md:188",
+    "agentic-rag/en-manual/Roomba i5.md:194",
+    "agentic-rag/en-manual/Roomba i5.md:196",
+    "agentic-rag/en-manual/Roomba i5.md:198",
+    "agentic-rag/en-manual/Roomba i5.md:200",
+    "agentic-rag/en-manual/Roomba i5.md:202",
+    "agentic-rag/en-manual/Roomba i5.md:204"
+  ],
+  "status": "answered",
+  "notes": "Roomba i5 care table says the bin should be cared for after each use. The Emptying the Bin section gives the three-step procedure and includes adjacent illustrations for removing the bin and opening the bin door."
+}

@@ -1,0 +1,25 @@
+{
+  "id": 195,
+  "question": "设备或系统中构成处理器单元的关键组件或部件有哪些？",
+  "content": "在PlayStation VR的说明中，处理器单元正面的关键组成包括状态指示灯、AUX端口和HDMI输出端口；背面的关键组成包括HDMI电视端口、HDMI PS4端口、USB端口、DC IN 12V接口以及通风口。<PIC>处理器单元正面部件图<PIC>处理器单元背面部件图",
+  "images": [
+    "Manual38_1",
+    "Manual38_2"
+  ],
+  "ret": "\"在PlayStation VR的说明中，处理器单元正面的关键组成包括状态指示灯、AUX端口和HDMI输出端口；背面的关键组成包括HDMI电视端口、HDMI PS4端口、USB端口、DC IN 12V接口以及通风口。<PIC>处理器单元正面部件图<PIC>处理器单元背面部件图\",[\"Manual38_1\", \"Manual38_2\"]",
+  "manual_guess": 1,
+  "evidence_refs": [
+    {
+      "file": "agentic-rag/ch-manual/VR头显手册.md",
+      "lines": "171-183",
+      "text": "处理器单元正面包括状态指示灯、AUX端口、HDMI输出端口，背面包括HDMI电视端口、HDMI PS4端口、USB端口、DC IN 12V接口和通风口。"
+    },
+    {
+      "file": "agentic-rag/ch-manual/VR头显手册.md",
+      "lines": "233-238",
+      "text": "处理器单元规格中列出输入/输出包括HDMI TV端口、HDMI PS4端口、USB端口、HDMI输出端口和AUX端口。"
+    }
+  ],
+  "status": "answered",
+  "notes": "答案仅基于VR头显手册中的处理器单元章节和规格表；未扩展到主机、摄像头或VR头显本体部件。"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 273,
+  "question": "What is the maintenance setting screen of the boat controller?",
+  "content": "The maintenance setting screen on the boat's multi-function display shows the time since the last maintenance for each engine. It displays separate running-hour totals for the port engine and the starboard engine.<PIC>\nAfter maintenance is performed, tap the Reset button to reset the number of hours of operation.<PIC>\nWhen the confirmation message appears, tap YES to reset the hours. Tap NO if you want to return to the maintenance setting screen without resetting.<PIC>",
+  "images": [
+    "Manual09_83",
+    "Manual09_84",
+    "Manual09_85"
+  ],
+  "ret": "\"The maintenance setting screen on the boat's multi-function display shows the time since the last maintenance for each engine. It displays separate running-hour totals for the port engine and the starboard engine.<PIC>\\nAfter maintenance is performed, tap the Reset button to reset the number of hours of operation.<PIC>\\nWhen the confirmation message appears, tap YES to reset the hours. Tap NO if you want to return to the maintenance setting screen without resetting.<PIC>\",[\"Manual09_83\", \"Manual09_84\", \"Manual09_85\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:747-753",
+    "agentic-rag/en-manual/Yamaha 210FSH 2021.md:803-821",
+    "agentic-rag/en-manual/插图/Manual09_83.jpg",
+    "agentic-rag/en-manual/插图/Manual09_84.jpg",
+    "agentic-rag/en-manual/插图/Manual09_85.jpg"
+  ],
+  "status": "answered",
+  "notes": "The manual identifies the maintenance setting screen under the multi-function display settings. It shows engine hours since last maintenance and documents Reset, YES, and NO behavior."
+}

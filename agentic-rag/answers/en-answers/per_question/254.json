@@ -1,0 +1,18 @@
+{
+  "id": 254,
+  "question": "How to store the bimini top in the upright position of the boat?",
+  "content": "To store the bimini top in the upright position:\n1. Remove the lock pins, then push the center poles down; the center pole and lock pin are shown here.<PIC>\n2. Pull the bimini top toward the bow; the next figure shows the top pulled toward the bow.<PIC>\n3. Install the storage cover.\nDo not trailer the boat with the bimini top fully extended or in the upright storage position. Put it in the fully collapsed position before trailering to avoid damage.",
+  "images": [
+    "Manual09_189",
+    "Manual09_190"
+  ],
+  "ret": "\"To store the bimini top in the upright position:\\n1. Remove the lock pins, then push the center poles down; the center pole and lock pin are shown here.<PIC>\\n2. Pull the bimini top toward the bow; the next figure shows the top pulled toward the bow.<PIC>\\n3. Install the storage cover.\\nDo not trailer the boat with the bimini top fully extended or in the upright storage position. Put it in the fully collapsed position before trailering to avoid damage.\",[\"Manual09_189\", \"Manual09_190\"]",
+  "manual_guess": "Yamaha 210FSH 2021",
+  "evidence_refs": [
+    "Yamaha 210FSH 2021.md:1489-1503",
+    "Yamaha 210FSH 2021.md:1495-1499 (Manual09_189)",
+    "Yamaha 210FSH 2021.md:1499-1503 (Manual09_190)"
+  ],
+  "status": "done",
+  "notes": "Uses the Yamaha 210FSH 2021 upright-storage procedure and its trailer warning."
+}

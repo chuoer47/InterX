@@ -1,0 +1,22 @@
+{
+  "id": 304,
+  "question": "What do the functions of Main Menu and Browser History of the eReader can do?",
+  "content": "Main Menu shows all device features, including Browser History, e Book, Music, Video, Photo, Record, Explorer, and Settings; select the desired function and enter it.<PIC>\nBrowser History displays recently browsed files. Use the Navigation keys to select a book and press M to open it at the last page you read. If a recently read Micro SD file is deleted, its record remains in Browser History but it cannot be opened.<PIC>",
+  "images": [
+    "Manual13_3",
+    "Manual13_4"
+  ],
+  "ret": "\"Main Menu shows all device features, including Browser History, e Book, Music, Video, Photo, Record, Explorer, and Settings; select the desired function and enter it.<PIC>\\nBrowser History displays recently browsed files. Use the Navigation keys to select a book and press M to open it at the last page you read. If a recently read Micro SD file is deleted, its record remains in Browser History but it cannot be opened.<PIC>\",[\"Manual13_3\", \"Manual13_4\"]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color E-Reader.md:128",
+    "agentic-rag/en-manual/Color E-Reader.md:130",
+    "agentic-rag/en-manual/Color E-Reader.md:132",
+    "agentic-rag/en-manual/Color E-Reader.md:134",
+    "agentic-rag/en-manual/Color E-Reader.md:136",
+    "agentic-rag/en-manual/Color E-Reader.md:138",
+    "agentic-rag/en-manual/Color E-Reader.md:140"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Color E-Reader Main Menu and Browser History sections. Images are adjacent UI illustrations for the two explained functions."
+}

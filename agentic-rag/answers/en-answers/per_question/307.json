@@ -1,0 +1,19 @@
+{
+  "id": 307,
+  "question": "Can this eReader record voice? If so, how do I operate this feature?",
+  "content": "Yes. The eReader has a Voice Recording function.\n1. From the main menu, select \"Record\" and press \"M\" to enter voice record mode. The Record screen shows the microphone, timer, red record button, and current recording filename.<PIC>\n2. Press \"Play/Pause\" to start recording.\n3. Press \"Play/Pause\" again to pause recording.\n4. Press \"HOME\" to stop recording.\n5. When the \"save record file?\" prompt appears, choose \"YES\" or \"NO\" with the \"M\" key.<PIC>\n6. To play a recording, go to the main menu, select \"Music\", press \"M\", select \"Record\", press \"M\" to open the recorded-file list, select the desired recorded file, then press \"M\" to start playback.",
+  "images": [
+    "Manual13_11",
+    "Manual13_12"
+  ],
+  "ret": "\"Yes. The eReader has a Voice Recording function.\\n1. From the main menu, select \\\"Record\\\" and press \\\"M\\\" to enter voice record mode. The Record screen shows the microphone, timer, red record button, and current recording filename.<PIC>\\n2. Press \\\"Play/Pause\\\" to start recording.\\n3. Press \\\"Play/Pause\\\" again to pause recording.\\n4. Press \\\"HOME\\\" to stop recording.\\n5. When the \\\"save record file?\\\" prompt appears, choose \\\"YES\\\" or \\\"NO\\\" with the \\\"M\\\" key.<PIC>\\n6. To play a recording, go to the main menu, select \\\"Music\\\", press \\\"M\\\", select \\\"Record\\\", press \\\"M\\\" to open the recorded-file list, select the desired recorded file, then press \\\"M\\\" to start playback.\",[\"Manual13_11\", \"Manual13_12\"]",
+  "manual_guess": "Color E-Reader.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Color E-Reader.md:44",
+    "agentic-rag/en-manual/Color E-Reader.md:64",
+    "agentic-rag/en-manual/Color E-Reader.md:128",
+    "agentic-rag/en-manual/Color E-Reader.md:232"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Color E-Reader Voice Recording section and adjacent record-mode/save-prompt figures. No old submissions or generated answer files were read."
+}

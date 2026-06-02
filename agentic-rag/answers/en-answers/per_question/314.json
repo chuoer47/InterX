@@ -1,0 +1,23 @@
+{
+  "id": 314,
+  "question": "I'm about to move this fax. Is there anything I should pay attention to?",
+  "content": "Yes. Before changing the setup, unplug the power cord and disconnect all cables from the wall outlets. For the fax line, use only a No. 26 AWG or larger telecommunication line cord; never touch uninsulated telephone wires or terminals unless the telephone line is unplugged from the wall jack, and do not install telephone wiring during a thunderstorm or in a wet or wet-prone location.\n1. Keep the product level. Do not place it on a tilted or slanted surface, and do not tip it after ink cartridges are installed because ink can spill and damage the inside.\n2. After moving it, place it on a flat, level, stable surface near a telephone wall jack and an accessible AC outlet. Secure cords so they are not a trip hazard, keep the outlet accessible, and do not block printed pages or received faxes.\n3. For MFC-J5955DW/MFC-J6540DW/MFC-J6555DW/MFC-J6740DW/MFC-J6940DW/MFC-J6955DW, lift with at least two people: one at the front and one at the back, with hands in the side handhold indentations. Watch your fingers when setting it down.<PIC>\n4. Do not carry the product by the forbidden areas shown, or it can slip out of your hands and cause injury.<PIC>\n5. For MFC-J5340DW/MFC-J5855DW, carry it with your hands in the side handhold indentations.<PIC>\n6. If trays have been expanded for large paper, remove them before carrying; the paper weight can make the trays fall and injure someone.<PIC>",
+  "images": [
+    "fax_08",
+    "Manual15_10",
+    "Manual15_11",
+    "Manual15_12"
+  ],
+  "ret": "\"Yes. Before changing the setup, unplug the power cord and disconnect all cables from the wall outlets. For the fax line, use only a No. 26 AWG or larger telecommunication line cord; never touch uninsulated telephone wires or terminals unless the telephone line is unplugged from the wall jack, and do not install telephone wiring during a thunderstorm or in a wet or wet-prone location.\\n1. Keep the product level. Do not place it on a tilted or slanted surface, and do not tip it after ink cartridges are installed because ink can spill and damage the inside.\\n2. After moving it, place it on a flat, level, stable surface near a telephone wall jack and an accessible AC outlet. Secure cords so they are not a trip hazard, keep the outlet accessible, and do not block printed pages or received faxes.\\n3. For MFC-J5955DW/MFC-J6540DW/MFC-J6555DW/MFC-J6740DW/MFC-J6940DW/MFC-J6955DW, lift with at least two people: one at the front and one at the back, with hands in the side handhold indentations. Watch your fingers when setting it down.<PIC>\\n4. Do not carry the product by the forbidden areas shown, or it can slip out of your hands and cause injury.<PIC>\\n5. For MFC-J5340DW/MFC-J5855DW, carry it with your hands in the side handhold indentations.<PIC>\\n6. If trays have been expanded for large paper, remove them before carrying; the paper weight can make the trays fall and injure someone.<PIC>\",[\"fax_08\", \"Manual15_10\", \"Manual15_11\", \"Manual15_12\"]",
+  "manual_guess": "Brother Safety Guide.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Brother Safety Guide.md:77",
+    "agentic-rag/en-manual/Brother Safety Guide.md:83-89",
+    "agentic-rag/en-manual/Brother Safety Guide.md:137",
+    "agentic-rag/en-manual/Brother Safety Guide.md:181-185",
+    "agentic-rag/en-manual/Brother Safety Guide.md:189-193",
+    "agentic-rag/en-manual/Brother Safety Guide.md:273-277"
+  ],
+  "status": "answered",
+  "notes": "Answered from Brother Safety Guide safety, placement, telephone-line, and carrying instructions. Images are included only where the manual text uses the adjacent figure to identify lift or carry positions."
+}

@@ -1,0 +1,26 @@
+{
+  "id": 372,
+  "question": "How can you replace the charcoal filter of a over-the-range microwave?",
+  "content": "If the oven is vented inside, replace the charcoal filter every 6 to 12 months, or more often if needed; it cannot be cleaned.\n1. Unplug the oven or turn off power at the main power supply.\n2. Remove the two middle vent-grill mounting screws.<PIC>\n3. Tip the grill forward, lift it out, and remove the old charcoal filter from behind the grill opening.<PIC>\n4. Slide the new charcoal filter into place so it rests at the shown angle.<PIC>\n5. Slide the bottom of the grill into place, push the top until it snaps into place, replace the mounting screws, turn power back on at the main power supply, and set the clock.",
+  "images": [
+    "Manual24_50",
+    "Manual24_51",
+    "Manual24_52"
+  ],
+  "ret": "\"If the oven is vented inside, replace the charcoal filter every 6 to 12 months, or more often if needed; it cannot be cleaned.\\n1. Unplug the oven or turn off power at the main power supply.\\n2. Remove the two middle vent-grill mounting screws.<PIC>\\n3. Tip the grill forward, lift it out, and remove the old charcoal filter from behind the grill opening.<PIC>\\n4. Slide the new charcoal filter into place so it rests at the shown angle.<PIC>\\n5. Slide the bottom of the grill into place, push the top until it snaps into place, replace the mounting screws, turn power back on at the main power supply, and set the clock.\",[\"Manual24_50\", \"Manual24_51\", \"Manual24_52\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    {
+      "manual": "agentic-rag/en-manual/Bosch Microwave.md",
+      "lines": "962-982",
+      "note": "Charcoal filter replacement interval, cannot-clean statement, power-off step, vent-grill screw removal, grill removal, old-filter removal, new-filter placement angle, and final reassembly/power/clock steps."
+    },
+    {
+      "manual": "agentic-rag/en-manual/Bosch Microwave.md",
+      "lines": "970, 976, 980",
+      "note": "Adjacent figures for screw removal, old-filter access, and new-filter angle."
+    }
+  ],
+  "status": "answered",
+  "notes": "Image count matches three <PIC> placeholders. Image IDs verified in agentic-rag/en-manual/插图."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agentic RAG Manual QA"
+  short_description: "Answer agentic-rag English manual questions"
+  default_prompt: "Use $answer-agentic-rag to answer the next agentic-rag English manual question in v2 format."

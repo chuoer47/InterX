@@ -1,0 +1,21 @@
+{
+  "id": 386,
+  "question": "How do you know about Thermal sensor connector (2-pin T_SENSOR) of a motherboard?",
+  "content": "The 2-pin T_SENSOR connector is for a thermistor cable. Connect the separately purchased thermistor cable to T_SENSOR1; the connector pins are GND and SENSOR IN.<PIC>\nIt lets the motherboard monitor the temperature of critical motherboard components and connected devices. In BIOS, the Monitor menu can display T_Sensor Temperature, and T_Sensor can be selected as the temperature source for Chassis Fan 1/2/3 or Extension Fan 1/2/3 Q-Fan Source when those Q-Fan controls are enabled.",
+  "images": [
+    "Manual25_43"
+  ],
+  "ret": "\"The 2-pin T_SENSOR connector is for a thermistor cable. Connect the separately purchased thermistor cable to T_SENSOR1; the connector pins are GND and SENSOR IN.<PIC>\\nIt lets the motherboard monitor the temperature of critical motherboard components and connected devices. In BIOS, the Monitor menu can display T_Sensor Temperature, and T_Sensor can be selected as the temperature source for Chassis Fan 1/2/3 or Extension Fan 1/2/3 Q-Fan Source when those Q-Fan controls are enabled.\",[\"Manual25_43\"]",
+  "manual_guess": "Motherboard.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Motherboard.md:533",
+    "agentic-rag/en-manual/Motherboard.md:535",
+    "agentic-rag/en-manual/Motherboard.md:537",
+    "agentic-rag/en-manual/Motherboard.md:1699",
+    "agentic-rag/en-manual/Motherboard.md:1751",
+    "agentic-rag/en-manual/Motherboard.md:1787",
+    "agentic-rag/en-manual/插图/Manual25_43.jpg"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Motherboard manual section for the 2-pin T_SENSOR connector, with one figure used for the connector location, label, pin names, and separately purchased thermistor cable note."
+}

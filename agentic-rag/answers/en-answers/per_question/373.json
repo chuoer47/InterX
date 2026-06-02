@@ -1,0 +1,21 @@
+{
+  "id": 373,
+  "question": "How can you replace the oven light of a over-the-range microwave?",
+  "content": "1. Unplug the microwave or turn off power at the main power supply. Wear gloves when replacing the light bulb.\n2. Remove the two middle vent cover mounting screws, then tip the vent cover forward and lift it out to remove it.<PIC>\n3. Remove the bulb holder, then lift the bulb holder up to access the oven light.<PIC>\n4. Replace the bulb with a 30 or 40 watt appliance bulb.<PIC>\n5. Reinstall the bulb holder. Slide the bottom of the vent cover into place, push the top until it snaps into place, replace the mounting screws, then turn the power back on or plug the oven in.",
+  "images": [
+    "Manual24_54",
+    "Manual24_55",
+    "Manual24_56"
+  ],
+  "ret": "\"1. Unplug the microwave or turn off power at the main power supply. Wear gloves when replacing the light bulb.\\n2. Remove the two middle vent cover mounting screws, then tip the vent cover forward and lift it out to remove it.<PIC>\\n3. Remove the bulb holder, then lift the bulb holder up to access the oven light.<PIC>\\n4. Replace the bulb with a 30 or 40 watt appliance bulb.<PIC>\\n5. Reinstall the bulb holder. Slide the bottom of the vent cover into place, push the top until it snaps into place, replace the mounting screws, then turn the power back on or plug the oven in.\",[\"Manual24_54\", \"Manual24_55\", \"Manual24_56\"]",
+  "manual_guess": "Bosch Microwave.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Bosch Microwave.md:998-1000",
+    "agentic-rag/en-manual/Bosch Microwave.md:1002-1024",
+    "agentic-rag/en-manual/Bosch Microwave.md:1010",
+    "agentic-rag/en-manual/Bosch Microwave.md:1014",
+    "agentic-rag/en-manual/Bosch Microwave.md:1018"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Bosch over-the-range microwave Oven Light Replacement section. Three images are used because the manual places figures next to vent cover removal, bulb holder removal, and lifting the bulb holder."
+}

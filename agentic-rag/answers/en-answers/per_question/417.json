@@ -1,0 +1,31 @@
+{
+  "id": 417,
+  "question": "What are the detailed steps to start the engine of a snowmobile?",
+  "content": "Before starting, review the safety information, perform the pre-operation checks, confirm the throttle, steering, and brake work properly, apply the parking brake, make sure no one is standing behind the machine, and pull the engine stop switch to the ON position.\n1. For a cold engine, fully open the starter lever (choke). For a warm engine, do not use the choke; leave the starter lever in the Close position.\n2. On a manual-start model, turn the main switch to ON, pull the recoil starter slowly until it engages, then pull it briskly.<PIC>\n3. On an electric-start model, turn the main switch to START. Release the switch immediately after the engine starts; if it does not start, release the switch, wait a few seconds, and try again. Keep each attempt short and do not crank for more than 10 seconds at a time.<PIC>\n4. After the engine starts, warm it up. On electric-start models, first put the starter lever in the Half-open position, then continue warming the engine until it runs smoothly and does not stall when the starter lever is returned to Close.\n5. Do not run the machine with the parking brake applied after starting, because this can overheat the brake disc and reduce braking ability.",
+  "images": [
+    "Manual34_116",
+    "Manual34_117"
+  ],
+  "ret": "\"Before starting, review the safety information, perform the pre-operation checks, confirm the throttle, steering, and brake work properly, apply the parking brake, make sure no one is standing behind the machine, and pull the engine stop switch to the ON position.\\n1. For a cold engine, fully open the starter lever (choke). For a warm engine, do not use the choke; leave the starter lever in the Close position.\\n2. On a manual-start model, turn the main switch to ON, pull the recoil starter slowly until it engages, then pull it briskly.<PIC>\\n3. On an electric-start model, turn the main switch to START. Release the switch immediately after the engine starts; if it does not start, release the switch, wait a few seconds, and try again. Keep each attempt short and do not crank for more than 10 seconds at a time.<PIC>\\n4. After the engine starts, warm it up. On electric-start models, first put the starter lever in the Half-open position, then continue warming the engine until it runs smoothly and does not stall when the starter lever is returned to Close.\\n5. Do not run the machine with the parking brake applied after starting, because this can overheat the brake disc and reduce braking ability.\",[\"Manual34_116\", \"Manual34_117\"]",
+  "manual_guess": "Yamaha Snowmobile.md",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:266",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:268",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:270",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:438",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:951",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:955",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:957",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:958",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:960",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:964",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:968",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:970",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:973",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:977",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:979",
+    "agentic-rag/en-manual/Yamaha Snowmobile.md:983"
+  ],
+  "status": "answered",
+  "notes": "Answered from the Yamaha Snowmobile STARTING THE ENGINE section and directly related safety/control sections. Images are the manual-start recoil-pull illustration and the electric-start START-key illustration."
+}

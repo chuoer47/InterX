@@ -1,0 +1,24 @@
+{
+  "id": 359,
+  "question": "How can you adjust the rear-shock assemblies for a lawn mower with suspension system only?",
+  "content": "On machines with the suspension system, adjust the two rear-shock assemblies to set ride comfort. The slot guide marks position 1 as firmest, position 2 as softest, and the detents as reference points only; the assemblies can be set anywhere in the slots.<PIC>\n1. Unlock the rear-shock assembly latch.\n2. Slide the assembly in its slot to the desired ride position.\n3. Adjust the left and right rear-shock assemblies to the same position.\n4. Lock the latch after setting the position; the adjustment graphic shows the correct matched and locked arrangement.<PIC>",
+  "images": [
+    "Manual23_37",
+    "Manual23_38"
+  ],
+  "ret": "\"On machines with the suspension system, adjust the two rear-shock assemblies to set ride comfort. The slot guide marks position 1 as firmest, position 2 as softest, and the detents as reference points only; the assemblies can be set anywhere in the slots.<PIC>\\n1. Unlock the rear-shock assembly latch.\\n2. Slide the assembly in its slot to the desired ride position.\\n3. Adjust the left and right rear-shock assemblies to the same position.\\n4. Lock the latch after setting the position; the adjustment graphic shows the correct matched and locked arrangement.<PIC>\",[\"Manual23_37\", \"Manual23_38\"]",
+  "manual_guess": "Toro Z Master 4000",
+  "evidence_refs": [
+    "agentic-rag/en-manual/Toro Z Master 4000.md:645",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:649",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:651",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:653",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:657",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:659",
+    "agentic-rag/en-manual/Toro Z Master 4000.md:661",
+    "agentic-rag/en-manual/插图/Manual23_37.jpg",
+    "agentic-rag/en-manual/插图/Manual23_38.jpg"
+  ],
+  "status": "answered",
+  "notes": "Grounded in the Toro Z Master 4000 suspension-only rear-shock adjustment section and its adjacent figures. Images show the soft/firm detent reference positions and the latch/slot adjustment sequence."
+}
