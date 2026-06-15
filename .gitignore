@@ -26,7 +26,6 @@ data/ch-manual/插图/
 data/en-manual/插图/
 
 # Build artifacts
-build-artifacts.tar.gz
 
 # Deprecated packages
 batch/
